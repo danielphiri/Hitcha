@@ -1,0 +1,556 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		946570DD1E9C1D7300B11444 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570DC1E9C1D7300B11444 /* AppDelegate.swift */; };
+		946570DF1E9C1D7300B11444 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570DE1E9C1D7300B11444 /* ViewController.swift */; };
+		946570E21E9C1D7300B11444 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 946570E01E9C1D7300B11444 /* Main.storyboard */; };
+		946570E51E9C1D7300B11444 /* Hitcha.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 946570E31E9C1D7300B11444 /* Hitcha.xcdatamodeld */; };
+		946570E71E9C1D7300B11444 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 946570E61E9C1D7300B11444 /* Assets.xcassets */; };
+		946570EA1E9C1D7300B11444 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 946570E81E9C1D7300B11444 /* LaunchScreen.storyboard */; };
+		946570F51E9C1D7300B11444 /* HitchaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570F41E9C1D7300B11444 /* HitchaTests.swift */; };
+		946571001E9C1D7300B11444 /* HitchaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570FF1E9C1D7300B11444 /* HitchaUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		946570F11E9C1D7300B11444 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 946570D11E9C1D7300B11444 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 946570D81E9C1D7300B11444;
+			remoteInfo = Hitcha;
+		};
+		946570FC1E9C1D7300B11444 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 946570D11E9C1D7300B11444 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 946570D81E9C1D7300B11444;
+			remoteInfo = Hitcha;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		946570D91E9C1D7300B11444 /* Hitcha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hitcha.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		946570DC1E9C1D7300B11444 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		946570DE1E9C1D7300B11444 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		946570E11E9C1D7300B11444 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		946570E41E9C1D7300B11444 /* Hitcha.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Hitcha.xcdatamodel; sourceTree = "<group>"; };
+		946570E61E9C1D7300B11444 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		946570E91E9C1D7300B11444 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		946570EB1E9C1D7300B11444 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		946570F01E9C1D7300B11444 /* HitchaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HitchaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		946570F41E9C1D7300B11444 /* HitchaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitchaTests.swift; sourceTree = "<group>"; };
+		946570F61E9C1D7300B11444 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		946570FB1E9C1D7300B11444 /* HitchaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HitchaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		946570FF1E9C1D7300B11444 /* HitchaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitchaUITests.swift; sourceTree = "<group>"; };
+		946571011E9C1D7300B11444 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		946570D61E9C1D7300B11444 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		946570ED1E9C1D7300B11444 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		946570F81E9C1D7300B11444 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		946570D01E9C1D7300B11444 = {
+			isa = PBXGroup;
+			children = (
+				946570DB1E9C1D7300B11444 /* Hitcha */,
+				946570F31E9C1D7300B11444 /* HitchaTests */,
+				946570FE1E9C1D7300B11444 /* HitchaUITests */,
+				946570DA1E9C1D7300B11444 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		946570DA1E9C1D7300B11444 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				946570D91E9C1D7300B11444 /* Hitcha.app */,
+				946570F01E9C1D7300B11444 /* HitchaTests.xctest */,
+				946570FB1E9C1D7300B11444 /* HitchaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		946570DB1E9C1D7300B11444 /* Hitcha */ = {
+			isa = PBXGroup;
+			children = (
+				946570DC1E9C1D7300B11444 /* AppDelegate.swift */,
+				946570DE1E9C1D7300B11444 /* ViewController.swift */,
+				946570E01E9C1D7300B11444 /* Main.storyboard */,
+				946570E61E9C1D7300B11444 /* Assets.xcassets */,
+				946570E81E9C1D7300B11444 /* LaunchScreen.storyboard */,
+				946570EB1E9C1D7300B11444 /* Info.plist */,
+				946570E31E9C1D7300B11444 /* Hitcha.xcdatamodeld */,
+			);
+			path = Hitcha;
+			sourceTree = "<group>";
+		};
+		946570F31E9C1D7300B11444 /* HitchaTests */ = {
+			isa = PBXGroup;
+			children = (
+				946570F41E9C1D7300B11444 /* HitchaTests.swift */,
+				946570F61E9C1D7300B11444 /* Info.plist */,
+			);
+			path = HitchaTests;
+			sourceTree = "<group>";
+		};
+		946570FE1E9C1D7300B11444 /* HitchaUITests */ = {
+			isa = PBXGroup;
+			children = (
+				946570FF1E9C1D7300B11444 /* HitchaUITests.swift */,
+				946571011E9C1D7300B11444 /* Info.plist */,
+			);
+			path = HitchaUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		946570D81E9C1D7300B11444 /* Hitcha */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 946571041E9C1D7300B11444 /* Build configuration list for PBXNativeTarget "Hitcha" */;
+			buildPhases = (
+				946570D51E9C1D7300B11444 /* Sources */,
+				946570D61E9C1D7300B11444 /* Frameworks */,
+				946570D71E9C1D7300B11444 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Hitcha;
+			productName = Hitcha;
+			productReference = 946570D91E9C1D7300B11444 /* Hitcha.app */;
+			productType = "com.apple.product-type.application";
+		};
+		946570EF1E9C1D7300B11444 /* HitchaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 946571071E9C1D7300B11444 /* Build configuration list for PBXNativeTarget "HitchaTests" */;
+			buildPhases = (
+				946570EC1E9C1D7300B11444 /* Sources */,
+				946570ED1E9C1D7300B11444 /* Frameworks */,
+				946570EE1E9C1D7300B11444 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				946570F21E9C1D7300B11444 /* PBXTargetDependency */,
+			);
+			name = HitchaTests;
+			productName = HitchaTests;
+			productReference = 946570F01E9C1D7300B11444 /* HitchaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		946570FA1E9C1D7300B11444 /* HitchaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9465710A1E9C1D7300B11444 /* Build configuration list for PBXNativeTarget "HitchaUITests" */;
+			buildPhases = (
+				946570F71E9C1D7300B11444 /* Sources */,
+				946570F81E9C1D7300B11444 /* Frameworks */,
+				946570F91E9C1D7300B11444 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				946570FD1E9C1D7300B11444 /* PBXTargetDependency */,
+			);
+			name = HitchaUITests;
+			productName = HitchaUITests;
+			productReference = 946570FB1E9C1D7300B11444 /* HitchaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		946570D11E9C1D7300B11444 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = Cophiri;
+				TargetAttributes = {
+					946570D81E9C1D7300B11444 = {
+						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 8M62A5HCKB;
+						ProvisioningStyle = Automatic;
+					};
+					946570EF1E9C1D7300B11444 = {
+						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 8M62A5HCKB;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 946570D81E9C1D7300B11444;
+					};
+					946570FA1E9C1D7300B11444 = {
+						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 8M62A5HCKB;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 946570D81E9C1D7300B11444;
+					};
+				};
+			};
+			buildConfigurationList = 946570D41E9C1D7300B11444 /* Build configuration list for PBXProject "Hitcha" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 946570D01E9C1D7300B11444;
+			productRefGroup = 946570DA1E9C1D7300B11444 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				946570D81E9C1D7300B11444 /* Hitcha */,
+				946570EF1E9C1D7300B11444 /* HitchaTests */,
+				946570FA1E9C1D7300B11444 /* HitchaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		946570D71E9C1D7300B11444 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				946570EA1E9C1D7300B11444 /* LaunchScreen.storyboard in Resources */,
+				946570E71E9C1D7300B11444 /* Assets.xcassets in Resources */,
+				946570E21E9C1D7300B11444 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		946570EE1E9C1D7300B11444 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		946570F91E9C1D7300B11444 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		946570D51E9C1D7300B11444 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				946570E51E9C1D7300B11444 /* Hitcha.xcdatamodeld in Sources */,
+				946570DF1E9C1D7300B11444 /* ViewController.swift in Sources */,
+				946570DD1E9C1D7300B11444 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		946570EC1E9C1D7300B11444 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				946570F51E9C1D7300B11444 /* HitchaTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		946570F71E9C1D7300B11444 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				946571001E9C1D7300B11444 /* HitchaUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		946570F21E9C1D7300B11444 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 946570D81E9C1D7300B11444 /* Hitcha */;
+			targetProxy = 946570F11E9C1D7300B11444 /* PBXContainerItemProxy */;
+		};
+		946570FD1E9C1D7300B11444 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 946570D81E9C1D7300B11444 /* Hitcha */;
+			targetProxy = 946570FC1E9C1D7300B11444 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		946570E01E9C1D7300B11444 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				946570E11E9C1D7300B11444 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		946570E81E9C1D7300B11444 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				946570E91E9C1D7300B11444 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		946571021E9C1D7300B11444 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		946571031E9C1D7300B11444 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		946571051E9C1D7300B11444 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8M62A5HCKB;
+				INFOPLIST_FILE = Hitcha/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.Hitcha;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		946571061E9C1D7300B11444 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8M62A5HCKB;
+				INFOPLIST_FILE = Hitcha/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.Hitcha;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		946571081E9C1D7300B11444 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 8M62A5HCKB;
+				INFOPLIST_FILE = HitchaTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.HitchaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hitcha.app/Hitcha";
+			};
+			name = Debug;
+		};
+		946571091E9C1D7300B11444 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 8M62A5HCKB;
+				INFOPLIST_FILE = HitchaTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.HitchaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hitcha.app/Hitcha";
+			};
+			name = Release;
+		};
+		9465710B1E9C1D7300B11444 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = 8M62A5HCKB;
+				INFOPLIST_FILE = HitchaUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.HitchaUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = Hitcha;
+			};
+			name = Debug;
+		};
+		9465710C1E9C1D7300B11444 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				DEVELOPMENT_TEAM = 8M62A5HCKB;
+				INFOPLIST_FILE = HitchaUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.HitchaUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = Hitcha;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		946570D41E9C1D7300B11444 /* Build configuration list for PBXProject "Hitcha" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				946571021E9C1D7300B11444 /* Debug */,
+				946571031E9C1D7300B11444 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		946571041E9C1D7300B11444 /* Build configuration list for PBXNativeTarget "Hitcha" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				946571051E9C1D7300B11444 /* Debug */,
+				946571061E9C1D7300B11444 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		946571071E9C1D7300B11444 /* Build configuration list for PBXNativeTarget "HitchaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				946571081E9C1D7300B11444 /* Debug */,
+				946571091E9C1D7300B11444 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		9465710A1E9C1D7300B11444 /* Build configuration list for PBXNativeTarget "HitchaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9465710B1E9C1D7300B11444 /* Debug */,
+				9465710C1E9C1D7300B11444 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		946570E31E9C1D7300B11444 /* Hitcha.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				946570E41E9C1D7300B11444 /* Hitcha.xcdatamodel */,
+			);
+			currentVersion = 946570E41E9C1D7300B11444 /* Hitcha.xcdatamodel */;
+			path = Hitcha.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 946570D11E9C1D7300B11444 /* Project object */;
+}
