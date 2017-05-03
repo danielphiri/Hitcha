@@ -8,17 +8,39 @@
 
 import UIKit
 import CoreData
+import Firebase
+import GoogleMaps
+import GooglePlaces
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
+    //var databaseURL: String! {
+       // get }
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        //let options = FIROptions.init(googleAppID: "1:1051579935618:ios:bd8c55aaf281ae2c", bundleID: "com.cophiri.Hitcha", gcmSenderID: "1051579935618", apiKey: GoogleMapsApi, clientID: "1051579935618-aeopilhdb0fkm530dv4c77871hfqhpqf.apps.googleusercontent.com", trackingID: <#T##String!#>, databaseURL: "https://hitcha-2afbc.firebaseio.com", storageBucket: "hitcha-2afbc.appspot.com")
+        
+        //FIROptions.init(googleAppID: <#T##String!#>, bundleID: <#T##String!#>, gcmSenderID: <#T##String!#>, apiKey: <#T##String!#>, clientID: <#T##String!#>, trackingID: <#T##String!#>, androidClientID: <#T##String!#>, databaseURL: <#T##String!#>, storageBucket: <#T##String!#>, deepLinkURLScheme: <#T##String!#>)
+        //let options = FIROptions.init(contentsOfFile: "/Users/danielphiri/Documents/iOS Decal/Projects/Hitcha/GoogleService-Info.plist")
+        FIRApp.configure()
+        //FIRApp.configure(with: options!)
+        
+        GMSServices.provideAPIKey(GoogleMapsApi)
+        GMSPlacesClient.provideAPIKey(GoogleMapsApi)
         return true
     }
+//    func application(application: UIApplication,
+//                     didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?)
+//        -> Bool {
+//            FIRApp.configure()
+//            
+//            GMSServices.provideAPIKey(GoogleMapsApi)
+//            GMSPlacesClient.provideAPIKey(GoogleMapsApi)
+//            return true
+//    }
 
     func applicationWillResignActive(_ application: UIApplication) {
         // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.

@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "2eb5215b77d60215cbc62f44815e58a8"
+build_time: [547101745, 355258000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ImageFeed.swift": [545281107, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ImageFlowLayout.swift": [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/TabBarController.swift": [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ChooseThreadTableViewCell.swift": [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/Post.swift": [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ChooseThreadViewController.swift": [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/SignupViewController.swift": [545269434, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/PostsTableViewCell.swift": [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/AppDelegate.swift": [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ImagePickerViewController.swift": [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/PostsTableViewController.swift": [545285487, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/Constants.swift": [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/LoginViewController.swift": [545269733, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/CurrentUser.swift": [545258028, 0]

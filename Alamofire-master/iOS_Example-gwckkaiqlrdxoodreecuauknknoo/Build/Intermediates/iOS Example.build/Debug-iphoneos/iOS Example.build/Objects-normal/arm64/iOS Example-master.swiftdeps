@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "8c7b06d9830f00c1bdac34cb452c3621"
+build_time: [546552154, 265928000]
+inputs:
+  "/Users/danielphiri/Downloads/Alamofire-master/Example/Source/AppDelegate.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Example/Source/MasterViewController.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Example/Source/DetailViewController.swift": [545788154, 0]
