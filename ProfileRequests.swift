@@ -200,7 +200,7 @@ func getThis() {
                     if valu == firBio {
                         thisBio = user1[valu]!
                       //  bio.userBio.text = thisBio
-                    } else if valu == firProfiles {
+                    } else if valu == firUsername {
                         thisName = user1[valu]!
                     }
                 }
@@ -326,7 +326,7 @@ func matchUsers() {
                         thisFrom = user1[valu]!
                         
                         //bio.userBio.text = thisBio
-                    } else if valu == firOriginalLongitude {
+                    } else if valu == firDestinationLatitude {
                         thisTo = user1[valu]!
                         
                         //bio.userBio.text = thisBio

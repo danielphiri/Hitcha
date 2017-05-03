@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
 options: "4afe140d225e81a50620c87b3457e40b"
-build_time: [547112758, 678117000]
+build_time: [547114339, 523318000]
 inputs:
   "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/AFError.swift": [547052846, 0]
   "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Alamofire.swift": [547052846, 0]

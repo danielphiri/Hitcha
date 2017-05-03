@@ -113,7 +113,7 @@ class HitcherViewController: UIViewController {
         if hitchOrDrive == "drive" {
         if thisFrom != "" || thisTo != "" {
             if thisName != "" {
-            let alertController = UIAlertController(title: "You're not alone! ", message: "\(thisName)" + " is also driving from \(thisFrom) to \(thisTo). Do you want to join?", preferredStyle: .alert)
+            let alertController = UIAlertController(title: "You're not alone! ", message: "@\(thisName)" + " is driving from \(thisFrom) to \(thisTo). Do you want to join?", preferredStyle: .alert)
             let defaultAction = UIAlertAction(title: "Yes", style: .default, handler:  {
                 [unowned self] (action) -> Void in
                 self.cance()
