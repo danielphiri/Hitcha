@@ -251,7 +251,7 @@ class UserMenuViewController: UIViewController, UIGestureRecognizerDelegate, UIN
         //print("Eureka!!!")
         if let pickedImage = info[UIImagePickerControllerOriginalImage] as? UIImage {
 //            self.userImagView.contentMode = .scaleAspectFit
-            self.userImagView.contentMode = .scaleToFill
+            self.userImagView.contentMode = .scaleAspectFill
             self.userImagView.image = pickedImage
             
 //            let changeReq = FIRAuth.auth()?.currentUser?.profileChangeRequest()

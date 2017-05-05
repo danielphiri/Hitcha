@@ -161,10 +161,10 @@ func getBio(bio: UserMenuViewController) {
                // if val == firBio  {
                     // print(userKey)
                 for valu in user1.keys {
-                    if valu == firBio {
+                    if valu == firBio  && key == uid {
                         thisBio = user1[valu]!
                         bio.userBio.text = thisBio
-                    } else if valu == firProfiles {
+                    } else if valu == firProfiles && key == uid {
                         thisName = user1[valu]!
                     }
                 }
@@ -180,7 +180,7 @@ func getBio(bio: UserMenuViewController) {
 }
 
 
-func getThis() {
+func getThis(userId: String) {
     let dbRef = FIRDatabase.database().reference()
     //var postArray: [String] = []
     
@@ -197,10 +197,10 @@ func getThis() {
                 // if val == firBio  {
                 // print(userKey)
                 for valu in user1.keys {
-                    if valu == firBio {
+                    if valu == firBio && key == userId {
                         thisBio = user1[valu]!
                       //  bio.userBio.text = thisBio
-                    } else if valu == firUsername {
+                    } else if valu == firUsername && key == userId {
                         thisName = user1[valu]!
                     }
                 }
@@ -271,7 +271,8 @@ func getProfileImage(userId: String, clas: UserMenuViewController) {
                        // print(user1[userKey]!)
 //                        getDataFromPath(path: user1[userKey]!, completion: { (imgData) in
                         //if profilePic != nil {
-                            getDataFromPath(path: user1[firProfilePic]!, completion: { (imgData) in
+                        if let exists = user1[firProfilePic] {
+                            getDataFromPath(path: exists, completion: { (imgData) in
                                 if imgData != nil {
                                 //print(userKey)
                                 //print(user1[userKey]!)
@@ -283,7 +284,7 @@ func getProfileImage(userId: String, clas: UserMenuViewController) {
                                 }
                             
                             })
-                       // }
+                        }
                     }
                 //}
             }
@@ -305,7 +306,7 @@ var thisFrom = ""
 var thisTo = ""
 var thisName = ""
 
-func matchUsers() {
+func matchUsers(userId: String) {
     let dbRef = FIRDatabase.database().reference()
     //var postArray: [String] = []
     
@@ -317,11 +318,11 @@ func matchUsers() {
         for key in (value?.keys)! {
             //var keyInRead = false
             if let user1 = value?[key] as! [String: String]? {
-                //for userKey in user1.keys {
-                //let val = value?[key] as! [String: String]
-                // if val == firBio  {
-                // print(userKey)
+                if (key == uid) {
+                    break
+                }
                 for valu in user1.keys {
+                    if key != userId {
                     if valu == firOriginLatitude {
                         thisFrom = user1[valu]!
                         
@@ -332,6 +333,7 @@ func matchUsers() {
                         //bio.userBio.text = thisBio
                     } else if valu == firUsername {
                         thisName = user1[valu]!
+                    }
                     }
                 }
                 
@@ -367,7 +369,7 @@ func getNames(userId: String, clas: UserMenuViewController) {
         //let key =
             if let user1 = value?[key] as! [String: String]? {
                 for userKey in user1.keys {
-                    if userKey == firLastName && nameCount == 0 {
+                    if userKey == firLastName && nameCount == 0 && key == uid {
                         nameCount += 1
                         let realName = flaten(st: user1[userKey]!)
                         userName = userName + realName + ". " + "\n"
@@ -379,7 +381,7 @@ func getNames(userId: String, clas: UserMenuViewController) {
         for key in (value?.keys)! {
             if let user1 = value?[key] as! [String: String]? {
                 for userKey in user1.keys {
-                    if userKey == firUsername && usCount == 0 {
+                    if userKey == firUsername && usCount == 0 && key == uid {
                         usCount += 1
                         let usdName = user1[userKey]
                         userName = userName + "@" + usdName!

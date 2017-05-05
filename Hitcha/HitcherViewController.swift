@@ -118,7 +118,12 @@ class HitcherViewController: UIViewController {
                 [unowned self] (action) -> Void in
                 self.cance()
             })
-            let cancelAction = UIAlertAction(title: "No", style: .cancel, handler:nil)
+                let cancelAction = UIAlertAction(title: "No", style: .default, handler: nil)
+//                {
+//                    [unowned self] (action) -> Void in
+//                    self.cance()
+//                    self.getDirections(start: self.locationManager, end: self.selectedPlace!)
+//                })
             alertController.addAction(defaultAction)
             alertController.addAction(cancelAction)
             self.present(alertController, animated: true, completion: nil)
@@ -536,8 +541,8 @@ class HitcherViewController: UIViewController {
         // Creates a marker in the center of the map.
         
         listLikelyPlaces()
-        matchUsers()
-        getThis()
+        matchUsers(userId: (FIRAuth.auth()?.currentUser?.uid)!)
+        getThis(userId: (FIRAuth.auth()?.currentUser?.uid)!)
 
     }
     
@@ -587,6 +592,10 @@ class HitcherViewController: UIViewController {
                 nextViewController.likelyPlaces = likelyPlaces
             }
 
+        } else if segue.identifier == "forwardToPic" {
+            if let nextViewController = segue.destination as? DriverViewController {
+                nextViewController.image.image = profilePic
+            }
         }
     }
 }
