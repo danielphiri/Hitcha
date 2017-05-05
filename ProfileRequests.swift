@@ -87,7 +87,7 @@ func updateMoves(originLat: String, originLong: String, destinLat: String, desti
     let properties: [String: String] = [firOriginLatitude: originLat, firOriginalLongitude: originLong, firDestinationLatitude: destinLat, firDestinationLongitude: destinLong, firMode: mode, firJourneyUrl: url]
     print(url)
     print(properties)
-    dbRef.child(firOnTheMove).child(uid).updateChildValues(properties)
+    dbRef.child(String(firOnTheMove)).child(String(uid)).updateChildValues(properties)
     //store(data: data, toPath: path)
 }
 
@@ -313,12 +313,12 @@ func matchUsers(userId: String) {
     // YOUR CODE HERE
     dbRef.child(firOnTheMove).observe(FIRDataEventType.value, with: { (snapshot) in
         let value = snapshot.value as? [String: AnyObject]
-        print(value)
-        print(value?.keys)
+//        print(value)
+//        print(value?.keys)
         for key in (value?.keys)! {
             //var keyInRead = false
             if let user1 = value?[key] as! [String: String]? {
-                if (key == uid) {
+                if (key == userId) {
                     break
                 }
                 for valu in user1.keys {

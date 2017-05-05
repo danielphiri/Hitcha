@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "59dd3f35f26bfc5c9a2a96dc97eb8bb7"
+build_time: [547324222, 768381000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Starscream/Source/SSLSecurity.swift": [547052868, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Starscream/Source/WebSocket.swift": [547052868, 0]

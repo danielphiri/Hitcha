@@ -110,6 +110,7 @@ class HitcherViewController: UIViewController {
     @IBAction func movingButtonPressed(_ sender: UIButton) {
         
         getDirections(start: locationManager, end: selectedPlace!)
+        matchUsers(userId: (FIRAuth.auth()?.currentUser?.uid)!)
         if hitchOrDrive == "drive" {
         if thisFrom != "" || thisTo != "" {
             if thisName != "" {
