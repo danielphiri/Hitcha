@@ -1,0 +1,54 @@
+-x
+objective-c
+-arch
+arm64
+-fretain-comments-from-system-headers
+-std=gnu99
+-fobjc-arc
+-fmodules
+-gmodules
+-fmodules-cache-path=/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/ModuleCache
+-fbuild-session-file=/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/ModuleCache/Session.modulevalidation
+-Xclang
+-fmodule-implementation-of
+-Xclang
+AsyncDisplayKit
+-fpascal-strings
+-O0
+-fno-common
+-DPOD_CONFIGURATION_DEBUG=1
+-DDEBUG=1
+-DCOCOAPODS=1
+-DOBJC_OLD_DISPATCH_PROTOTYPES=0
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk
+-miphoneos-version-min=8.0
+-g
+-fembed-bitcode-marker
+-iquote
+-ivfsoverlay
+/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/all-product-headers.yaml
+-iquote
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Texture/include
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Private
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Public
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Public/Firebase
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Public/FirebaseAnalytics
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Public/FirebaseAuth
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Public/FirebaseCore
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Public/FirebaseDatabase
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Public/FirebaseInstanceID
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Public/FirebaseStorage
+-I/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Headers/Public/Google-Mobile-Ads-SDK
+-F/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Texture
+-F/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINCache
+-F/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINOperation
+-F/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINRemoteImage
+-ferror-limit=10
+-working-directory=/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods
+-Xclang
+-detailed-preprocessing-record
+aarch64-apple-darwin16.7.0
+"4.2.1 Compatible Apple LLVM 8.1.0 (clang-802.0.42)"
+SDK_PRODUCT_BUILD_VERSION=14E8301
+14E8301

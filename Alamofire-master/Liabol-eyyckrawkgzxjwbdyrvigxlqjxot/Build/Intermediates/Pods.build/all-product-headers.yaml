@@ -1,0 +1,1536 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFAutoPurgingImageCache.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/AFAutoPurgingImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFImageDownloader.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/AFImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/GTMSessionFetcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDebugSelectorValidation.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDebugThreadValidation.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMMethodCheck.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSDictionary+URLArguments.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSString+URLArguments.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINCache/PINCache.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PINCache-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINCache/PINCache.framework/Headers/PINCache-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINCache-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/PINCache/PINCache-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINCache.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINCache/Source/PINCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINCacheMacros.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINCache/Source/PINCacheMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINCacheObjectSubscripting.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINCache/Source/PINCacheObjectSubscripting.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINCaching.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINCache/Source/PINCaching.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINDiskCache.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINCache/Source/PINDiskCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINMemoryCache.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINCache/Source/PINMemoryCache.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINCache/PINCache.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/PINCache.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINOperation/PINOperation.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PINOperation-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINOperation/PINOperation.framework/Headers/PINOperation-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINOperation-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/PINOperation/PINOperation-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINOperation.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINOperation/Source/PINOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINOperationGroup.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINOperation/Source/PINOperationGroup.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINOperationMacros.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINOperation/Source/PINOperationMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINOperationQueue.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINOperation/Source/PINOperationQueue.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINOperationTypes.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINOperation/Source/PINOperationTypes.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINOperation/PINOperation.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/PINOperation.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINRemoteImage/PINRemoteImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageDetectors.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/Categories/NSData+ImageDetectors.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURLSessionTask+Timing.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/Categories/NSURLSessionTask+Timing.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINAlternateRepresentationProvider.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINAlternateRepresentationProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINAnimatedImage.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINAnimatedImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINAnimatedImageManager.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINAnimatedImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINButton+PINRemoteImage.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/Image Categories/PINButton+PINRemoteImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINCache+PINRemoteImageCaching.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINCache/PINCache+PINRemoteImageCaching.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINImage+DecodedImage.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/Categories/PINImage+DecodedImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINImage+ScaledImage.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/Categories/PINImage+ScaledImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINImage+WebP.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/Categories/PINImage+WebP.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINImageView+PINRemoteImage.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/Image Categories/PINImageView+PINRemoteImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINProgressiveImage.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINProgressiveImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImage-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINRemoteImage/PINRemoteImage.framework/Headers/PINRemoteImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImage-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/PINRemoteImage/PINRemoteImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImage.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageBasicCache.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageBasicCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageCaching.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageCaching.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageCallbacks.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageCallbacks.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageCategoryManager.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageCategoryManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageDownloadQueue.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageDownloadQueue.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageDownloadTask.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageDownloadTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageMacros.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageManager+Private.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageManager+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageManager.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageManagerResult.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageManagerResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageMemoryContainer.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageMemoryContainer.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageProcessorTask.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageProcessorTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageTask+Subclassing.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/Categories/PINRemoteImageTask+Subclassing.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteImageTask.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteImageTask.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINRemoteLock.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINRemoteLock.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINResume.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINResume.h"
+        },
+        {
+          'type': 'file',
+          'name': "PINURLSessionManager.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/PINRemoteImage/Source/Classes/PINURLSessionManager.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/PINRemoteImage/PINRemoteImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/PINRemoteImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Pods_Liabol.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Liabol-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/Pods-Liabol/Pods-Liabol-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_Liabol-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Pods_Liabol.framework/Headers/Pods_Liabol-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Pods_Liabol.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Liabol.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "STPAPIClient+ApplePay.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPAPIClient+ApplePay.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPAPIClient.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPAPIClient.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPAPIResponseDecodable.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPAPIResponseDecodable.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPAddCardViewController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPAddCardViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPAddress.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPAddress.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPApplePayPaymentMethod.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPApplePayPaymentMethod.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPBackendAPIAdapter.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPBackendAPIAdapter.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPBankAccount.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPBankAccount.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPBankAccountParams.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPBankAccountParams.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPBlocks.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPBlocks.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCard.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCard.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCardBrand.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCardBrand.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCardParams.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCardParams.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCardValidationState.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCardValidationState.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCardValidator.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCardValidator.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCoreScrollViewController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCoreScrollViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCoreTableViewController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCoreTableViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCoreViewController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCoreViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCustomer.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCustomer.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPCustomerContext.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPCustomerContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPEphemeralKeyProvider.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPEphemeralKeyProvider.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPFile.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPFile.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPFormEncodable.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPFormEncodable.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPImageLibrary.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPImageLibrary.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPPaymentActivityIndicatorView.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPPaymentActivityIndicatorView.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPPaymentCardTextField.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPPaymentCardTextField.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPPaymentConfiguration.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPPaymentConfiguration.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPPaymentContext.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPPaymentContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPPaymentMethod.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPPaymentMethod.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPPaymentMethodsViewController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPPaymentMethodsViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPPaymentResult.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPPaymentResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPRedirectContext.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPRedirectContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPShippingAddressViewController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPShippingAddressViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPSource.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPSourceCardDetails.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPSourceCardDetails.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPSourceOwner.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPSourceOwner.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPSourceParams.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPSourceParams.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPSourceProtocol.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPSourceProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPSourceReceiver.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPSourceReceiver.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPSourceRedirect.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPSourceRedirect.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPSourceSEPADebitDetails.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPSourceSEPADebitDetails.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPSourceVerification.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPSourceVerification.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPTheme.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPTheme.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPToken.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPToken.h"
+        },
+        {
+          'type': 'file',
+          'name': "STPUserInformation.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/STPUserInformation.h"
+        },
+        {
+          'type': 'file',
+          'name': "Stripe-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/Stripe-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Stripe-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/Stripe/Stripe-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Stripe.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/Stripe.h"
+        },
+        {
+          'type': 'file',
+          'name': "StripeError.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/StripeError.h"
+        },
+        {
+          'type': 'file',
+          'name': "UINavigationBar+Stripe_Theme.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Stripe/Stripe/PublicHeaders/UINavigationBar+Stripe_Theme.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/Stripe.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Texture/AsyncDisplayKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ASAbsoluteLayoutElement.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASAbsoluteLayoutElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASAbsoluteLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASAbsoluteLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASAbstractLayoutController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASAbstractLayoutController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASAsciiArtBoxCreator.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASAsciiArtBoxCreator.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASAssert.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Base/ASAssert.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASAvailability.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Base/ASAvailability.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASBackgroundLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASBackgroundLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASBaseDefines.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Base/ASBaseDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASBasicImageDownloader.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASBasicImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASBatchContext.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASBatchContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASBatchFetchingDelegate.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASBatchFetchingDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASBlockTypes.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASBlockTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASButtonNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASButtonNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCellNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASCellNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCenterLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASCenterLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionElement.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASCollectionElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionFlowLayoutDelegate.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASCollectionFlowLayoutDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionInternal.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASCollectionInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionLayoutContext.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASCollectionLayoutContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionLayoutDelegate.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASCollectionLayoutDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionLayoutState.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASCollectionLayoutState.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionNode+Beta.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASCollectionNode+Beta.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASCollectionNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionView.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASCollectionView.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionViewLayoutController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASCollectionViewLayoutController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionViewLayoutFacilitatorProtocol.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASCollectionViewLayoutFacilitatorProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionViewLayoutInspector.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASCollectionViewLayoutInspector.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASCollectionViewProtocols.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASCollectionViewProtocols.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASContextTransitioning.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASContextTransitioning.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASControlNode+Subclasses.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASControlNode+Subclasses.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASControlNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASControlNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDataController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASDataController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDelegateProxy.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASDelegateProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDimension.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASDimension.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDimensionDeprecated.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASDimensionDeprecated.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDimensionInternal.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASDimensionInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDisplayNode+Ancestry.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Base/ASDisplayNode+Ancestry.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDisplayNode+Beta.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASDisplayNode+Beta.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDisplayNode+Convenience.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASDisplayNode+Convenience.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDisplayNode+Deprecated.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASDisplayNode+Deprecated.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDisplayNode+Subclasses.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASDisplayNode+Subclasses.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDisplayNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASDisplayNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASDisplayNodeExtras.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASDisplayNodeExtras.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASEditableTextNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASEditableTextNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASElementMap.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASElementMap.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASEqualityHelpers.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Base/ASEqualityHelpers.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASEventLog.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASEventLog.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASHighlightOverlayLayer.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASHighlightOverlayLayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASImageContainerProtocolCategories.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASImageContainerProtocolCategories.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASImageNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASImageNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASImageProtocols.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASImageProtocols.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASInsetLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASInsetLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASLayout.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASLayoutController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASLayoutController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASLayoutElement.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASLayoutElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASLayoutElementExtensibility.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASLayoutElementExtensibility.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASLayoutElementPrivate.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASLayoutElementPrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASLayoutRangeType.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASLayoutRangeType.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASLayoutSpec+Subclasses.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASLayoutSpec+Subclasses.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASLog.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Base/ASLog.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASMainSerialQueue.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASMainSerialQueue.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASMapNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASMapNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASMultiplexImageNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASMultiplexImageNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASMutableAttributedStringBuilder.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASMutableAttributedStringBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASNavigationController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASNavigationController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASNetworkImageNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASNetworkImageNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASNodeController+Beta.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASNodeController+Beta.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASObjectDescriptionHelpers.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASObjectDescriptionHelpers.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASOverlayLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASOverlayLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASPINRemoteImageDownloader.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASPINRemoteImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASPageTable.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASPageTable.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASPagerFlowLayout.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASPagerFlowLayout.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASPagerNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASPagerNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASPhotosFrameworkImageRequest.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASPhotosFrameworkImageRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASRangeController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASRangeController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASRangeControllerUpdateRangeProtocol+Beta.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASRangeControllerUpdateRangeProtocol+Beta.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASRangeManagingNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASRangeManagingNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASRatioLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASRatioLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASRelativeLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASRelativeLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASRunLoopQueue.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASRunLoopQueue.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASScrollDirection.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASScrollDirection.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASScrollNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASScrollNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASSectionContext.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASSectionContext.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASSectionController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASSectionController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASStackLayoutDefines.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASStackLayoutDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASStackLayoutElement.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASStackLayoutElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASStackLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASStackLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASSupplementaryNodeSource.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASSupplementaryNodeSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTabBarController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASTabBarController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTableLayoutController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASTableLayoutController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTableNode+Beta.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASTableNode+Beta.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTableNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASTableNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTableView.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASTableView.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTableViewInternal.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASTableViewInternal.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTableViewProtocols.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASTableViewProtocols.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTextKitComponents.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/TextKit/ASTextKitComponents.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTextNode+Beta.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASTextNode+Beta.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTextNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASTextNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTextNodeTypes.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/TextKit/ASTextNodeTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASThread.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASThread.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTraceEvent.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASTraceEvent.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASTraitCollection.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASTraitCollection.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASVideoNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASVideoNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASVideoPlayerNode.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASVideoPlayerNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASViewController.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASVisibilityProtocols.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/ASVisibilityProtocols.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASWeakProxy.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASWeakProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASWeakSet.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/ASWeakSet.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASYogaLayoutSpec.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASYogaLayoutSpec.h"
+        },
+        {
+          'type': 'file',
+          'name': "ASYogaUtilities.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Layout/ASYogaUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "AsyncDisplayKit+Debug.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Debug/AsyncDisplayKit+Debug.h"
+        },
+        {
+          'type': 'file',
+          'name': "AsyncDisplayKit+IGListKitMethods.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/AsyncDisplayKit+IGListKitMethods.h"
+        },
+        {
+          'type': 'file',
+          'name': "AsyncDisplayKit+Tips.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Debug/AsyncDisplayKit+Tips.h"
+        },
+        {
+          'type': 'file',
+          'name': "AsyncDisplayKit-Swift.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Texture/AsyncDisplayKit.framework/Headers/AsyncDisplayKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AsyncDisplayKit.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/AsyncDisplayKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "CoreGraphics+ASConvenience.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/CoreGraphics+ASConvenience.h"
+        },
+        {
+          'type': 'file',
+          'name': "IGListAdapter+AsyncDisplayKit.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/IGListAdapter+AsyncDisplayKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+Diffing.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/NSArray+Diffing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSIndexSet+ASHelpers.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/NSIndexSet+ASHelpers.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableAttributedString+TextKitAdditions.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/NSMutableAttributedString+TextKitAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "Texture-umbrella.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Target Support Files/Texture/Texture-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "UICollectionViewLayout+ASConvenience.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/UICollectionViewLayout+ASConvenience.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+ASConvenience.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/UIImage+ASConvenience.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIResponder+AsyncDisplayKit.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/UIResponder+AsyncDisplayKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+ASConvenience.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/UIView+ASConvenience.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASAsyncTransaction.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/Transactions/_ASAsyncTransaction.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASAsyncTransactionContainer+Private.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/Transactions/_ASAsyncTransactionContainer+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASAsyncTransactionContainer.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/Transactions/_ASAsyncTransactionContainer.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASAsyncTransactionGroup.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/Transactions/_ASAsyncTransactionGroup.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASCollectionReusableView.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/_ASCollectionReusableView.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASCollectionViewCell.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/_ASCollectionViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASDisplayLayer.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/_ASDisplayLayer.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASDisplayView.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/_ASDisplayView.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASDisplayViewAccessiblity.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/Details/_ASDisplayViewAccessiblity.h"
+        },
+        {
+          'type': 'file',
+          'name': "_ASTransitionContext.h",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Texture/Source/_ASTransitionContext.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Texture/AsyncDisplayKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/Texture.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "4afe140d225e81a50620c87b3457e40b"
+build_time: [558426400, 971086000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/AFError.swift": [547052846, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Alamofire.swift": [547052846, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [547052846, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/MultipartFormData.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Notifications.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/ParameterEncoding.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Request.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Response.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/ResponseSerialization.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Result.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/ServerTrustPolicy.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/SessionDelegate.swift": [547052847, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/SessionManager.swift": [547052848, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/TaskDelegate.swift": [547052848, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Timeline.swift": [547052848, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Validation.swift": [547052848, 0]

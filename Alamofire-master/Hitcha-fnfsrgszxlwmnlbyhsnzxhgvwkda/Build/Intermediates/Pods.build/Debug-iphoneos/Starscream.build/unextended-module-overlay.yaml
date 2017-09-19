@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-fnfsrgszxlwmnlbyhsnzxhgvwkda/Build/Products/Debug-iphoneos/Starscream/Starscream.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-fnfsrgszxlwmnlbyhsnzxhgvwkda/Build/Intermediates/Pods.build/Debug-iphoneos/Starscream.build/unextended-module.modulemap',
+    }]
+  }]
+}

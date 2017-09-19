@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "ec42576850d658e1b25bacd86ab22b36"
+build_time: [558476568, 950270000]
+inputs:
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Starscream/Source/SSLSecurity.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Starscream/Source/WebSocket.swift": [553161542, 0]

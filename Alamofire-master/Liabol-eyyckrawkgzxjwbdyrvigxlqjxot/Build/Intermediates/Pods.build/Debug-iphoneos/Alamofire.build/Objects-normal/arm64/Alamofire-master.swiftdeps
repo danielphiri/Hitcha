@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "16e4771e7371d821d38f590a6a61a7d0"
+build_time: [558151018, 934744000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/AFError.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/Alamofire.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/MultipartFormData.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/Notifications.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/ParameterEncoding.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/Request.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/Response.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/ResponseSerialization.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/Result.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/ServerTrustPolicy.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/SessionDelegate.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/SessionManager.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/TaskDelegate.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/Timeline.swift": [553867634, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Alamofire/Source/Validation.swift": [553867634, 0]

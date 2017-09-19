@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "9a22fbdcbc30919b2c14d31910f19223"
+build_time: [558467179, 6767000]
+inputs:
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/AFError.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/Alamofire.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/MultipartFormData.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/Notifications.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/ParameterEncoding.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/Request.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/Response.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/ResponseSerialization.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/Result.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/ServerTrustPolicy.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/SessionDelegate.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/SessionManager.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/TaskDelegate.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/Timeline.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Pods/Alamofire/Source/Validation.swift": [553161542, 0]

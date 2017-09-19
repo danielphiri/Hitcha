@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "d859f9d758694c0ea4fa082691ee72c1"
+build_time: [558476576, 27949000]
+inputs:
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/DriverViewController.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/RideSelectionViewController.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Data Model/DataStrings.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/UserMenuViewController.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/MainViewController.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/MenuContentTableViewCell.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/ProfileRequests.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/SignInViewController.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/PlacesViewController.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/BioTextViewController.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/AppDelegate.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/HitcherViewController.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/SignUpViewController.swift": [553161542, 0]
+  "/Users/danielphiri/Downloads/sharearide-master/Hitcha/USerMenuSeque.swift": [553161542, 0]
