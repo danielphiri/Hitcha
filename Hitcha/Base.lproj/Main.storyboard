@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+=======
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
+<<<<<<< HEAD
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+=======
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -60,8 +68,13 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XPy-1u-P04">
+<<<<<<< HEAD
                                 <rect key="frame" x="36" y="457" width="303" height="29"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
+=======
+                                <rect key="frame" x="91" y="457" width="148" height="22"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="8"/>
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                                 <state key="normal" title="Don't have an account yet? Sign up here.">
                                     <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
@@ -79,7 +92,11 @@
                             <constraint firstItem="Xph-5h-vhe" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="10" id="2XE-mh-LML"/>
                             <constraint firstItem="XPy-1u-P04" firstAttribute="top" secondItem="UQs-kP-Nsi" secondAttribute="bottom" id="7l1-MC-AMZ"/>
                             <constraint firstItem="nqb-W0-Sid" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="20" id="9J6-Gc-exv"/>
+<<<<<<< HEAD
                             <constraint firstItem="XPy-1u-P04" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="20" id="IZZ-d9-ey5"/>
+=======
+                            <constraint firstItem="XPy-1u-P04" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="75" id="IZZ-d9-ey5"/>
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                             <constraint firstItem="Yt1-JV-k4w" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="20" id="L64-9Z-HUa"/>
                             <constraint firstItem="UQs-kP-Nsi" firstAttribute="top" secondItem="Yt1-JV-k4w" secondAttribute="bottom" constant="27" id="LXi-V7-DIB"/>
                             <constraint firstAttribute="trailingMargin" secondItem="UQs-kP-Nsi" secondAttribute="trailing" constant="138" id="Mox-S4-RtM"/>
@@ -95,7 +112,12 @@
                             <constraint firstAttribute="trailingMargin" secondItem="tqO-qq-P0K" secondAttribute="trailing" constant="128" id="kcs-W6-VLs"/>
                             <constraint firstAttribute="trailingMargin" secondItem="Yt1-JV-k4w" secondAttribute="trailing" constant="52" id="qGi-eJ-HCf"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="Xph-5h-vhe" secondAttribute="bottom" constant="491" id="uPT-In-DgN"/>
+<<<<<<< HEAD
                             <constraint firstAttribute="trailingMargin" secondItem="XPy-1u-P04" secondAttribute="trailing" constant="20" id="x3Q-E6-xQh"/>
+=======
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="XPy-1u-P04" secondAttribute="bottom" constant="188" id="uw6-18-FsE"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="XPy-1u-P04" secondAttribute="trailing" constant="120" id="x3Q-E6-xQh"/>
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                         </constraints>
                     </view>
                     <connections>
@@ -122,7 +144,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome " textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b9h-G8-2Qj">
+<<<<<<< HEAD
                                 <rect key="frame" x="87" y="30" width="272" height="31"/>
+=======
+                                <rect key="frame" x="46" y="30" width="313" height="31"/>
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -155,11 +181,16 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UsE-vS-jWU">
+<<<<<<< HEAD
                                 <rect key="frame" x="16" y="30" width="63" height="31"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <state key="normal" title="Menu">
                                     <color key="titleColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
+=======
+                                <rect key="frame" x="16" y="30" width="22" height="31"/>
+                                <state key="normal" image="menu-3x.png"/>
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                                 <connections>
                                     <segue destination="gxe-zK-E5M" kind="show" customClass="USerMenuSeque" customModule="Hitcha" customModuleProvider="target" id="WNq-hz-Ow1"/>
                                 </connections>
@@ -167,7 +198,11 @@
                         </subviews>
                         <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                         <constraints>
+<<<<<<< HEAD
                             <constraint firstAttribute="trailingMargin" secondItem="UsE-vS-jWU" secondAttribute="trailing" constant="280" id="0bC-vY-ziy"/>
+=======
+                            <constraint firstAttribute="trailingMargin" secondItem="UsE-vS-jWU" secondAttribute="trailing" constant="321" id="0bC-vY-ziy"/>
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                             <constraint firstItem="b9h-G8-2Qj" firstAttribute="leading" secondItem="UsE-vS-jWU" secondAttribute="trailing" constant="8" id="9gp-oP-OqS"/>
                             <constraint firstItem="1OP-Xv-XEd" firstAttribute="width" secondItem="fg4-OZ-NcX" secondAttribute="width" id="ByG-HA-LFO"/>
                             <constraint firstItem="b9h-G8-2Qj" firstAttribute="top" secondItem="GtJ-HQ-OSm" secondAttribute="bottom" constant="10" id="ErE-0g-jcI"/>
@@ -350,7 +385,11 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+<<<<<<< HEAD
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="person-4x" translatesAutoresizingMaskIntoConstraints="NO" id="87S-NQ-D7o">
+=======
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="person-2x" translatesAutoresizingMaskIntoConstraints="NO" id="87S-NQ-D7o">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                                 <rect key="frame" x="16" y="40" width="56" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="56" id="CpI-ox-w4S"/>
@@ -751,10 +790,18 @@
     <resources>
         <image name="arrow-circle-left-3x" width="24" height="24"/>
         <image name="home-3x" width="24" height="24"/>
+<<<<<<< HEAD
         <image name="person-4x" width="32" height="32"/>
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="Xdn-7U-esu"/>
+=======
+        <image name="menu-3x.png" width="24" height="24"/>
+        <image name="person-2x" width="16" height="16"/>
+    </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="s0H-1h-9H3"/>
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
         <segue reference="WNq-hz-Ow1"/>
     </inferredMetricsTieBreakers>
 </document>

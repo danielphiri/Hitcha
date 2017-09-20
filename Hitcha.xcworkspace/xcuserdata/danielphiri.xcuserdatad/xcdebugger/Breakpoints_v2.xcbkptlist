@@ -266,12 +266,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991461.041612"
+=======
+                  timestampString = "515701203.38914"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "275"
                   endingLineNumber = "275"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "2706">
+=======
+                  offsetFromSymbolStart = "1980">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -281,12 +289,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991461.044471"
+=======
+                  timestampString = "515701203.391433"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "276"
                   endingLineNumber = "276"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "19">
+=======
+                  offsetFromSymbolStart = "20">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -490,12 +506,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/UserMenuViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991461.629753"
+=======
+                  timestampString = "515701203.449105"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "160"
                   endingLineNumber = "160"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "197">
+=======
+                  offsetFromSymbolStart = "188">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -505,12 +529,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/UserMenuViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991461.632599"
+=======
+                  timestampString = "515701203.451413"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "161"
                   endingLineNumber = "161"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "15">
+=======
+                  offsetFromSymbolStart = "20">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -698,12 +730,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991462.318651"
+=======
+                  timestampString = "515701203.498634"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "235"
                   endingLineNumber = "235"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "190">
+=======
+                  offsetFromSymbolStart = "160">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -713,12 +753,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991462.321446"
+=======
+                  timestampString = "515701203.500793"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "236"
                   endingLineNumber = "236"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "32">
+=======
+                  offsetFromSymbolStart = "44">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -810,12 +858,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991462.656227"
+=======
+                  timestampString = "515701203.522886"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "263"
                   endingLineNumber = "263"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1163">
+=======
+                  offsetFromSymbolStart = "912">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -825,12 +881,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991462.658806"
+=======
+                  timestampString = "515701203.525077"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "263"
                   endingLineNumber = "263"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "3077">
+=======
+                  offsetFromSymbolStart = "2292">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -858,12 +922,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991462.768188"
+=======
+                  timestampString = "515701203.530177"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "265"
                   endingLineNumber = "265"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1550">
+=======
+                  offsetFromSymbolStart = "1176">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -873,12 +945,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991462.770868"
+=======
+                  timestampString = "515701203.532411"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "265"
                   endingLineNumber = "265"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1930">
+=======
+                  offsetFromSymbolStart = "1432">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -922,12 +1002,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991462.989679"
+=======
+                  timestampString = "515701203.542293"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "416"
                   endingLineNumber = "416"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "197">
+=======
+                  offsetFromSymbolStart = "172">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -937,12 +1025,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991462.992751"
+=======
+                  timestampString = "515701203.544471"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "417"
                   endingLineNumber = "417"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "43">
+=======
+                  offsetFromSymbolStart = "44">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -970,12 +1066,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991463.105564"
+=======
+                  timestampString = "515701203.550974"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "417"
                   endingLineNumber = "417"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "43">
+=======
+                  offsetFromSymbolStart = "44">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -985,12 +1089,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991463.108586"
+=======
+                  timestampString = "515701203.553388"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "417"
                   endingLineNumber = "417"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "130">
+=======
+                  offsetFromSymbolStart = "104">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1313,6 +1425,41 @@
             endingLineNumber = "232"
             landmarkName = "networkRequest(withUrl:completionHandler:)"
             landmarkType = "7">
+<<<<<<< HEAD
+=======
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hitcha.HitcherViewController.(networkRequest (withUrl : Swift.String, completionHandler : (Swift.Optional&lt;__ObjC.NSDictionary&gt;, Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Hitcha"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+                  timestampString = "515701203.697099"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hitcha.HitcherViewController.(networkRequest (withUrl : Swift.String, completionHandler : (Swift.Optional&lt;__ObjC.NSDictionary&gt;, Swift.Optional&lt;__ObjC.NSError&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Hitcha"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+                  timestampString = "515701203.699639"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -1402,12 +1549,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991464.786934"
+=======
+                  timestampString = "515701203.724007"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "220"
                   endingLineNumber = "220"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "587">
+=======
+                  offsetFromSymbolStart = "484">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1417,12 +1572,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991464.789403"
+=======
+                  timestampString = "515701203.726183"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "229"
                   endingLineNumber = "229"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "52">
+=======
+                  offsetFromSymbolStart = "44">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1498,12 +1661,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991465.023479"
+=======
+                  timestampString = "515701203.744251"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "318"
                   endingLineNumber = "318"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "609">
+=======
+                  offsetFromSymbolStart = "484">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1513,12 +1684,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991465.026217"
+=======
+                  timestampString = "515701203.746404"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "318"
                   endingLineNumber = "318"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "3471">
+=======
+                  offsetFromSymbolStart = "2484">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1546,12 +1725,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991465.141467"
+=======
+                  timestampString = "515701203.751585"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "318"
                   endingLineNumber = "318"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "609">
+=======
+                  offsetFromSymbolStart = "484">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1561,12 +1748,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991465.145029"
+=======
+                  timestampString = "515701203.753803"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "318"
                   endingLineNumber = "318"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "3471">
+=======
+                  offsetFromSymbolStart = "2484">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1594,12 +1789,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991465.255243"
+=======
+                  timestampString = "515701203.760515"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "320"
                   endingLineNumber = "320"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "992">
+=======
+                  offsetFromSymbolStart = "752">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1609,12 +1812,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991465.257952"
+=======
+                  timestampString = "515701203.764433"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "320"
                   endingLineNumber = "320"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1372">
+=======
+                  offsetFromSymbolStart = "1008">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1754,12 +1965,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991465.607673"
+=======
+                  timestampString = "515701203.810723"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "184"
                   endingLineNumber = "184"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "5718">
+=======
+                  offsetFromSymbolStart = "4472">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1769,12 +1988,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991465.610555"
+=======
+                  timestampString = "515701203.814556"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "184"
                   endingLineNumber = "184"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "49">
+=======
+                  offsetFromSymbolStart = "48">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1978,12 +2205,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991466.521582"
+=======
+                  timestampString = "515701203.929378"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "118"
                   endingLineNumber = "118"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "2172">
+=======
+                  offsetFromSymbolStart = "1704">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -1993,12 +2228,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991466.524404"
+=======
+                  timestampString = "515701203.93264"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "119"
                   endingLineNumber = "119"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "12">
+=======
+                  offsetFromSymbolStart = "16">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2106,12 +2349,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991466.970132"
+=======
+                  timestampString = "515701203.972837"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "133"
                   endingLineNumber = "133"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "4314">
+=======
+                  offsetFromSymbolStart = "3296">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2121,12 +2372,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991466.972743"
+=======
+                  timestampString = "515701203.97599"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "134"
                   endingLineNumber = "134"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "12">
+=======
+                  offsetFromSymbolStart = "16">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2154,12 +2413,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991467.085691"
+=======
+                  timestampString = "515701203.984283"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "134"
                   endingLineNumber = "134"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "4441">
+=======
+                  offsetFromSymbolStart = "3396">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2169,12 +2436,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991467.094518"
+=======
+                  timestampString = "515701203.988081"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "134"
                   endingLineNumber = "134"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "12">
+=======
+                  offsetFromSymbolStart = "16">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2202,12 +2477,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991467.206875"
+=======
+                  timestampString = "515701203.996923"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "136"
                   endingLineNumber = "136"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "4537">
+=======
+                  offsetFromSymbolStart = "3468">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2217,12 +2500,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991467.209592"
+=======
+                  timestampString = "515701204.00005"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "136"
                   endingLineNumber = "136"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "73">
+=======
+                  offsetFromSymbolStart = "76">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2474,12 +2765,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991468.01518"
+=======
+                  timestampString = "515701204.093304"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "192"
                   endingLineNumber = "192"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1170">
+=======
+                  offsetFromSymbolStart = "904">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2489,12 +2788,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991468.017742"
+=======
+                  timestampString = "515701204.096576"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "192"
                   endingLineNumber = "192"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "3859">
+=======
+                  offsetFromSymbolStart = "2840">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2650,12 +2957,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991468.590306"
+=======
+                  timestampString = "515701204.153939"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "265"
                   endingLineNumber = "265"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1550">
+=======
+                  offsetFromSymbolStart = "1176">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2665,12 +2980,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991468.593133"
+=======
+                  timestampString = "515701204.157028"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "265"
                   endingLineNumber = "265"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1930">
+=======
+                  offsetFromSymbolStart = "1432">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2746,12 +3069,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991468.926622"
+=======
+                  timestampString = "515701204.182508"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "381"
                   endingLineNumber = "381"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "3089">
+=======
+                  offsetFromSymbolStart = "2288">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2761,12 +3092,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991468.930009"
+=======
+                  timestampString = "515701204.185888"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "381"
                   endingLineNumber = "381"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "5833">
+=======
+                  offsetFromSymbolStart = "4328">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2794,12 +3133,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991469.040503"
+=======
+                  timestampString = "515701204.193572"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "382"
                   endingLineNumber = "382"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "3443">
+=======
+                  offsetFromSymbolStart = "2540">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2809,12 +3156,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991469.043315"
+=======
+                  timestampString = "515701204.197062"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "382"
                   endingLineNumber = "382"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "3823">
+=======
+                  offsetFromSymbolStart = "2796">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2906,12 +3261,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991469.489021"
+=======
+                  timestampString = "515701204.229089"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "370"
                   endingLineNumber = "370"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1089">
+=======
+                  offsetFromSymbolStart = "804">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2921,12 +3284,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991469.491859"
+=======
+                  timestampString = "515701204.233164"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "370"
                   endingLineNumber = "370"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1469">
+=======
+                  offsetFromSymbolStart = "1060">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -2954,12 +3325,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991469.604287"
+=======
+                  timestampString = "515701204.241792"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "368"
                   endingLineNumber = "368"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "692">
+=======
+                  offsetFromSymbolStart = "528">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2969,12 +3348,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991469.607231"
+=======
+                  timestampString = "515701204.245686"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "368"
                   endingLineNumber = "368"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "5825">
+=======
+                  offsetFromSymbolStart = "4324">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -3082,12 +3469,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991469.95285"
+=======
+                  timestampString = "515701204.289664"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "597"
                   endingLineNumber = "597"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1209">
+=======
+                  offsetFromSymbolStart = "972">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3097,12 +3492,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991469.955626"
+=======
+                  timestampString = "515701204.293621"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "597"
                   endingLineNumber = "597"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "1364">
+=======
+                  offsetFromSymbolStart = "1096">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -3130,12 +3533,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/DriverViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991470.063617"
+=======
+                  timestampString = "515701204.303003"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "17"
                   endingLineNumber = "17"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "27">
+=======
+                  offsetFromSymbolStart = "40">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3145,12 +3556,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/DriverViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991470.066418"
+=======
+                  timestampString = "515701204.306802"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "17"
                   endingLineNumber = "17"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "42">
+=======
+                  offsetFromSymbolStart = "52">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3160,12 +3579,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/DriverViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991470.068934"
+=======
+                  timestampString = "515701204.310832"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "17"
                   endingLineNumber = "17"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "70">
+=======
+                  offsetFromSymbolStart = "76">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3175,12 +3602,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/Hitcha/DriverViewController.swift"
+<<<<<<< HEAD
                   timestampString = "516991470.071507"
+=======
+                  timestampString = "515701204.31461"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "17"
                   endingLineNumber = "17"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "28">
+=======
+                  offsetFromSymbolStart = "36">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -3336,12 +3771,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991470.853197"
+=======
+                  timestampString = "515701204.38115"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "20"
                   endingLineNumber = "20"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "172">
+=======
+                  offsetFromSymbolStart = "156">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3351,12 +3794,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991470.857499"
+=======
+                  timestampString = "515701204.384723"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
                   endingLineNumber = "21"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "19">
+=======
+                  offsetFromSymbolStart = "20">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -3384,12 +3835,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991470.968821"
+=======
+                  timestampString = "515701204.391677"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "20"
                   endingLineNumber = "20"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "172">
+=======
+                  offsetFromSymbolStart = "156">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3399,12 +3858,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991470.971605"
+=======
+                  timestampString = "515701204.394588"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
                   endingLineNumber = "21"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "19">
+=======
+                  offsetFromSymbolStart = "20">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -3464,12 +3931,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991471.198655"
+=======
+                  timestampString = "515701204.414338"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "111"
                   endingLineNumber = "111"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "230">
+=======
+                  offsetFromSymbolStart = "208">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3479,12 +3954,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991471.201266"
+=======
+                  timestampString = "515701204.417787"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "111"
                   endingLineNumber = "111"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "32">
+=======
+                  offsetFromSymbolStart = "44">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>
@@ -3512,12 +3995,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991471.311397"
+=======
+                  timestampString = "515701204.429237"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "114"
                   endingLineNumber = "114"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "292">
+=======
+                  offsetFromSymbolStart = "248">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -3527,12 +4018,20 @@
                   moduleName = "Hitcha"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/danielphiri/Documents/iOS%20DeCal/Projects/Hitcha/ProfileRequests.swift"
+<<<<<<< HEAD
                   timestampString = "516991471.314394"
+=======
+                  timestampString = "515701204.432912"
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "111"
                   endingLineNumber = "111"
+<<<<<<< HEAD
                   offsetFromSymbolStart = "32">
+=======
+                  offsetFromSymbolStart = "44">
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                </Location>
             </Locations>
          </BreakpointContent>

@@ -1,0 +1,593 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MasterViewController"
+provides-nominal:
+- "C11iOS_Example20MasterViewController"
+provides-member:
+- ["C11iOS_Example20MasterViewController", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "detailViewController"
+- "objects"
+- "prepare"
+- "titleImageView"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "DetailViewController"
+- !private "DownloadRequest"
+- "MasterViewController"
+- "NSMutableArray"
+- !private "Request"
+- !private "StringLiteralType"
+- "UIImageView"
+- !private "UINavigationController"
+- "UIStoryboardSegue"
+- "UITableViewController"
+- !private "~="
+depends-member:
+- !private ["Ps9AnyObject", "DownloadRequest"]
+- ["Ps9AnyObject", "NSMutableArray"]
+- !private ["Ps9AnyObject", "Request"]
+- !private ["Ps9AnyObject", "awakeFromNib"]
+- !private ["Ps9AnyObject", "destination"]
+- !private ["Ps9AnyObject", "detailViewController"]
+- !private ["Ps9AnyObject", "identifier"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "navigationItem"]
+- !private ["Ps9AnyObject", "request"]
+- !private ["Ps9AnyObject", "segueIdentifier"]
+- !private ["Ps9AnyObject", "splitViewController"]
+- !private ["Ps9AnyObject", "titleImageView"]
+- !private ["Ps9AnyObject", "titleView"]
+- !private ["Ps9AnyObject", "topViewController"]
+- !private ["Ps9AnyObject", "viewControllers"]
+- !private ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "last"]
+- !private ["Ps23BidirectionalCollection", "last"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps7CVarArg", "DownloadRequest"]
+- ["Ps7CVarArg", "NSMutableArray"]
+- !private ["Ps7CVarArg", "Request"]
+- !private ["Ps7CVarArg", "awakeFromNib"]
+- !private ["Ps7CVarArg", "destination"]
+- !private ["Ps7CVarArg", "detailViewController"]
+- !private ["Ps7CVarArg", "identifier"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "last"]
+- !private ["Ps7CVarArg", "navigationItem"]
+- !private ["Ps7CVarArg", "request"]
+- !private ["Ps7CVarArg", "segueIdentifier"]
+- !private ["Ps7CVarArg", "splitViewController"]
+- !private ["Ps7CVarArg", "titleImageView"]
+- !private ["Ps7CVarArg", "titleView"]
+- !private ["Ps7CVarArg", "topViewController"]
+- !private ["Ps7CVarArg", "viewControllers"]
+- !private ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "last"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "DownloadRequest"]
+- ["Ps28CustomDebugStringConvertible", "NSMutableArray"]
+- !private ["Ps28CustomDebugStringConvertible", "Request"]
+- !private ["Ps28CustomDebugStringConvertible", "awakeFromNib"]
+- !private ["Ps28CustomDebugStringConvertible", "destination"]
+- !private ["Ps28CustomDebugStringConvertible", "detailViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "identifier"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "last"]
+- !private ["Ps28CustomDebugStringConvertible", "navigationItem"]
+- !private ["Ps28CustomDebugStringConvertible", "request"]
+- !private ["Ps28CustomDebugStringConvertible", "segueIdentifier"]
+- !private ["Ps28CustomDebugStringConvertible", "splitViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "titleImageView"]
+- !private ["Ps28CustomDebugStringConvertible", "titleView"]
+- !private ["Ps28CustomDebugStringConvertible", "topViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "viewControllers"]
+- !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "last"]
+- !private ["Ps23CustomStringConvertible", "DownloadRequest"]
+- ["Ps23CustomStringConvertible", "NSMutableArray"]
+- !private ["Ps23CustomStringConvertible", "Request"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "awakeFromNib"]
+- !private ["Ps23CustomStringConvertible", "destination"]
+- !private ["Ps23CustomStringConvertible", "detailViewController"]
+- !private ["Ps23CustomStringConvertible", "identifier"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "last"]
+- !private ["Ps23CustomStringConvertible", "navigationItem"]
+- !private ["Ps23CustomStringConvertible", "request"]
+- !private ["Ps23CustomStringConvertible", "segueIdentifier"]
+- !private ["Ps23CustomStringConvertible", "splitViewController"]
+- !private ["Ps23CustomStringConvertible", "titleImageView"]
+- !private ["Ps23CustomStringConvertible", "titleView"]
+- !private ["Ps23CustomStringConvertible", "topViewController"]
+- !private ["Ps23CustomStringConvertible", "viewControllers"]
+- !private ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["C11iOS_Example20DetailViewController", "request"]
+- !private ["C11iOS_Example20DetailViewController", "segueIdentifier"]
+- !private ["Ps9Equatable", "DownloadRequest"]
+- ["Ps9Equatable", "NSMutableArray"]
+- !private ["Ps9Equatable", "Request"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "awakeFromNib"]
+- !private ["Ps9Equatable", "destination"]
+- !private ["Ps9Equatable", "detailViewController"]
+- !private ["Ps9Equatable", "identifier"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "navigationItem"]
+- !private ["Ps9Equatable", "request"]
+- !private ["Ps9Equatable", "segueIdentifier"]
+- !private ["Ps9Equatable", "splitViewController"]
+- !private ["Ps9Equatable", "titleImageView"]
+- !private ["Ps9Equatable", "titleView"]
+- !private ["Ps9Equatable", "topViewController"]
+- !private ["Ps9Equatable", "viewControllers"]
+- !private ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "last"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "DownloadRequest"]
+- ["Ps8Hashable", "NSMutableArray"]
+- !private ["Ps8Hashable", "Request"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "awakeFromNib"]
+- !private ["Ps8Hashable", "destination"]
+- !private ["Ps8Hashable", "detailViewController"]
+- !private ["Ps8Hashable", "identifier"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "navigationItem"]
+- !private ["Ps8Hashable", "request"]
+- !private ["Ps8Hashable", "segueIdentifier"]
+- !private ["Ps8Hashable", "splitViewController"]
+- !private ["Ps8Hashable", "titleImageView"]
+- !private ["Ps8Hashable", "titleView"]
+- !private ["Ps8Hashable", "topViewController"]
+- !private ["Ps8Hashable", "viewControllers"]
+- !private ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- ["C11iOS_Example20MasterViewController", "DetailViewController"]
+- !private ["C11iOS_Example20MasterViewController", "DownloadRequest"]
+- ["C11iOS_Example20MasterViewController", "NSMutableArray"]
+- !private ["C11iOS_Example20MasterViewController", "Request"]
+- ["C11iOS_Example20MasterViewController", "UIImageView"]
+- !private ["C11iOS_Example20MasterViewController", "UINavigationController"]
+- ["C11iOS_Example20MasterViewController", "UIStoryboardSegue"]
+- ["C11iOS_Example20MasterViewController", "awakeFromNib"]
+- ["C11iOS_Example20MasterViewController", "deinit"]
+- ["C11iOS_Example20MasterViewController", "detailViewController"]
+- ["C11iOS_Example20MasterViewController", "init"]
+- !private ["C11iOS_Example20MasterViewController", "navigationItem"]
+- ["C11iOS_Example20MasterViewController", "objects"]
+- ["C11iOS_Example20MasterViewController", "prepare"]
+- !private ["C11iOS_Example20MasterViewController", "splitViewController"]
+- ["C11iOS_Example20MasterViewController", "titleImageView"]
+- ["C11iOS_Example20MasterViewController", "viewDidLoad"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "last"]
+- ["CSo7NSArray", "init"]
+- !private ["PSo8NSCoding", "DownloadRequest"]
+- ["PSo8NSCoding", "NSMutableArray"]
+- !private ["PSo8NSCoding", "Request"]
+- !private ["PSo8NSCoding", "awakeFromNib"]
+- !private ["PSo8NSCoding", "detailViewController"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "navigationItem"]
+- !private ["PSo8NSCoding", "request"]
+- !private ["PSo8NSCoding", "segueIdentifier"]
+- !private ["PSo8NSCoding", "splitViewController"]
+- !private ["PSo8NSCoding", "titleImageView"]
+- !private ["PSo8NSCoding", "titleView"]
+- !private ["PSo8NSCoding", "topViewController"]
+- !private ["PSo8NSCoding", "viewControllers"]
+- !private ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "DownloadRequest"]
+- ["PSo26NSExtensionRequestHandling", "NSMutableArray"]
+- !private ["PSo26NSExtensionRequestHandling", "Request"]
+- !private ["PSo26NSExtensionRequestHandling", "awakeFromNib"]
+- !private ["PSo26NSExtensionRequestHandling", "detailViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationItem"]
+- !private ["PSo26NSExtensionRequestHandling", "request"]
+- !private ["PSo26NSExtensionRequestHandling", "segueIdentifier"]
+- !private ["PSo26NSExtensionRequestHandling", "splitViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "titleImageView"]
+- !private ["PSo26NSExtensionRequestHandling", "topViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "viewControllers"]
+- !private ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["PSo17NSFastEnumeration", "init"]
+- ["CSo14NSMutableArray", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "DetailViewController"]
+- !private ["CSo8NSObject", "DownloadRequest"]
+- ["CSo8NSObject", "NSMutableArray"]
+- !private ["CSo8NSObject", "Request"]
+- ["CSo8NSObject", "UIImageView"]
+- !private ["CSo8NSObject", "UINavigationController"]
+- ["CSo8NSObject", "UIStoryboardSegue"]
+- ["CSo8NSObject", "awakeFromNib"]
+- !private ["CSo8NSObject", "destination"]
+- ["CSo8NSObject", "detailViewController"]
+- !private ["CSo8NSObject", "identifier"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "navigationItem"]
+- ["CSo8NSObject", "objects"]
+- ["CSo8NSObject", "prepare"]
+- !private ["CSo8NSObject", "request"]
+- !private ["CSo8NSObject", "segueIdentifier"]
+- !private ["CSo8NSObject", "splitViewController"]
+- ["CSo8NSObject", "titleImageView"]
+- !private ["CSo8NSObject", "titleView"]
+- !private ["CSo8NSObject", "topViewController"]
+- !private ["CSo8NSObject", "viewControllers"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "DownloadRequest"]
+- ["PSo16NSObjectProtocol", "NSMutableArray"]
+- !private ["PSo16NSObjectProtocol", "Request"]
+- !private ["PSo16NSObjectProtocol", "awakeFromNib"]
+- !private ["PSo16NSObjectProtocol", "destination"]
+- !private ["PSo16NSObjectProtocol", "detailViewController"]
+- !private ["PSo16NSObjectProtocol", "identifier"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "navigationItem"]
+- !private ["PSo16NSObjectProtocol", "request"]
+- !private ["PSo16NSObjectProtocol", "segueIdentifier"]
+- !private ["PSo16NSObjectProtocol", "splitViewController"]
+- !private ["PSo16NSObjectProtocol", "titleImageView"]
+- !private ["PSo16NSObjectProtocol", "titleView"]
+- !private ["PSo16NSObjectProtocol", "topViewController"]
+- !private ["PSo16NSObjectProtocol", "viewControllers"]
+- !private ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["Ps22RandomAccessCollection", "last"]
+- !private ["Ps26RangeReplaceableCollection", "last"]
+- ["Ps8Sequence", "init"]
+- !private ["Ps8Sequence", "last"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo21UIAppearanceContainer", "DownloadRequest"]
+- ["PSo21UIAppearanceContainer", "NSMutableArray"]
+- !private ["PSo21UIAppearanceContainer", "Request"]
+- !private ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- !private ["PSo21UIAppearanceContainer", "detailViewController"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "navigationItem"]
+- !private ["PSo21UIAppearanceContainer", "request"]
+- !private ["PSo21UIAppearanceContainer", "segueIdentifier"]
+- !private ["PSo21UIAppearanceContainer", "splitViewController"]
+- !private ["PSo21UIAppearanceContainer", "titleImageView"]
+- !private ["PSo21UIAppearanceContainer", "topViewController"]
+- !private ["PSo21UIAppearanceContainer", "viewControllers"]
+- !private ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "DownloadRequest"]
+- ["PSo18UIContentContainer", "NSMutableArray"]
+- !private ["PSo18UIContentContainer", "Request"]
+- !private ["PSo18UIContentContainer", "awakeFromNib"]
+- !private ["PSo18UIContentContainer", "detailViewController"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "navigationItem"]
+- !private ["PSo18UIContentContainer", "request"]
+- !private ["PSo18UIContentContainer", "segueIdentifier"]
+- !private ["PSo18UIContentContainer", "splitViewController"]
+- !private ["PSo18UIContentContainer", "titleImageView"]
+- !private ["PSo18UIContentContainer", "topViewController"]
+- !private ["PSo18UIContentContainer", "viewControllers"]
+- !private ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "DownloadRequest"]
+- ["PSo18UIFocusEnvironment", "NSMutableArray"]
+- !private ["PSo18UIFocusEnvironment", "Request"]
+- !private ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- !private ["PSo18UIFocusEnvironment", "detailViewController"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "navigationItem"]
+- !private ["PSo18UIFocusEnvironment", "request"]
+- !private ["PSo18UIFocusEnvironment", "segueIdentifier"]
+- !private ["PSo18UIFocusEnvironment", "splitViewController"]
+- !private ["PSo18UIFocusEnvironment", "titleImageView"]
+- !private ["PSo18UIFocusEnvironment", "topViewController"]
+- !private ["PSo18UIFocusEnvironment", "viewControllers"]
+- !private ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo22UINavigationController", "topViewController"]
+- !private ["CSo16UINavigationItem", "titleView"]
+- ["CSo11UIResponder", "DetailViewController"]
+- !private ["CSo11UIResponder", "DownloadRequest"]
+- ["CSo11UIResponder", "NSMutableArray"]
+- !private ["CSo11UIResponder", "Request"]
+- ["CSo11UIResponder", "UIImageView"]
+- !private ["CSo11UIResponder", "UINavigationController"]
+- ["CSo11UIResponder", "UIStoryboardSegue"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "detailViewController"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "navigationItem"]
+- ["CSo11UIResponder", "objects"]
+- ["CSo11UIResponder", "prepare"]
+- !private ["CSo11UIResponder", "request"]
+- !private ["CSo11UIResponder", "segueIdentifier"]
+- !private ["CSo11UIResponder", "splitViewController"]
+- ["CSo11UIResponder", "titleImageView"]
+- !private ["CSo11UIResponder", "topViewController"]
+- !private ["CSo11UIResponder", "viewControllers"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "DownloadRequest"]
+- ["PSo30UIResponderStandardEditActions", "NSMutableArray"]
+- !private ["PSo30UIResponderStandardEditActions", "Request"]
+- !private ["PSo30UIResponderStandardEditActions", "awakeFromNib"]
+- !private ["PSo30UIResponderStandardEditActions", "detailViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "navigationItem"]
+- !private ["PSo30UIResponderStandardEditActions", "request"]
+- !private ["PSo30UIResponderStandardEditActions", "segueIdentifier"]
+- !private ["PSo30UIResponderStandardEditActions", "splitViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "titleImageView"]
+- !private ["PSo30UIResponderStandardEditActions", "topViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "viewControllers"]
+- !private ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo20UIScrollViewDelegate", "DownloadRequest"]
+- ["PSo20UIScrollViewDelegate", "NSMutableArray"]
+- !private ["PSo20UIScrollViewDelegate", "Request"]
+- !private ["PSo20UIScrollViewDelegate", "awakeFromNib"]
+- !private ["PSo20UIScrollViewDelegate", "detailViewController"]
+- !private ["PSo20UIScrollViewDelegate", "init"]
+- !private ["PSo20UIScrollViewDelegate", "navigationItem"]
+- !private ["PSo20UIScrollViewDelegate", "request"]
+- !private ["PSo20UIScrollViewDelegate", "segueIdentifier"]
+- !private ["PSo20UIScrollViewDelegate", "splitViewController"]
+- !private ["PSo20UIScrollViewDelegate", "titleImageView"]
+- !private ["PSo20UIScrollViewDelegate", "viewDidLoad"]
+- ["PSo20UIScrollViewDelegate", ""]
+- !private ["CSo21UISplitViewController", "viewControllers"]
+- !private ["PSo16UIStateRestoring", "DownloadRequest"]
+- ["PSo16UIStateRestoring", "NSMutableArray"]
+- !private ["PSo16UIStateRestoring", "Request"]
+- !private ["PSo16UIStateRestoring", "awakeFromNib"]
+- !private ["PSo16UIStateRestoring", "detailViewController"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "navigationItem"]
+- !private ["PSo16UIStateRestoring", "request"]
+- !private ["PSo16UIStateRestoring", "segueIdentifier"]
+- !private ["PSo16UIStateRestoring", "splitViewController"]
+- !private ["PSo16UIStateRestoring", "titleImageView"]
+- !private ["PSo16UIStateRestoring", "topViewController"]
+- !private ["PSo16UIStateRestoring", "viewControllers"]
+- !private ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo17UIStoryboardSegue", "destination"]
+- !private ["CSo17UIStoryboardSegue", "identifier"]
+- ["CSo21UITableViewController", "DetailViewController"]
+- !private ["CSo21UITableViewController", "DownloadRequest"]
+- ["CSo21UITableViewController", "NSMutableArray"]
+- !private ["CSo21UITableViewController", "Request"]
+- ["CSo21UITableViewController", "UIImageView"]
+- !private ["CSo21UITableViewController", "UINavigationController"]
+- ["CSo21UITableViewController", "UIStoryboardSegue"]
+- ["CSo21UITableViewController", "awakeFromNib"]
+- ["CSo21UITableViewController", "detailViewController"]
+- ["CSo21UITableViewController", "init"]
+- !private ["CSo21UITableViewController", "navigationItem"]
+- ["CSo21UITableViewController", "objects"]
+- ["CSo21UITableViewController", "prepare"]
+- !private ["CSo21UITableViewController", "request"]
+- !private ["CSo21UITableViewController", "segueIdentifier"]
+- !private ["CSo21UITableViewController", "splitViewController"]
+- ["CSo21UITableViewController", "titleImageView"]
+- ["CSo21UITableViewController", "viewDidLoad"]
+- ["CSo21UITableViewController", ""]
+- !private ["PSo21UITableViewDataSource", "DownloadRequest"]
+- ["PSo21UITableViewDataSource", "NSMutableArray"]
+- !private ["PSo21UITableViewDataSource", "Request"]
+- !private ["PSo21UITableViewDataSource", "awakeFromNib"]
+- !private ["PSo21UITableViewDataSource", "detailViewController"]
+- !private ["PSo21UITableViewDataSource", "init"]
+- !private ["PSo21UITableViewDataSource", "navigationItem"]
+- !private ["PSo21UITableViewDataSource", "request"]
+- !private ["PSo21UITableViewDataSource", "segueIdentifier"]
+- !private ["PSo21UITableViewDataSource", "splitViewController"]
+- !private ["PSo21UITableViewDataSource", "titleImageView"]
+- !private ["PSo21UITableViewDataSource", "viewDidLoad"]
+- ["PSo21UITableViewDataSource", ""]
+- !private ["PSo19UITableViewDelegate", "DownloadRequest"]
+- ["PSo19UITableViewDelegate", "NSMutableArray"]
+- !private ["PSo19UITableViewDelegate", "Request"]
+- !private ["PSo19UITableViewDelegate", "awakeFromNib"]
+- !private ["PSo19UITableViewDelegate", "detailViewController"]
+- !private ["PSo19UITableViewDelegate", "init"]
+- !private ["PSo19UITableViewDelegate", "navigationItem"]
+- !private ["PSo19UITableViewDelegate", "request"]
+- !private ["PSo19UITableViewDelegate", "segueIdentifier"]
+- !private ["PSo19UITableViewDelegate", "splitViewController"]
+- !private ["PSo19UITableViewDelegate", "titleImageView"]
+- !private ["PSo19UITableViewDelegate", "viewDidLoad"]
+- ["PSo19UITableViewDelegate", ""]
+- !private ["PSo18UITraitEnvironment", "DownloadRequest"]
+- ["PSo18UITraitEnvironment", "NSMutableArray"]
+- !private ["PSo18UITraitEnvironment", "Request"]
+- !private ["PSo18UITraitEnvironment", "awakeFromNib"]
+- !private ["PSo18UITraitEnvironment", "detailViewController"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "navigationItem"]
+- !private ["PSo18UITraitEnvironment", "request"]
+- !private ["PSo18UITraitEnvironment", "segueIdentifier"]
+- !private ["PSo18UITraitEnvironment", "splitViewController"]
+- !private ["PSo18UITraitEnvironment", "titleImageView"]
+- !private ["PSo18UITraitEnvironment", "topViewController"]
+- !private ["PSo18UITraitEnvironment", "viewControllers"]
+- !private ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "DetailViewController"]
+- !private ["CSo16UIViewController", "DownloadRequest"]
+- ["CSo16UIViewController", "NSMutableArray"]
+- !private ["CSo16UIViewController", "Request"]
+- ["CSo16UIViewController", "UIImageView"]
+- !private ["CSo16UIViewController", "UINavigationController"]
+- ["CSo16UIViewController", "UIStoryboardSegue"]
+- ["CSo16UIViewController", "awakeFromNib"]
+- ["CSo16UIViewController", "detailViewController"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "navigationItem"]
+- ["CSo16UIViewController", "objects"]
+- ["CSo16UIViewController", "prepare"]
+- !private ["CSo16UIViewController", "request"]
+- !private ["CSo16UIViewController", "segueIdentifier"]
+- !private ["CSo16UIViewController", "splitViewController"]
+- ["CSo16UIViewController", "titleImageView"]
+- !private ["CSo16UIViewController", "topViewController"]
+- !private ["CSo16UIViewController", "viewControllers"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["Ps14_ArrayProtocol", "last"]
+- !private ["Ps23_BidirectionalIndexable", "last"]
+- !private ["Ps24_DestructorSafeContainer", "last"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "DownloadRequest"]
+- ["Ps9_Hashable", "NSMutableArray"]
+- !private ["Ps9_Hashable", "Request"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "awakeFromNib"]
+- !private ["Ps9_Hashable", "destination"]
+- !private ["Ps9_Hashable", "detailViewController"]
+- !private ["Ps9_Hashable", "identifier"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "navigationItem"]
+- !private ["Ps9_Hashable", "request"]
+- !private ["Ps9_Hashable", "segueIdentifier"]
+- !private ["Ps9_Hashable", "splitViewController"]
+- !private ["Ps9_Hashable", "titleImageView"]
+- !private ["Ps9_Hashable", "titleView"]
+- !private ["Ps9_Hashable", "topViewController"]
+- !private ["Ps9_Hashable", "viewControllers"]
+- !private ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps10_Indexable", "last"]
+- !private ["Ps14_IndexableBase", "last"]
+- !private ["Ps17_MutableIndexable", "last"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "last"]
+- !private ["Ps22_RandomAccessIndexable", "last"]
+- !private ["Ps26_RangeReplaceableIndexable", "last"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "C11iOS_Example20DetailViewController"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- "C11iOS_Example20MasterViewController"
+- !private "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- "CSo7NSArray"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "PSo17NSFastEnumeration"
+- "CSo14NSMutableArray"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- "Ps8Sequence"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- !private "CSo22UINavigationController"
+- !private "CSo16UINavigationItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo20UIScrollViewDelegate"
+- !private "CSo21UISplitViewController"
+- "PSo16UIStateRestoring"
+- !private "CSo17UIStoryboardSegue"
+- "CSo21UITableViewController"
+- "PSo21UITableViewDataSource"
+- "PSo19UITableViewDelegate"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps23_BidirectionalIndexable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps17_MutableIndexable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/iOS_Example-gwckkaiqlrdxoodreecuauknknoo/Build/Products/Debug-iphoneos/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+interface-hash: "c8e49d955266d13797156a95bf5d647f"

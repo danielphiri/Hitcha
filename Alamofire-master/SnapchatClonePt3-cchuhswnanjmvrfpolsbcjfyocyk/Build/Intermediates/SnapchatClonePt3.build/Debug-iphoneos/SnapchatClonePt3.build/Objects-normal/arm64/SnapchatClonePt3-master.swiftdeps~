@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "2eb5215b77d60215cbc62f44815e58a8"
+build_time: [547101651, 887633000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ImageFeed.swift": !dirty [545281107, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ImageFlowLayout.swift": !dirty [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/TabBarController.swift": !dirty [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ChooseThreadTableViewCell.swift": !dirty [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/Post.swift": !dirty [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ChooseThreadViewController.swift": !dirty [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/SignupViewController.swift": !dirty [545269434, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/PostsTableViewCell.swift": !dirty [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/AppDelegate.swift": !dirty [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/ImagePickerViewController.swift": !dirty [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/PostsTableViewController.swift": !dirty [545285487, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/Constants.swift": !dirty [544384585, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/LoginViewController.swift": !dirty [545269733, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ios-decal-proj2-part2/SnapchatClonePt3/CurrentUser.swift": !dirty [545258028, 0]

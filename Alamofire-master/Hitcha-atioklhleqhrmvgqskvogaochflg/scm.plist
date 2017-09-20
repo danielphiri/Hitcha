@@ -2,8 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<<<<<<< HEAD
 	<key>SuppressMissingCheckoutsAlert</key>
 	<true/>
+=======
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
 	<key>Version</key>
 	<integer>5</integer>
 </dict>

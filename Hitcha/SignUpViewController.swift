@@ -43,8 +43,55 @@ class SignUpViewController: UIViewController {
             present(alertController, animated: true, completion: nil)
             
         } else {
+<<<<<<< HEAD
             FIRAuth.auth()?.createUser(withEmail: email, password: password) { (user, error) in
                 if (self.passwordFirstInput.text != self.verifyPasswordInput.text) {
+=======
+            //FIRAuth.auth().
+            FIRAuth.auth()?.createUser(withEmail: email, password: password) { (user, error) in
+                
+                if error == nil {
+                    //NSUserName() = nam
+                    //CurrentUser.username = name
+                    // user?.displayName = name
+                    //FIRAuth.auth()?.currentUser?.profileChangeRequest().displayName = name + self.lastNameInput.text!
+                    //var user = FIRuser(userNameInput.text)
+                    //user.setValue(user)
+                    let changeReq = user!.profileChangeRequest()
+                    changeReq.displayName = self.firstNameTextInput.text! + "."
+                    changeReq.commitChanges(completion:
+                        { (err) in
+                            if let err = err {
+                                print(err)
+                            } else {
+                                
+                            }
+                            
+                    })
+
+                    print("You have successfully signed up")
+                    //Goes to the Setup page which lets the user take a photo for their profile picture and also chose a username
+                    uid = (FIRAuth.auth()?.currentUser?.uid)!
+                    updateProfileInfo(email: email, username: self.userNameInput.text!, lastName: self.lastNameInput.text!)
+                    let alertController = UIAlertController(title: "Congratulations!", message: "You have successfully signed up", preferredStyle: .alert)
+                    
+                    //let defaultAction = UIAlertAction(title: "OK", style: .cancel, handler: nil)
+                    /*alertController.addAction(defaultAction)*/
+                    
+                    
+                    //                    let vc = self.storyboard?.instantiateViewController(withIdentifier: "signupToMain")
+                    //                    self.present(vc!, animated: true, completion: nil)
+                    alertController.addAction(UIAlertAction(title: "Okay", style: .default, handler:
+                        {
+                            [unowned self] (action) -> Void in
+                            self.performSegue(withIdentifier: "signUpToMain", sender: nil)
+                    }))
+                    self.present(alertController, animated: true, completion: nil)
+                    
+                    
+                    
+                } else if (self.passwordFirstInput.text != self.verifyPasswordInput.text) {
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                     let alertController = UIAlertController(title: "Verification Error.", message: "The two passwords do not match.", preferredStyle: .alert)
                     
                     let defaultAction = UIAlertAction(title: "OK", style: .cancel, handler: nil)
@@ -52,6 +99,7 @@ class SignUpViewController: UIViewController {
                     
                     self.present(alertController, animated: true, completion: nil)
                     
+<<<<<<< HEAD
                 } else if error == nil {
                         let changeReq = user!.profileChangeRequest()
                         changeReq.displayName = self.firstNameTextInput.text! + "."
@@ -83,6 +131,15 @@ class SignUpViewController: UIViewController {
                         alertController.addAction(defaultAction)
                     
                         self.present(alertController, animated: true, completion: nil)
+=======
+                } else {
+                    let alertController = UIAlertController(title: "Sign Up Error", message: error?.localizedDescription, preferredStyle: .alert)
+                    
+                    let defaultAction = UIAlertAction(title: "OK", style: .cancel, handler: nil)
+                    alertController.addAction(defaultAction)
+                    
+                    self.present(alertController, animated: true, completion: nil)
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                 }
             }
         }

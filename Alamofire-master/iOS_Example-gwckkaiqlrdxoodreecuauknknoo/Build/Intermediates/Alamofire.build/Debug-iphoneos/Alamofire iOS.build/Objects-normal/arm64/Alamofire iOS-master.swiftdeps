@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "9b157c51505819881274fd60c0ceb5f9"
+build_time: [546545924, 432905000]
+inputs:
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/Timeline.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/SessionDelegate.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/ParameterEncoding.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/Request.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/ResponseSerialization.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/AFError.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/SessionManager.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/Response.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/Alamofire.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/MultipartFormData.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/ServerTrustPolicy.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/DispatchQueue+Alamofire.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/NetworkReachabilityManager.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/TaskDelegate.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/Validation.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/Notifications.swift": [545788154, 0]
+  "/Users/danielphiri/Downloads/Alamofire-master/Source/Result.swift": [545788154, 0]

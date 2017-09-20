@@ -318,7 +318,11 @@ func matchUsers(userId: String) {
         for key in (value?.keys)! {
             //var keyInRead = false
             if let user1 = value?[key] as! [String: String]? {
+<<<<<<< HEAD
                 if (key != userId) {
+=======
+                if (key == userId) {
+>>>>>>> 2f30e0f5aeb83fc1035d49b84195356df1d5105a
                     break
                 }
                 for valu in user1.keys {
