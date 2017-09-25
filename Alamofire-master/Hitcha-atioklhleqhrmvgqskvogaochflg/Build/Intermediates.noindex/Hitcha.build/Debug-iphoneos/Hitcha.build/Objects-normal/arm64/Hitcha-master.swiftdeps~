@@ -1,0 +1,18 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "e03f97480c9fb701aa1305b28b664446"
+build_time: [1506315263, 332486000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/ProfileRequests.swift": [1499846342, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/DriverViewController.swift": [1493758498, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/RideSelectionViewController.swift": [1493764358, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/SignUpViewController.swift": [1499846342, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Data Model/DataStrings.swift": [1493779343, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/UserMenuViewController.swift": [1493985934, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/MainViewController.swift": [1493330031, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/MenuContentTableViewCell.swift": [1492441707, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/SignInViewController.swift": [1494129433, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/PlacesViewController.swift": [1492554984, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/BioTextViewController.swift": [1506046433, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/AppDelegate.swift": [1494004197, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/HitcherViewController.swift": [1493989075, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha/USerMenuSeque.swift": [1492401612, 0]

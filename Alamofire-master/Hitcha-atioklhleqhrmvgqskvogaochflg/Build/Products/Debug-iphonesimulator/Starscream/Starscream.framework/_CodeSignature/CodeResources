@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Starscream-Swift.h</key>
 		<data>
-		2ctGBwXnKAQX1QAX1scvnQbp/ys=
+		9hjVvEwh6ARYEA1Co1Km2Lk0TkE=
 		</data>
 		<key>Headers/Starscream-umbrella.h</key>
 		<data>
@@ -14,19 +14,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ThjF7VyknYnDiS6mNqXIWDKQH7A=
+		0fwK213fpl5GtDFkqWCcedIm2nc=
 		</data>
 		<key>Modules/Starscream.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		TWHqaJqbjpvYCOYNvJE19kw6vYc=
+		UAap35qas1okpso2yvUtc3ceY1U=
 		</data>
 		<key>Modules/Starscream.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		0OOqNxf1UsW0R5hc2k+Mhxl1MS4=
+		vDP01jVbvKvoKZgoRLBQWXSPtGU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		GGGNiNicm+e/MfYmSrhiHFN96qc=
+		yyNUgOkPr8ym3UvMLQlv72hhQ78=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -35,11 +35,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2ctGBwXnKAQX1QAX1scvnQbp/ys=
+			9hjVvEwh6ARYEA1Co1Km2Lk0TkE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CQi/RLeE5DsqDl/hpKGSBg0zZ7PskELkawo5RzNC8cY=
+			xFxkGP4hJB7JwGxa2KzFPuRl443Fk5r2wjsfp5Bvg/c=
 			</data>
 		</dict>
 		<key>Headers/Starscream-umbrella.h</key>
@@ -57,33 +57,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TWHqaJqbjpvYCOYNvJE19kw6vYc=
+			UAap35qas1okpso2yvUtc3ceY1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			0HFx1hOG7d8M7rSeUZqY+Xvm+lL1C9f2ALL8s3rLaLg=
+			Q7a/JYhFX9CkgEqlNRmpkpeqn9q6NxQSp2pl1bWgZGM=
 			</data>
 		</dict>
 		<key>Modules/Starscream.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0OOqNxf1UsW0R5hc2k+Mhxl1MS4=
+			vDP01jVbvKvoKZgoRLBQWXSPtGU=
 			</data>
 			<key>hash2</key>
 			<data>
-			geiibHskvoSriq8cce8NQBJYkjU9mcUhvMkH+qfmEcs=
+			k4PNf0Z1HmIOGeYl+/JOcvpiifMdoCuwR1nZI5U1/mY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GGGNiNicm+e/MfYmSrhiHFN96qc=
+			yyNUgOkPr8ym3UvMLQlv72hhQ78=
 			</data>
 			<key>hash2</key>
 			<data>
-			GaQn8JWqPsk61F2EJoWROmlNiHiSX+cg0ackSgdV1hw=
+			BQcMKd/ZrPl39wBt7DLqDbqurAIgvDoh00nN7q21Wis=
 			</data>
 		</dict>
 	</dict>

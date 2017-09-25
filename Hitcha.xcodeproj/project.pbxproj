@@ -21,25 +21,25 @@
 		9410AE5F1EAF99290015F610 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9410AE5E1EAF99290015F610 /* QuartzCore.framework */; };
 		9410AE601EAF99430015F610 /* Accelerate.framework in Sources */ = {isa = PBXBuildFile; fileRef = 9410AE5C1EAF99090015F610 /* Accelerate.framework */; };
 		9410AE611EAF99490015F610 /* QuartzCore.framework in Sources */ = {isa = PBXBuildFile; fileRef = 9410AE5E1EAF99290015F610 /* QuartzCore.framework */; };
+		942811B61F799194007F5EC9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 942811B51F799194007F5EC9 /* LaunchScreen.storyboard */; };
+		942811B81F79B10C007F5EC9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 942811B71F79B10B007F5EC9 /* Main.storyboard */; };
 		946570DD1E9C1D7300B11444 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570DC1E9C1D7300B11444 /* AppDelegate.swift */; };
 		946570DF1E9C1D7300B11444 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570DE1E9C1D7300B11444 /* SignInViewController.swift */; };
-		946570E21E9C1D7300B11444 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 946570E01E9C1D7300B11444 /* Main.storyboard */; };
 		946570E51E9C1D7300B11444 /* Hitcha.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 946570E31E9C1D7300B11444 /* Hitcha.xcdatamodeld */; };
 		946570E71E9C1D7300B11444 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 946570E61E9C1D7300B11444 /* Assets.xcassets */; };
-		946570EA1E9C1D7300B11444 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 946570E81E9C1D7300B11444 /* LaunchScreen.storyboard */; };
 		946570F51E9C1D7300B11444 /* HitchaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570F41E9C1D7300B11444 /* HitchaTests.swift */; };
 		946571001E9C1D7300B11444 /* HitchaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570FF1E9C1D7300B11444 /* HitchaUITests.swift */; };
 		9465710E1E9C1E8400B11444 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9465710D1E9C1E8400B11444 /* GoogleService-Info.plist */; };
 		946571101E9C30AA00B11444 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9465710F1E9C30AA00B11444 /* MapKit.framework */; };
 		946571191E9C384300B11444 /* DataStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946571181E9C384300B11444 /* DataStrings.swift */; };
+		94896F611F78BC94004CC786 /* ProfileRequests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94896F601F78BC94004CC786 /* ProfileRequests.swift */; };
+		94896F631F78BCF8004CC786 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94896F621F78BCF8004CC786 /* SignUpViewController.swift */; };
 		9493359B1EB9A24C008835C8 /* BioTextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9493359A1EB9A24C008835C8 /* BioTextViewController.swift */; };
-		949F059A1E9C706C00FC69F9 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 949F05991E9C706C00FC69F9 /* SignUpViewController.swift */; };
 		94AF20951EB29FB8004C9DFE /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AF20941EB29FB8004C9DFE /* MainViewController.swift */; };
 		94AF20971EB2A122004C9DFE /* RideSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AF20961EB2A122004C9DFE /* RideSelectionViewController.swift */; };
 		94C4AD3C1EA6979B0027AA89 /* HitcherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C4AD3B1EA6979B0027AA89 /* HitcherViewController.swift */; };
 		94C4AD3E1EA69C110027AA89 /* DriverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C4AD3D1EA69C110027AA89 /* DriverViewController.swift */; };
 		94C4AD401EA6C8930027AA89 /* PlacesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C4AD3F1EA6C8930027AA89 /* PlacesViewController.swift */; };
-		94E3BC471EB581C6009CED47 /* ProfileRequests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E3BC461EB581C6009CED47 /* ProfileRequests.swift */; };
 		94EAA71C1EA2DAF10061A52F /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94EAA71B1EA2DAF10061A52F /* SWRevealViewController.m */; };
 		94EAA71E1EA44CC00061A52F /* UserMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EAA71D1EA44CC00061A52F /* UserMenuViewController.swift */; };
 		94EAA7201EA44D670061A52F /* USerMenuSeque.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EAA71F1EA44D670061A52F /* USerMenuSeque.swift */; };
@@ -92,13 +92,13 @@
 		9410AE551EAF94060015F610 /* GTMSessionFetcher.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GTMSessionFetcher.framework; path = "../../../../Library/Developer/Xcode/DerivedData/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework"; sourceTree = "<group>"; };
 		9410AE5C1EAF99090015F610 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		9410AE5E1EAF99290015F610 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		942811B51F799194007F5EC9 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		942811B71F79B10B007F5EC9 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		946570D91E9C1D7300B11444 /* Hitcha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hitcha.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		946570DC1E9C1D7300B11444 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		946570DE1E9C1D7300B11444 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
-		946570E11E9C1D7300B11444 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		946570E41E9C1D7300B11444 /* Hitcha.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Hitcha.xcdatamodel; sourceTree = "<group>"; };
 		946570E61E9C1D7300B11444 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		946570E91E9C1D7300B11444 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		946570EB1E9C1D7300B11444 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		946570F01E9C1D7300B11444 /* HitchaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HitchaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		946570F41E9C1D7300B11444 /* HitchaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitchaTests.swift; sourceTree = "<group>"; };
@@ -109,14 +109,14 @@
 		9465710D1E9C1E8400B11444 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../ios-decal-proj2-part2/SnapchatClonePt3/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		9465710F1E9C30AA00B11444 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		946571181E9C384300B11444 /* DataStrings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DataStrings.swift; path = "Data Model/DataStrings.swift"; sourceTree = "<group>"; };
+		94896F601F78BC94004CC786 /* ProfileRequests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileRequests.swift; sourceTree = "<group>"; };
+		94896F621F78BCF8004CC786 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		9493359A1EB9A24C008835C8 /* BioTextViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BioTextViewController.swift; sourceTree = "<group>"; };
-		949F05991E9C706C00FC69F9 /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		94AF20941EB29FB8004C9DFE /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainViewController.swift; path = ../MainViewController.swift; sourceTree = "<group>"; };
 		94AF20961EB2A122004C9DFE /* RideSelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RideSelectionViewController.swift; sourceTree = "<group>"; };
 		94C4AD3B1EA6979B0027AA89 /* HitcherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HitcherViewController.swift; sourceTree = "<group>"; };
 		94C4AD3D1EA69C110027AA89 /* DriverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DriverViewController.swift; sourceTree = "<group>"; };
 		94C4AD3F1EA6C8930027AA89 /* PlacesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacesViewController.swift; sourceTree = "<group>"; };
-		94E3BC461EB581C6009CED47 /* ProfileRequests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileRequests.swift; sourceTree = "<group>"; };
 		94EAA7191EA2DAF00061A52F /* Hitcha-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hitcha-Bridging-Header.h"; sourceTree = "<group>"; };
 		94EAA71A1EA2DAF10061A52F /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SWRevealViewController.h; path = "SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h"; sourceTree = "<group>"; };
 		94EAA71B1EA2DAF10061A52F /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SWRevealViewController.m; path = "SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m"; sourceTree = "<group>"; };
@@ -185,7 +185,6 @@
 			children = (
 				94E3BC411EB571A3009CED47 /* UserInfo */,
 				94EAA7141EA1D0D80061A52F /* SWRevealViewController */,
-				9465711C1E9C4CB200B11444 /* Assets */,
 				946571171E9C37B200B11444 /* Data Model */,
 				946570DB1E9C1D7300B11444 /* Hitcha */,
 				946570F31E9C1D7300B11444 /* HitchaTests */,
@@ -209,20 +208,20 @@
 		946570DB1E9C1D7300B11444 /* Hitcha */ = {
 			isa = PBXGroup;
 			children = (
+				942811B71F79B10B007F5EC9 /* Main.storyboard */,
+				942811B51F799194007F5EC9 /* LaunchScreen.storyboard */,
 				94C4AD3D1EA69C110027AA89 /* DriverViewController.swift */,
 				946570DC1E9C1D7300B11444 /* AppDelegate.swift */,
 				946570DE1E9C1D7300B11444 /* SignInViewController.swift */,
-				946570E01E9C1D7300B11444 /* Main.storyboard */,
 				9493359A1EB9A24C008835C8 /* BioTextViewController.swift */,
 				94AF20941EB29FB8004C9DFE /* MainViewController.swift */,
+				94896F621F78BCF8004CC786 /* SignUpViewController.swift */,
 				94AF20961EB2A122004C9DFE /* RideSelectionViewController.swift */,
 				94C4AD3B1EA6979B0027AA89 /* HitcherViewController.swift */,
 				94EAA7211EA480390061A52F /* MenuContentTableViewCell.swift */,
 				94EAA71D1EA44CC00061A52F /* UserMenuViewController.swift */,
 				94EAA71F1EA44D670061A52F /* USerMenuSeque.swift */,
-				949F05991E9C706C00FC69F9 /* SignUpViewController.swift */,
 				946570E61E9C1D7300B11444 /* Assets.xcassets */,
-				946570E81E9C1D7300B11444 /* LaunchScreen.storyboard */,
 				9465710D1E9C1E8400B11444 /* GoogleService-Info.plist */,
 				946570EB1E9C1D7300B11444 /* Info.plist */,
 				946570E31E9C1D7300B11444 /* Hitcha.xcdatamodeld */,
@@ -253,16 +252,9 @@
 			isa = PBXGroup;
 			children = (
 				946571181E9C384300B11444 /* DataStrings.swift */,
-				94E3BC461EB581C6009CED47 /* ProfileRequests.swift */,
+				94896F601F78BC94004CC786 /* ProfileRequests.swift */,
 			);
 			name = "Data Model";
-			sourceTree = "<group>";
-		};
-		9465711C1E9C4CB200B11444 /* Assets */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = Assets;
 			sourceTree = "<group>";
 		};
 		94E3BC411EB571A3009CED47 /* UserInfo */ = {
@@ -428,10 +420,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				942811B61F799194007F5EC9 /* LaunchScreen.storyboard in Resources */,
 				9465710E1E9C1E8400B11444 /* GoogleService-Info.plist in Resources */,
-				946570EA1E9C1D7300B11444 /* LaunchScreen.storyboard in Resources */,
 				946570E71E9C1D7300B11444 /* Assets.xcassets in Resources */,
-				946570E21E9C1D7300B11444 /* Main.storyboard in Resources */,
+				942811B81F79B10C007F5EC9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -595,23 +587,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				9410AE611EAF99490015F610 /* QuartzCore.framework in Sources */,
+				94896F611F78BC94004CC786 /* ProfileRequests.swift in Sources */,
 				9410AE601EAF99430015F610 /* Accelerate.framework in Sources */,
 				9410AE591EAF94BB0015F610 /* Alamofire.framework in Sources */,
 				94C4AD3E1EA69C110027AA89 /* DriverViewController.swift in Sources */,
 				94AF20971EB2A122004C9DFE /* RideSelectionViewController.swift in Sources */,
 				94EAA71C1EA2DAF10061A52F /* SWRevealViewController.m in Sources */,
+				94896F631F78BCF8004CC786 /* SignUpViewController.swift in Sources */,
 				946571191E9C384300B11444 /* DataStrings.swift in Sources */,
 				94EAA71E1EA44CC00061A52F /* UserMenuViewController.swift in Sources */,
 				94AF20951EB29FB8004C9DFE /* MainViewController.swift in Sources */,
 				946570E51E9C1D7300B11444 /* Hitcha.xcdatamodeld in Sources */,
 				94EAA7221EA480390061A52F /* MenuContentTableViewCell.swift in Sources */,
-				94E3BC471EB581C6009CED47 /* ProfileRequests.swift in Sources */,
 				946570DF1E9C1D7300B11444 /* SignInViewController.swift in Sources */,
 				94C4AD401EA6C8930027AA89 /* PlacesViewController.swift in Sources */,
 				9493359B1EB9A24C008835C8 /* BioTextViewController.swift in Sources */,
 				946570DD1E9C1D7300B11444 /* AppDelegate.swift in Sources */,
 				94C4AD3C1EA6979B0027AA89 /* HitcherViewController.swift in Sources */,
-				949F059A1E9C706C00FC69F9 /* SignUpViewController.swift in Sources */,
 				94EAA7201EA44D670061A52F /* USerMenuSeque.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -646,25 +638,6 @@
 			targetProxy = 946570FC1E9C1D7300B11444 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		946570E01E9C1D7300B11444 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				946570E11E9C1D7300B11444 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		946570E81E9C1D7300B11444 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				946570E91E9C1D7300B11444 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		946571021E9C1D7300B11444 /* Debug */ = {
@@ -776,6 +749,7 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = Hitcha/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.Hitcha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -798,6 +772,7 @@
 					"$(PROJECT_DIR)/build/Debug-iphoneos",
 				);
 				INFOPLIST_FILE = Hitcha/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.Hitcha;
 				PRODUCT_NAME = "$(TARGET_NAME)";

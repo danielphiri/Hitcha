@@ -1,16 +1,16 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "520693519B94DBF1292FB59F69443F7CACACC278",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2A2DBF712E7DF5BE752F007FE6FDA876B669F885",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "72551981A54D922923B0C1FAAB7B45C517AB1BA7" : 9223372036854775807,
-    "520693519B94DBF1292FB59F69443F7CACACC278" : 9223372036854775807
+    "2A2DBF712E7DF5BE752F007FE6FDA876B669F885" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F0E22E2-9FC1-4EB2-A3C9-85F06517A8D4",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "72551981A54D922923B0C1FAAB7B45C517AB1BA7" : "ios-decal-proj2-part2\/",
-    "520693519B94DBF1292FB59F69443F7CACACC278" : "Hitcha\/"
+    "2A2DBF712E7DF5BE752F007FE6FDA876B669F885" : "Hitcha\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Hitcha",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -19,7 +19,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danielphiri\/sharearide.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "520693519B94DBF1292FB59F69443F7CACACC278"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A2DBF712E7DF5BE752F007FE6FDA876B669F885"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danielphiri\/ios-decal-proj2-part2",

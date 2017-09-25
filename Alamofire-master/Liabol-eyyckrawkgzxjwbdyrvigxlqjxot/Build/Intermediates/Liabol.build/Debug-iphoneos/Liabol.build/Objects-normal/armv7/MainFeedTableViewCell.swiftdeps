@@ -1,0 +1,1320 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MainFeedTableViewCell"
+provides-nominal:
+- "C6Liabol21MainFeedTableViewCell"
+provides-member:
+- ["C6Liabol21MainFeedTableViewCell", ""]
+provides-dynamic-lookup:
+- "addActions"
+- "awakeFromNib"
+- "businessDescription"
+- "businessLogo"
+- "businessName"
+- "businessWebsite"
+- "displayMap"
+- "displayWebsite"
+- "distanceFromUser"
+- "headliningView"
+- "keepUpApearances"
+- "parentViewController"
+- "setSelected"
+- "tapFunction"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CGSize"
+- "MainFeedTableViewCell"
+- "MainFeedViewController"
+- !private "StringLiteralType"
+- "UIImageView"
+- "UILabel"
+- "UITableViewCell"
+- "UITapGestureRecognizer"
+- "UIView"
+- !private "black"
+- !private "print"
+- !private "segueMainFeedCellToProductDetails"
+- !private "segueMainFeedToBusinessWebsite"
+- !private "segueMainFeedToMap"
+- !private "white"
+depends-member:
+- !private ["Ps9AnyObject", "CGSize"]
+- ["Ps9AnyObject", "MainFeedViewController"]
+- !private ["Ps9AnyObject", "UITapGestureRecognizer"]
+- !private ["Ps9AnyObject", "addActions"]
+- !private ["Ps9AnyObject", "addGestureRecognizer"]
+- !private ["Ps9AnyObject", "awakeFromNib"]
+- !private ["Ps9AnyObject", "backgroundColor"]
+- !private ["Ps9AnyObject", "black"]
+- !private ["Ps9AnyObject", "businessLogo"]
+- !private ["Ps9AnyObject", "businessWebsite"]
+- !private ["Ps9AnyObject", "cgColor"]
+- !private ["Ps9AnyObject", "clipsToBounds"]
+- !private ["Ps9AnyObject", "contentMode"]
+- !private ["Ps9AnyObject", "contentView"]
+- !private ["Ps9AnyObject", "cornerRadius"]
+- !private ["Ps9AnyObject", "displayMap"]
+- !private ["Ps9AnyObject", "displayWebsite"]
+- !private ["Ps9AnyObject", "distanceFromUser"]
+- !private ["Ps9AnyObject", "headliningView"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "isUserInteractionEnabled"]
+- !private ["Ps9AnyObject", "layer"]
+- !private ["Ps9AnyObject", "masksToBounds"]
+- !private ["Ps9AnyObject", "parentViewController"]
+- !private ["Ps9AnyObject", "performSegue"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "segueMainFeedCellToProductDetails"]
+- !private ["Ps9AnyObject", "segueMainFeedToBusinessWebsite"]
+- !private ["Ps9AnyObject", "segueMainFeedToMap"]
+- !private ["Ps9AnyObject", "setSelected"]
+- !private ["Ps9AnyObject", "shadowColor"]
+- !private ["Ps9AnyObject", "shadowOffset"]
+- !private ["Ps9AnyObject", "shadowOpacity"]
+- !private ["Ps9AnyObject", "tapFunction"]
+- !private ["Ps9AnyObject", "white"]
+- !private ["Ps9AnyObject", "withAlphaComponent"]
+- ["Ps9AnyObject", ""]
+- !private ["CSo7CALayer", "cornerRadius"]
+- !private ["CSo7CALayer", "masksToBounds"]
+- !private ["CSo7CALayer", "shadowColor"]
+- !private ["CSo7CALayer", "shadowOffset"]
+- !private ["CSo7CALayer", "shadowOpacity"]
+- !private ["PSo15CALayerDelegate", "CGSize"]
+- ["PSo15CALayerDelegate", "MainFeedViewController"]
+- !private ["PSo15CALayerDelegate", "UITapGestureRecognizer"]
+- !private ["PSo15CALayerDelegate", "addActions"]
+- !private ["PSo15CALayerDelegate", "addGestureRecognizer"]
+- !private ["PSo15CALayerDelegate", "awakeFromNib"]
+- !private ["PSo15CALayerDelegate", "backgroundColor"]
+- !private ["PSo15CALayerDelegate", "black"]
+- !private ["PSo15CALayerDelegate", "businessLogo"]
+- !private ["PSo15CALayerDelegate", "businessWebsite"]
+- !private ["PSo15CALayerDelegate", "clipsToBounds"]
+- !private ["PSo15CALayerDelegate", "contentMode"]
+- !private ["PSo15CALayerDelegate", "contentView"]
+- !private ["PSo15CALayerDelegate", "displayMap"]
+- !private ["PSo15CALayerDelegate", "displayWebsite"]
+- !private ["PSo15CALayerDelegate", "distanceFromUser"]
+- !private ["PSo15CALayerDelegate", "headliningView"]
+- !private ["PSo15CALayerDelegate", "init"]
+- !private ["PSo15CALayerDelegate", "isUserInteractionEnabled"]
+- !private ["PSo15CALayerDelegate", "layer"]
+- !private ["PSo15CALayerDelegate", "parentViewController"]
+- !private ["PSo15CALayerDelegate", "print"]
+- !private ["PSo15CALayerDelegate", "segueMainFeedCellToProductDetails"]
+- !private ["PSo15CALayerDelegate", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo15CALayerDelegate", "segueMainFeedToMap"]
+- !private ["PSo15CALayerDelegate", "setSelected"]
+- !private ["PSo15CALayerDelegate", "tapFunction"]
+- !private ["PSo15CALayerDelegate", "white"]
+- ["PSo15CALayerDelegate", ""]
+- !private ["PSo13CAMediaTiming", "cornerRadius"]
+- !private ["PSo13CAMediaTiming", "masksToBounds"]
+- !private ["PSo13CAMediaTiming", "shadowColor"]
+- !private ["PSo13CAMediaTiming", "shadowOffset"]
+- !private ["PSo13CAMediaTiming", "shadowOpacity"]
+- !private ["VSC6CGSize", "init"]
+- ["PSo25CLLocationManagerDelegate", "init"]
+- !private ["PSo25CLLocationManagerDelegate", "performSegue"]
+- !private ["PSo15CNKeyDescriptor", "init"]
+- !private ["Ps7CVarArg", "CGSize"]
+- ["Ps7CVarArg", "MainFeedViewController"]
+- !private ["Ps7CVarArg", "UITapGestureRecognizer"]
+- !private ["Ps7CVarArg", "addActions"]
+- !private ["Ps7CVarArg", "addGestureRecognizer"]
+- !private ["Ps7CVarArg", "awakeFromNib"]
+- !private ["Ps7CVarArg", "backgroundColor"]
+- !private ["Ps7CVarArg", "black"]
+- !private ["Ps7CVarArg", "businessLogo"]
+- !private ["Ps7CVarArg", "businessWebsite"]
+- !private ["Ps7CVarArg", "cgColor"]
+- !private ["Ps7CVarArg", "clipsToBounds"]
+- !private ["Ps7CVarArg", "contentMode"]
+- !private ["Ps7CVarArg", "contentView"]
+- !private ["Ps7CVarArg", "cornerRadius"]
+- !private ["Ps7CVarArg", "displayMap"]
+- !private ["Ps7CVarArg", "displayWebsite"]
+- !private ["Ps7CVarArg", "distanceFromUser"]
+- !private ["Ps7CVarArg", "headliningView"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "isUserInteractionEnabled"]
+- !private ["Ps7CVarArg", "layer"]
+- !private ["Ps7CVarArg", "masksToBounds"]
+- !private ["Ps7CVarArg", "parentViewController"]
+- !private ["Ps7CVarArg", "performSegue"]
+- !private ["Ps7CVarArg", "print"]
+- !private ["Ps7CVarArg", "segueMainFeedCellToProductDetails"]
+- !private ["Ps7CVarArg", "segueMainFeedToBusinessWebsite"]
+- !private ["Ps7CVarArg", "segueMainFeedToMap"]
+- !private ["Ps7CVarArg", "setSelected"]
+- !private ["Ps7CVarArg", "shadowColor"]
+- !private ["Ps7CVarArg", "shadowOffset"]
+- !private ["Ps7CVarArg", "shadowOpacity"]
+- !private ["Ps7CVarArg", "tapFunction"]
+- !private ["Ps7CVarArg", "white"]
+- !private ["Ps7CVarArg", "withAlphaComponent"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "CGSize"]
+- ["Ps28CustomDebugStringConvertible", "MainFeedViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "UITapGestureRecognizer"]
+- !private ["Ps28CustomDebugStringConvertible", "addActions"]
+- !private ["Ps28CustomDebugStringConvertible", "addGestureRecognizer"]
+- !private ["Ps28CustomDebugStringConvertible", "awakeFromNib"]
+- !private ["Ps28CustomDebugStringConvertible", "backgroundColor"]
+- !private ["Ps28CustomDebugStringConvertible", "black"]
+- !private ["Ps28CustomDebugStringConvertible", "businessLogo"]
+- !private ["Ps28CustomDebugStringConvertible", "businessWebsite"]
+- !private ["Ps28CustomDebugStringConvertible", "cgColor"]
+- !private ["Ps28CustomDebugStringConvertible", "clipsToBounds"]
+- !private ["Ps28CustomDebugStringConvertible", "contentMode"]
+- !private ["Ps28CustomDebugStringConvertible", "contentView"]
+- !private ["Ps28CustomDebugStringConvertible", "cornerRadius"]
+- !private ["Ps28CustomDebugStringConvertible", "displayMap"]
+- !private ["Ps28CustomDebugStringConvertible", "displayWebsite"]
+- !private ["Ps28CustomDebugStringConvertible", "distanceFromUser"]
+- !private ["Ps28CustomDebugStringConvertible", "headliningView"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "isUserInteractionEnabled"]
+- !private ["Ps28CustomDebugStringConvertible", "layer"]
+- !private ["Ps28CustomDebugStringConvertible", "masksToBounds"]
+- !private ["Ps28CustomDebugStringConvertible", "parentViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "performSegue"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "segueMainFeedCellToProductDetails"]
+- !private ["Ps28CustomDebugStringConvertible", "segueMainFeedToBusinessWebsite"]
+- !private ["Ps28CustomDebugStringConvertible", "segueMainFeedToMap"]
+- !private ["Ps28CustomDebugStringConvertible", "setSelected"]
+- !private ["Ps28CustomDebugStringConvertible", "shadowColor"]
+- !private ["Ps28CustomDebugStringConvertible", "shadowOffset"]
+- !private ["Ps28CustomDebugStringConvertible", "shadowOpacity"]
+- !private ["Ps28CustomDebugStringConvertible", "tapFunction"]
+- !private ["Ps28CustomDebugStringConvertible", "white"]
+- !private ["Ps28CustomDebugStringConvertible", "withAlphaComponent"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "CGSize"]
+- ["Ps23CustomStringConvertible", "MainFeedViewController"]
+- !private ["Ps23CustomStringConvertible", "UITapGestureRecognizer"]
+- !private ["Ps23CustomStringConvertible", "addActions"]
+- !private ["Ps23CustomStringConvertible", "addGestureRecognizer"]
+- !private ["Ps23CustomStringConvertible", "awakeFromNib"]
+- !private ["Ps23CustomStringConvertible", "backgroundColor"]
+- !private ["Ps23CustomStringConvertible", "black"]
+- !private ["Ps23CustomStringConvertible", "businessLogo"]
+- !private ["Ps23CustomStringConvertible", "businessWebsite"]
+- !private ["Ps23CustomStringConvertible", "cgColor"]
+- !private ["Ps23CustomStringConvertible", "clipsToBounds"]
+- !private ["Ps23CustomStringConvertible", "contentMode"]
+- !private ["Ps23CustomStringConvertible", "contentView"]
+- !private ["Ps23CustomStringConvertible", "cornerRadius"]
+- !private ["Ps23CustomStringConvertible", "displayMap"]
+- !private ["Ps23CustomStringConvertible", "displayWebsite"]
+- !private ["Ps23CustomStringConvertible", "distanceFromUser"]
+- !private ["Ps23CustomStringConvertible", "headliningView"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "isUserInteractionEnabled"]
+- !private ["Ps23CustomStringConvertible", "layer"]
+- !private ["Ps23CustomStringConvertible", "masksToBounds"]
+- !private ["Ps23CustomStringConvertible", "parentViewController"]
+- !private ["Ps23CustomStringConvertible", "performSegue"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "segueMainFeedCellToProductDetails"]
+- !private ["Ps23CustomStringConvertible", "segueMainFeedToBusinessWebsite"]
+- !private ["Ps23CustomStringConvertible", "segueMainFeedToMap"]
+- !private ["Ps23CustomStringConvertible", "setSelected"]
+- !private ["Ps23CustomStringConvertible", "shadowColor"]
+- !private ["Ps23CustomStringConvertible", "shadowOffset"]
+- !private ["Ps23CustomStringConvertible", "shadowOpacity"]
+- !private ["Ps23CustomStringConvertible", "tapFunction"]
+- !private ["Ps23CustomStringConvertible", "white"]
+- !private ["Ps23CustomStringConvertible", "withAlphaComponent"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CGSize"]
+- ["Ps9Equatable", "MainFeedViewController"]
+- !private ["Ps9Equatable", "UITapGestureRecognizer"]
+- !private ["Ps9Equatable", "addActions"]
+- !private ["Ps9Equatable", "addGestureRecognizer"]
+- !private ["Ps9Equatable", "awakeFromNib"]
+- !private ["Ps9Equatable", "backgroundColor"]
+- !private ["Ps9Equatable", "black"]
+- !private ["Ps9Equatable", "businessLogo"]
+- !private ["Ps9Equatable", "businessWebsite"]
+- !private ["Ps9Equatable", "cgColor"]
+- !private ["Ps9Equatable", "clipsToBounds"]
+- !private ["Ps9Equatable", "contentMode"]
+- !private ["Ps9Equatable", "contentView"]
+- !private ["Ps9Equatable", "cornerRadius"]
+- !private ["Ps9Equatable", "displayMap"]
+- !private ["Ps9Equatable", "displayWebsite"]
+- !private ["Ps9Equatable", "distanceFromUser"]
+- !private ["Ps9Equatable", "headliningView"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "isUserInteractionEnabled"]
+- !private ["Ps9Equatable", "layer"]
+- !private ["Ps9Equatable", "masksToBounds"]
+- !private ["Ps9Equatable", "parentViewController"]
+- !private ["Ps9Equatable", "performSegue"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "scaleToFill"]
+- !private ["Ps9Equatable", "segueMainFeedCellToProductDetails"]
+- !private ["Ps9Equatable", "segueMainFeedToBusinessWebsite"]
+- !private ["Ps9Equatable", "segueMainFeedToMap"]
+- !private ["Ps9Equatable", "setSelected"]
+- !private ["Ps9Equatable", "shadowColor"]
+- !private ["Ps9Equatable", "shadowOffset"]
+- !private ["Ps9Equatable", "shadowOpacity"]
+- !private ["Ps9Equatable", "tapFunction"]
+- !private ["Ps9Equatable", "white"]
+- !private ["Ps9Equatable", "withAlphaComponent"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "CGSize"]
+- ["Ps8Hashable", "MainFeedViewController"]
+- !private ["Ps8Hashable", "UITapGestureRecognizer"]
+- !private ["Ps8Hashable", "addActions"]
+- !private ["Ps8Hashable", "addGestureRecognizer"]
+- !private ["Ps8Hashable", "awakeFromNib"]
+- !private ["Ps8Hashable", "backgroundColor"]
+- !private ["Ps8Hashable", "black"]
+- !private ["Ps8Hashable", "businessLogo"]
+- !private ["Ps8Hashable", "businessWebsite"]
+- !private ["Ps8Hashable", "cgColor"]
+- !private ["Ps8Hashable", "clipsToBounds"]
+- !private ["Ps8Hashable", "contentMode"]
+- !private ["Ps8Hashable", "contentView"]
+- !private ["Ps8Hashable", "cornerRadius"]
+- !private ["Ps8Hashable", "displayMap"]
+- !private ["Ps8Hashable", "displayWebsite"]
+- !private ["Ps8Hashable", "distanceFromUser"]
+- !private ["Ps8Hashable", "headliningView"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "isUserInteractionEnabled"]
+- !private ["Ps8Hashable", "layer"]
+- !private ["Ps8Hashable", "masksToBounds"]
+- !private ["Ps8Hashable", "parentViewController"]
+- !private ["Ps8Hashable", "performSegue"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "scaleToFill"]
+- !private ["Ps8Hashable", "segueMainFeedCellToProductDetails"]
+- !private ["Ps8Hashable", "segueMainFeedToBusinessWebsite"]
+- !private ["Ps8Hashable", "segueMainFeedToMap"]
+- !private ["Ps8Hashable", "setSelected"]
+- !private ["Ps8Hashable", "shadowColor"]
+- !private ["Ps8Hashable", "shadowOffset"]
+- !private ["Ps8Hashable", "shadowOpacity"]
+- !private ["Ps8Hashable", "tapFunction"]
+- !private ["Ps8Hashable", "white"]
+- !private ["Ps8Hashable", "withAlphaComponent"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- ["C6Liabol21MainFeedTableViewCell", "Bool"]
+- !private ["C6Liabol21MainFeedTableViewCell", "CGSize"]
+- ["C6Liabol21MainFeedTableViewCell", "MainFeedViewController"]
+- ["C6Liabol21MainFeedTableViewCell", "UIImageView"]
+- ["C6Liabol21MainFeedTableViewCell", "UILabel"]
+- ["C6Liabol21MainFeedTableViewCell", "UITapGestureRecognizer"]
+- ["C6Liabol21MainFeedTableViewCell", "UIView"]
+- ["C6Liabol21MainFeedTableViewCell", "addActions"]
+- ["C6Liabol21MainFeedTableViewCell", "awakeFromNib"]
+- !private ["C6Liabol21MainFeedTableViewCell", "black"]
+- ["C6Liabol21MainFeedTableViewCell", "businessDescription"]
+- ["C6Liabol21MainFeedTableViewCell", "businessLogo"]
+- ["C6Liabol21MainFeedTableViewCell", "businessName"]
+- ["C6Liabol21MainFeedTableViewCell", "businessWebsite"]
+- !private ["C6Liabol21MainFeedTableViewCell", "contentView"]
+- ["C6Liabol21MainFeedTableViewCell", "deinit"]
+- ["C6Liabol21MainFeedTableViewCell", "displayMap"]
+- ["C6Liabol21MainFeedTableViewCell", "displayWebsite"]
+- ["C6Liabol21MainFeedTableViewCell", "distanceFromUser"]
+- ["C6Liabol21MainFeedTableViewCell", "headliningView"]
+- ["C6Liabol21MainFeedTableViewCell", "init"]
+- ["C6Liabol21MainFeedTableViewCell", "keepUpApearances"]
+- ["C6Liabol21MainFeedTableViewCell", "parentViewController"]
+- !private ["C6Liabol21MainFeedTableViewCell", "print"]
+- !private ["C6Liabol21MainFeedTableViewCell", "segueMainFeedCellToProductDetails"]
+- !private ["C6Liabol21MainFeedTableViewCell", "segueMainFeedToBusinessWebsite"]
+- !private ["C6Liabol21MainFeedTableViewCell", "segueMainFeedToMap"]
+- ["C6Liabol21MainFeedTableViewCell", "setSelected"]
+- ["C6Liabol21MainFeedTableViewCell", "tapFunction"]
+- !private ["C6Liabol21MainFeedTableViewCell", "white"]
+- ["C6Liabol22MainFeedViewController", "init"]
+- !private ["C6Liabol22MainFeedViewController", "performSegue"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "CGSize"]
+- ["PSo8NSCoding", "MainFeedViewController"]
+- !private ["PSo8NSCoding", "UITapGestureRecognizer"]
+- !private ["PSo8NSCoding", "addActions"]
+- !private ["PSo8NSCoding", "addGestureRecognizer"]
+- !private ["PSo8NSCoding", "awakeFromNib"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- !private ["PSo8NSCoding", "black"]
+- !private ["PSo8NSCoding", "businessLogo"]
+- !private ["PSo8NSCoding", "businessWebsite"]
+- !private ["PSo8NSCoding", "cgColor"]
+- !private ["PSo8NSCoding", "clipsToBounds"]
+- !private ["PSo8NSCoding", "contentMode"]
+- !private ["PSo8NSCoding", "contentView"]
+- !private ["PSo8NSCoding", "cornerRadius"]
+- !private ["PSo8NSCoding", "displayMap"]
+- !private ["PSo8NSCoding", "displayWebsite"]
+- !private ["PSo8NSCoding", "distanceFromUser"]
+- !private ["PSo8NSCoding", "headliningView"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "isUserInteractionEnabled"]
+- !private ["PSo8NSCoding", "layer"]
+- !private ["PSo8NSCoding", "masksToBounds"]
+- !private ["PSo8NSCoding", "parentViewController"]
+- !private ["PSo8NSCoding", "performSegue"]
+- !private ["PSo8NSCoding", "print"]
+- !private ["PSo8NSCoding", "segueMainFeedCellToProductDetails"]
+- !private ["PSo8NSCoding", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo8NSCoding", "segueMainFeedToMap"]
+- !private ["PSo8NSCoding", "setSelected"]
+- !private ["PSo8NSCoding", "shadowColor"]
+- !private ["PSo8NSCoding", "shadowOffset"]
+- !private ["PSo8NSCoding", "shadowOpacity"]
+- !private ["PSo8NSCoding", "tapFunction"]
+- !private ["PSo8NSCoding", "white"]
+- !private ["PSo8NSCoding", "withAlphaComponent"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "cgColor"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "withAlphaComponent"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "performSegue"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "CGSize"]
+- ["CSo8NSObject", "MainFeedViewController"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "UITapGestureRecognizer"]
+- ["CSo8NSObject", "UIView"]
+- ["CSo8NSObject", "addActions"]
+- !private ["CSo8NSObject", "addGestureRecognizer"]
+- ["CSo8NSObject", "awakeFromNib"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "black"]
+- ["CSo8NSObject", "businessDescription"]
+- ["CSo8NSObject", "businessLogo"]
+- ["CSo8NSObject", "businessName"]
+- ["CSo8NSObject", "businessWebsite"]
+- !private ["CSo8NSObject", "cgColor"]
+- !private ["CSo8NSObject", "clipsToBounds"]
+- !private ["CSo8NSObject", "contentMode"]
+- !private ["CSo8NSObject", "contentView"]
+- !private ["CSo8NSObject", "cornerRadius"]
+- ["CSo8NSObject", "displayMap"]
+- ["CSo8NSObject", "displayWebsite"]
+- ["CSo8NSObject", "distanceFromUser"]
+- ["CSo8NSObject", "headliningView"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "isUserInteractionEnabled"]
+- ["CSo8NSObject", "keepUpApearances"]
+- !private ["CSo8NSObject", "layer"]
+- !private ["CSo8NSObject", "masksToBounds"]
+- ["CSo8NSObject", "parentViewController"]
+- !private ["CSo8NSObject", "performSegue"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "segueMainFeedCellToProductDetails"]
+- !private ["CSo8NSObject", "segueMainFeedToBusinessWebsite"]
+- !private ["CSo8NSObject", "segueMainFeedToMap"]
+- ["CSo8NSObject", "setSelected"]
+- !private ["CSo8NSObject", "shadowColor"]
+- !private ["CSo8NSObject", "shadowOffset"]
+- !private ["CSo8NSObject", "shadowOpacity"]
+- ["CSo8NSObject", "tapFunction"]
+- !private ["CSo8NSObject", "white"]
+- !private ["CSo8NSObject", "withAlphaComponent"]
+- !private ["PSo16NSObjectProtocol", "CGSize"]
+- ["PSo16NSObjectProtocol", "MainFeedViewController"]
+- !private ["PSo16NSObjectProtocol", "UITapGestureRecognizer"]
+- !private ["PSo16NSObjectProtocol", "addActions"]
+- !private ["PSo16NSObjectProtocol", "addGestureRecognizer"]
+- !private ["PSo16NSObjectProtocol", "awakeFromNib"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "black"]
+- !private ["PSo16NSObjectProtocol", "businessLogo"]
+- !private ["PSo16NSObjectProtocol", "businessWebsite"]
+- !private ["PSo16NSObjectProtocol", "cgColor"]
+- !private ["PSo16NSObjectProtocol", "clipsToBounds"]
+- !private ["PSo16NSObjectProtocol", "contentMode"]
+- !private ["PSo16NSObjectProtocol", "contentView"]
+- !private ["PSo16NSObjectProtocol", "cornerRadius"]
+- !private ["PSo16NSObjectProtocol", "displayMap"]
+- !private ["PSo16NSObjectProtocol", "displayWebsite"]
+- !private ["PSo16NSObjectProtocol", "distanceFromUser"]
+- !private ["PSo16NSObjectProtocol", "headliningView"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "isUserInteractionEnabled"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- !private ["PSo16NSObjectProtocol", "masksToBounds"]
+- !private ["PSo16NSObjectProtocol", "parentViewController"]
+- !private ["PSo16NSObjectProtocol", "performSegue"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "segueMainFeedCellToProductDetails"]
+- !private ["PSo16NSObjectProtocol", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo16NSObjectProtocol", "segueMainFeedToMap"]
+- !private ["PSo16NSObjectProtocol", "setSelected"]
+- !private ["PSo16NSObjectProtocol", "shadowColor"]
+- !private ["PSo16NSObjectProtocol", "shadowOffset"]
+- !private ["PSo16NSObjectProtocol", "shadowOpacity"]
+- !private ["PSo16NSObjectProtocol", "tapFunction"]
+- !private ["PSo16NSObjectProtocol", "white"]
+- !private ["PSo16NSObjectProtocol", "withAlphaComponent"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "cgColor"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "withAlphaComponent"]
+- !private ["CSo8NSString", "init"]
+- !private ["Ps16RawRepresentable", "scaleToFill"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "CGSize"]
+- ["PSo29UIAccessibilityIdentification", "MainFeedViewController"]
+- !private ["PSo29UIAccessibilityIdentification", "UITapGestureRecognizer"]
+- !private ["PSo29UIAccessibilityIdentification", "addActions"]
+- !private ["PSo29UIAccessibilityIdentification", "addGestureRecognizer"]
+- !private ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- !private ["PSo29UIAccessibilityIdentification", "backgroundColor"]
+- !private ["PSo29UIAccessibilityIdentification", "black"]
+- !private ["PSo29UIAccessibilityIdentification", "businessLogo"]
+- !private ["PSo29UIAccessibilityIdentification", "businessWebsite"]
+- !private ["PSo29UIAccessibilityIdentification", "clipsToBounds"]
+- !private ["PSo29UIAccessibilityIdentification", "contentMode"]
+- !private ["PSo29UIAccessibilityIdentification", "contentView"]
+- !private ["PSo29UIAccessibilityIdentification", "displayMap"]
+- !private ["PSo29UIAccessibilityIdentification", "displayWebsite"]
+- !private ["PSo29UIAccessibilityIdentification", "distanceFromUser"]
+- !private ["PSo29UIAccessibilityIdentification", "headliningView"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "isUserInteractionEnabled"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- !private ["PSo29UIAccessibilityIdentification", "parentViewController"]
+- !private ["PSo29UIAccessibilityIdentification", "print"]
+- !private ["PSo29UIAccessibilityIdentification", "segueMainFeedCellToProductDetails"]
+- !private ["PSo29UIAccessibilityIdentification", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo29UIAccessibilityIdentification", "segueMainFeedToMap"]
+- !private ["PSo29UIAccessibilityIdentification", "setSelected"]
+- !private ["PSo29UIAccessibilityIdentification", "tapFunction"]
+- !private ["PSo29UIAccessibilityIdentification", "white"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "CGSize"]
+- ["PSo12UIAppearance", "MainFeedViewController"]
+- !private ["PSo12UIAppearance", "UITapGestureRecognizer"]
+- !private ["PSo12UIAppearance", "addActions"]
+- !private ["PSo12UIAppearance", "addGestureRecognizer"]
+- !private ["PSo12UIAppearance", "awakeFromNib"]
+- !private ["PSo12UIAppearance", "backgroundColor"]
+- !private ["PSo12UIAppearance", "black"]
+- !private ["PSo12UIAppearance", "businessLogo"]
+- !private ["PSo12UIAppearance", "businessWebsite"]
+- !private ["PSo12UIAppearance", "clipsToBounds"]
+- !private ["PSo12UIAppearance", "contentMode"]
+- !private ["PSo12UIAppearance", "contentView"]
+- !private ["PSo12UIAppearance", "displayMap"]
+- !private ["PSo12UIAppearance", "displayWebsite"]
+- !private ["PSo12UIAppearance", "distanceFromUser"]
+- !private ["PSo12UIAppearance", "headliningView"]
+- !private ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "isUserInteractionEnabled"]
+- !private ["PSo12UIAppearance", "layer"]
+- !private ["PSo12UIAppearance", "parentViewController"]
+- !private ["PSo12UIAppearance", "print"]
+- !private ["PSo12UIAppearance", "segueMainFeedCellToProductDetails"]
+- !private ["PSo12UIAppearance", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo12UIAppearance", "segueMainFeedToMap"]
+- !private ["PSo12UIAppearance", "setSelected"]
+- !private ["PSo12UIAppearance", "tapFunction"]
+- !private ["PSo12UIAppearance", "white"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "CGSize"]
+- ["PSo21UIAppearanceContainer", "MainFeedViewController"]
+- !private ["PSo21UIAppearanceContainer", "UITapGestureRecognizer"]
+- !private ["PSo21UIAppearanceContainer", "addActions"]
+- !private ["PSo21UIAppearanceContainer", "addGestureRecognizer"]
+- !private ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- !private ["PSo21UIAppearanceContainer", "backgroundColor"]
+- !private ["PSo21UIAppearanceContainer", "black"]
+- !private ["PSo21UIAppearanceContainer", "businessLogo"]
+- !private ["PSo21UIAppearanceContainer", "businessWebsite"]
+- !private ["PSo21UIAppearanceContainer", "clipsToBounds"]
+- !private ["PSo21UIAppearanceContainer", "contentMode"]
+- !private ["PSo21UIAppearanceContainer", "contentView"]
+- !private ["PSo21UIAppearanceContainer", "displayMap"]
+- !private ["PSo21UIAppearanceContainer", "displayWebsite"]
+- !private ["PSo21UIAppearanceContainer", "distanceFromUser"]
+- !private ["PSo21UIAppearanceContainer", "headliningView"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "isUserInteractionEnabled"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- !private ["PSo21UIAppearanceContainer", "parentViewController"]
+- !private ["PSo21UIAppearanceContainer", "performSegue"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- !private ["PSo21UIAppearanceContainer", "segueMainFeedCellToProductDetails"]
+- !private ["PSo21UIAppearanceContainer", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo21UIAppearanceContainer", "segueMainFeedToMap"]
+- !private ["PSo21UIAppearanceContainer", "setSelected"]
+- !private ["PSo21UIAppearanceContainer", "tapFunction"]
+- !private ["PSo21UIAppearanceContainer", "white"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo24UIBarPositioningDelegate", "init"]
+- !private ["PSo24UIBarPositioningDelegate", "performSegue"]
+- ["PSo26UICollectionViewDataSource", "init"]
+- !private ["PSo26UICollectionViewDataSource", "performSegue"]
+- ["PSo24UICollectionViewDelegate", "init"]
+- !private ["PSo24UICollectionViewDelegate", "performSegue"]
+- !private ["CSo7UIColor", "cgColor"]
+- !private ["CSo7UIColor", "withAlphaComponent"]
+- ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "performSegue"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "addGestureRecognizer"]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "isUserInteractionEnabled"]
+- !private ["PSo17UICoordinateSpace", "CGSize"]
+- ["PSo17UICoordinateSpace", "MainFeedViewController"]
+- !private ["PSo17UICoordinateSpace", "UITapGestureRecognizer"]
+- !private ["PSo17UICoordinateSpace", "addActions"]
+- !private ["PSo17UICoordinateSpace", "addGestureRecognizer"]
+- !private ["PSo17UICoordinateSpace", "awakeFromNib"]
+- !private ["PSo17UICoordinateSpace", "backgroundColor"]
+- !private ["PSo17UICoordinateSpace", "black"]
+- !private ["PSo17UICoordinateSpace", "businessLogo"]
+- !private ["PSo17UICoordinateSpace", "businessWebsite"]
+- !private ["PSo17UICoordinateSpace", "clipsToBounds"]
+- !private ["PSo17UICoordinateSpace", "contentMode"]
+- !private ["PSo17UICoordinateSpace", "contentView"]
+- !private ["PSo17UICoordinateSpace", "displayMap"]
+- !private ["PSo17UICoordinateSpace", "displayWebsite"]
+- !private ["PSo17UICoordinateSpace", "distanceFromUser"]
+- !private ["PSo17UICoordinateSpace", "headliningView"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "isUserInteractionEnabled"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- !private ["PSo17UICoordinateSpace", "parentViewController"]
+- !private ["PSo17UICoordinateSpace", "print"]
+- !private ["PSo17UICoordinateSpace", "segueMainFeedCellToProductDetails"]
+- !private ["PSo17UICoordinateSpace", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo17UICoordinateSpace", "segueMainFeedToMap"]
+- !private ["PSo17UICoordinateSpace", "setSelected"]
+- !private ["PSo17UICoordinateSpace", "tapFunction"]
+- !private ["PSo17UICoordinateSpace", "white"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "CGSize"]
+- ["PSo13UIDynamicItem", "MainFeedViewController"]
+- !private ["PSo13UIDynamicItem", "UITapGestureRecognizer"]
+- !private ["PSo13UIDynamicItem", "addActions"]
+- !private ["PSo13UIDynamicItem", "addGestureRecognizer"]
+- !private ["PSo13UIDynamicItem", "awakeFromNib"]
+- !private ["PSo13UIDynamicItem", "backgroundColor"]
+- !private ["PSo13UIDynamicItem", "black"]
+- !private ["PSo13UIDynamicItem", "businessLogo"]
+- !private ["PSo13UIDynamicItem", "businessWebsite"]
+- !private ["PSo13UIDynamicItem", "clipsToBounds"]
+- !private ["PSo13UIDynamicItem", "contentMode"]
+- !private ["PSo13UIDynamicItem", "contentView"]
+- !private ["PSo13UIDynamicItem", "displayMap"]
+- !private ["PSo13UIDynamicItem", "displayWebsite"]
+- !private ["PSo13UIDynamicItem", "distanceFromUser"]
+- !private ["PSo13UIDynamicItem", "headliningView"]
+- !private ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "isUserInteractionEnabled"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- !private ["PSo13UIDynamicItem", "parentViewController"]
+- !private ["PSo13UIDynamicItem", "print"]
+- !private ["PSo13UIDynamicItem", "segueMainFeedCellToProductDetails"]
+- !private ["PSo13UIDynamicItem", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo13UIDynamicItem", "segueMainFeedToMap"]
+- !private ["PSo13UIDynamicItem", "setSelected"]
+- !private ["PSo13UIDynamicItem", "tapFunction"]
+- !private ["PSo13UIDynamicItem", "white"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "CGSize"]
+- ["PSo18UIFocusEnvironment", "MainFeedViewController"]
+- !private ["PSo18UIFocusEnvironment", "UITapGestureRecognizer"]
+- !private ["PSo18UIFocusEnvironment", "addActions"]
+- !private ["PSo18UIFocusEnvironment", "addGestureRecognizer"]
+- !private ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- !private ["PSo18UIFocusEnvironment", "backgroundColor"]
+- !private ["PSo18UIFocusEnvironment", "black"]
+- !private ["PSo18UIFocusEnvironment", "businessLogo"]
+- !private ["PSo18UIFocusEnvironment", "businessWebsite"]
+- !private ["PSo18UIFocusEnvironment", "clipsToBounds"]
+- !private ["PSo18UIFocusEnvironment", "contentMode"]
+- !private ["PSo18UIFocusEnvironment", "contentView"]
+- !private ["PSo18UIFocusEnvironment", "displayMap"]
+- !private ["PSo18UIFocusEnvironment", "displayWebsite"]
+- !private ["PSo18UIFocusEnvironment", "distanceFromUser"]
+- !private ["PSo18UIFocusEnvironment", "headliningView"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "isUserInteractionEnabled"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- !private ["PSo18UIFocusEnvironment", "parentViewController"]
+- !private ["PSo18UIFocusEnvironment", "performSegue"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- !private ["PSo18UIFocusEnvironment", "segueMainFeedCellToProductDetails"]
+- !private ["PSo18UIFocusEnvironment", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo18UIFocusEnvironment", "segueMainFeedToMap"]
+- !private ["PSo18UIFocusEnvironment", "setSelected"]
+- !private ["PSo18UIFocusEnvironment", "tapFunction"]
+- !private ["PSo18UIFocusEnvironment", "white"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "CGSize"]
+- ["PSo11UIFocusItem", "MainFeedViewController"]
+- !private ["PSo11UIFocusItem", "UITapGestureRecognizer"]
+- !private ["PSo11UIFocusItem", "addActions"]
+- !private ["PSo11UIFocusItem", "addGestureRecognizer"]
+- !private ["PSo11UIFocusItem", "awakeFromNib"]
+- !private ["PSo11UIFocusItem", "backgroundColor"]
+- !private ["PSo11UIFocusItem", "black"]
+- !private ["PSo11UIFocusItem", "businessLogo"]
+- !private ["PSo11UIFocusItem", "businessWebsite"]
+- !private ["PSo11UIFocusItem", "clipsToBounds"]
+- !private ["PSo11UIFocusItem", "contentMode"]
+- !private ["PSo11UIFocusItem", "contentView"]
+- !private ["PSo11UIFocusItem", "displayMap"]
+- !private ["PSo11UIFocusItem", "displayWebsite"]
+- !private ["PSo11UIFocusItem", "distanceFromUser"]
+- !private ["PSo11UIFocusItem", "headliningView"]
+- !private ["PSo11UIFocusItem", "init"]
+- !private ["PSo11UIFocusItem", "isUserInteractionEnabled"]
+- !private ["PSo11UIFocusItem", "layer"]
+- !private ["PSo11UIFocusItem", "parentViewController"]
+- !private ["PSo11UIFocusItem", "print"]
+- !private ["PSo11UIFocusItem", "segueMainFeedCellToProductDetails"]
+- !private ["PSo11UIFocusItem", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo11UIFocusItem", "segueMainFeedToMap"]
+- !private ["PSo11UIFocusItem", "setSelected"]
+- !private ["PSo11UIFocusItem", "tapFunction"]
+- !private ["PSo11UIFocusItem", "white"]
+- ["PSo11UIFocusItem", ""]
+- !private ["CSo19UIGestureRecognizer", "init"]
+- !private ["PSo27UIGestureRecognizerDelegate", "CGSize"]
+- ["PSo27UIGestureRecognizerDelegate", "MainFeedViewController"]
+- !private ["PSo27UIGestureRecognizerDelegate", "UITapGestureRecognizer"]
+- !private ["PSo27UIGestureRecognizerDelegate", "addActions"]
+- !private ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- !private ["PSo27UIGestureRecognizerDelegate", "black"]
+- !private ["PSo27UIGestureRecognizerDelegate", "businessLogo"]
+- !private ["PSo27UIGestureRecognizerDelegate", "businessWebsite"]
+- !private ["PSo27UIGestureRecognizerDelegate", "contentView"]
+- !private ["PSo27UIGestureRecognizerDelegate", "displayMap"]
+- !private ["PSo27UIGestureRecognizerDelegate", "displayWebsite"]
+- !private ["PSo27UIGestureRecognizerDelegate", "distanceFromUser"]
+- !private ["PSo27UIGestureRecognizerDelegate", "headliningView"]
+- !private ["PSo27UIGestureRecognizerDelegate", "init"]
+- !private ["PSo27UIGestureRecognizerDelegate", "parentViewController"]
+- !private ["PSo27UIGestureRecognizerDelegate", "print"]
+- !private ["PSo27UIGestureRecognizerDelegate", "segueMainFeedCellToProductDetails"]
+- !private ["PSo27UIGestureRecognizerDelegate", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo27UIGestureRecognizerDelegate", "segueMainFeedToMap"]
+- !private ["PSo27UIGestureRecognizerDelegate", "setSelected"]
+- !private ["PSo27UIGestureRecognizerDelegate", "tapFunction"]
+- !private ["PSo27UIGestureRecognizerDelegate", "white"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- !private ["CSo11UIImageView", "clipsToBounds"]
+- !private ["CSo11UIImageView", "contentMode"]
+- !private ["CSo11UIImageView", "layer"]
+- !private ["CSo7UILabel", "addGestureRecognizer"]
+- !private ["CSo7UILabel", "isUserInteractionEnabled"]
+- ["PSo23UINavigationBarDelegate", "init"]
+- !private ["PSo23UINavigationBarDelegate", "performSegue"]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "CGSize"]
+- ["CSo11UIResponder", "MainFeedViewController"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "UITapGestureRecognizer"]
+- ["CSo11UIResponder", "UIView"]
+- ["CSo11UIResponder", "addActions"]
+- !private ["CSo11UIResponder", "addGestureRecognizer"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- !private ["CSo11UIResponder", "black"]
+- ["CSo11UIResponder", "businessDescription"]
+- ["CSo11UIResponder", "businessLogo"]
+- ["CSo11UIResponder", "businessName"]
+- ["CSo11UIResponder", "businessWebsite"]
+- !private ["CSo11UIResponder", "clipsToBounds"]
+- !private ["CSo11UIResponder", "contentMode"]
+- !private ["CSo11UIResponder", "contentView"]
+- ["CSo11UIResponder", "displayMap"]
+- ["CSo11UIResponder", "displayWebsite"]
+- ["CSo11UIResponder", "distanceFromUser"]
+- ["CSo11UIResponder", "headliningView"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "isUserInteractionEnabled"]
+- ["CSo11UIResponder", "keepUpApearances"]
+- !private ["CSo11UIResponder", "layer"]
+- ["CSo11UIResponder", "parentViewController"]
+- !private ["CSo11UIResponder", "performSegue"]
+- !private ["CSo11UIResponder", "print"]
+- !private ["CSo11UIResponder", "segueMainFeedCellToProductDetails"]
+- !private ["CSo11UIResponder", "segueMainFeedToBusinessWebsite"]
+- !private ["CSo11UIResponder", "segueMainFeedToMap"]
+- ["CSo11UIResponder", "setSelected"]
+- ["CSo11UIResponder", "tapFunction"]
+- !private ["CSo11UIResponder", "white"]
+- !private ["PSo30UIResponderStandardEditActions", "CGSize"]
+- ["PSo30UIResponderStandardEditActions", "MainFeedViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "UITapGestureRecognizer"]
+- !private ["PSo30UIResponderStandardEditActions", "addActions"]
+- !private ["PSo30UIResponderStandardEditActions", "addGestureRecognizer"]
+- !private ["PSo30UIResponderStandardEditActions", "awakeFromNib"]
+- !private ["PSo30UIResponderStandardEditActions", "backgroundColor"]
+- !private ["PSo30UIResponderStandardEditActions", "black"]
+- !private ["PSo30UIResponderStandardEditActions", "businessLogo"]
+- !private ["PSo30UIResponderStandardEditActions", "businessWebsite"]
+- !private ["PSo30UIResponderStandardEditActions", "clipsToBounds"]
+- !private ["PSo30UIResponderStandardEditActions", "contentMode"]
+- !private ["PSo30UIResponderStandardEditActions", "contentView"]
+- !private ["PSo30UIResponderStandardEditActions", "displayMap"]
+- !private ["PSo30UIResponderStandardEditActions", "displayWebsite"]
+- !private ["PSo30UIResponderStandardEditActions", "distanceFromUser"]
+- !private ["PSo30UIResponderStandardEditActions", "headliningView"]
+- ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "isUserInteractionEnabled"]
+- !private ["PSo30UIResponderStandardEditActions", "layer"]
+- !private ["PSo30UIResponderStandardEditActions", "parentViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "performSegue"]
+- !private ["PSo30UIResponderStandardEditActions", "print"]
+- !private ["PSo30UIResponderStandardEditActions", "segueMainFeedCellToProductDetails"]
+- !private ["PSo30UIResponderStandardEditActions", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo30UIResponderStandardEditActions", "segueMainFeedToMap"]
+- !private ["PSo30UIResponderStandardEditActions", "setSelected"]
+- !private ["PSo30UIResponderStandardEditActions", "tapFunction"]
+- !private ["PSo30UIResponderStandardEditActions", "white"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["PSo20UIScrollViewDelegate", "init"]
+- !private ["PSo20UIScrollViewDelegate", "performSegue"]
+- ["PSo19UISearchBarDelegate", "init"]
+- !private ["PSo19UISearchBarDelegate", "performSegue"]
+- ["PSo23UISearchDisplayDelegate", "init"]
+- !private ["PSo23UISearchDisplayDelegate", "performSegue"]
+- ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "performSegue"]
+- ["CSo15UITableViewCell", "Bool"]
+- !private ["CSo15UITableViewCell", "CGSize"]
+- ["CSo15UITableViewCell", "MainFeedViewController"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "UITapGestureRecognizer"]
+- ["CSo15UITableViewCell", "UIView"]
+- ["CSo15UITableViewCell", "addActions"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- !private ["CSo15UITableViewCell", "black"]
+- ["CSo15UITableViewCell", "businessDescription"]
+- ["CSo15UITableViewCell", "businessLogo"]
+- ["CSo15UITableViewCell", "businessName"]
+- ["CSo15UITableViewCell", "businessWebsite"]
+- !private ["CSo15UITableViewCell", "contentView"]
+- ["CSo15UITableViewCell", "displayMap"]
+- ["CSo15UITableViewCell", "displayWebsite"]
+- ["CSo15UITableViewCell", "distanceFromUser"]
+- ["CSo15UITableViewCell", "headliningView"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "keepUpApearances"]
+- ["CSo15UITableViewCell", "parentViewController"]
+- !private ["CSo15UITableViewCell", "print"]
+- !private ["CSo15UITableViewCell", "segueMainFeedCellToProductDetails"]
+- !private ["CSo15UITableViewCell", "segueMainFeedToBusinessWebsite"]
+- !private ["CSo15UITableViewCell", "segueMainFeedToMap"]
+- ["CSo15UITableViewCell", "setSelected"]
+- ["CSo15UITableViewCell", "tapFunction"]
+- !private ["CSo15UITableViewCell", "white"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo21UITableViewDataSource", "init"]
+- !private ["PSo21UITableViewDataSource", "performSegue"]
+- ["PSo19UITableViewDelegate", "init"]
+- !private ["PSo19UITableViewDelegate", "performSegue"]
+- !private ["CSo22UITapGestureRecognizer", "init"]
+- !private ["PSo18UITraitEnvironment", "CGSize"]
+- ["PSo18UITraitEnvironment", "MainFeedViewController"]
+- !private ["PSo18UITraitEnvironment", "UITapGestureRecognizer"]
+- !private ["PSo18UITraitEnvironment", "addActions"]
+- !private ["PSo18UITraitEnvironment", "addGestureRecognizer"]
+- !private ["PSo18UITraitEnvironment", "awakeFromNib"]
+- !private ["PSo18UITraitEnvironment", "backgroundColor"]
+- !private ["PSo18UITraitEnvironment", "black"]
+- !private ["PSo18UITraitEnvironment", "businessLogo"]
+- !private ["PSo18UITraitEnvironment", "businessWebsite"]
+- !private ["PSo18UITraitEnvironment", "clipsToBounds"]
+- !private ["PSo18UITraitEnvironment", "contentMode"]
+- !private ["PSo18UITraitEnvironment", "contentView"]
+- !private ["PSo18UITraitEnvironment", "displayMap"]
+- !private ["PSo18UITraitEnvironment", "displayWebsite"]
+- !private ["PSo18UITraitEnvironment", "distanceFromUser"]
+- !private ["PSo18UITraitEnvironment", "headliningView"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "isUserInteractionEnabled"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- !private ["PSo18UITraitEnvironment", "parentViewController"]
+- !private ["PSo18UITraitEnvironment", "performSegue"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- !private ["PSo18UITraitEnvironment", "segueMainFeedCellToProductDetails"]
+- !private ["PSo18UITraitEnvironment", "segueMainFeedToBusinessWebsite"]
+- !private ["PSo18UITraitEnvironment", "segueMainFeedToMap"]
+- !private ["PSo18UITraitEnvironment", "setSelected"]
+- !private ["PSo18UITraitEnvironment", "tapFunction"]
+- !private ["PSo18UITraitEnvironment", "white"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Bool"]
+- !private ["CSo6UIView", "CGSize"]
+- ["CSo6UIView", "MainFeedViewController"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "UITapGestureRecognizer"]
+- ["CSo6UIView", "UIView"]
+- ["CSo6UIView", "addActions"]
+- !private ["CSo6UIView", "addGestureRecognizer"]
+- ["CSo6UIView", "awakeFromNib"]
+- !private ["CSo6UIView", "backgroundColor"]
+- !private ["CSo6UIView", "black"]
+- ["CSo6UIView", "businessDescription"]
+- ["CSo6UIView", "businessLogo"]
+- ["CSo6UIView", "businessName"]
+- ["CSo6UIView", "businessWebsite"]
+- !private ["CSo6UIView", "clipsToBounds"]
+- !private ["CSo6UIView", "contentMode"]
+- !private ["CSo6UIView", "contentView"]
+- ["CSo6UIView", "displayMap"]
+- ["CSo6UIView", "displayWebsite"]
+- ["CSo6UIView", "distanceFromUser"]
+- ["CSo6UIView", "headliningView"]
+- ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "isUserInteractionEnabled"]
+- ["CSo6UIView", "keepUpApearances"]
+- !private ["CSo6UIView", "layer"]
+- ["CSo6UIView", "parentViewController"]
+- !private ["CSo6UIView", "print"]
+- !private ["CSo6UIView", "segueMainFeedCellToProductDetails"]
+- !private ["CSo6UIView", "segueMainFeedToBusinessWebsite"]
+- !private ["CSo6UIView", "segueMainFeedToMap"]
+- ["CSo6UIView", "setSelected"]
+- ["CSo6UIView", "tapFunction"]
+- !private ["CSo6UIView", "white"]
+- !private ["OSC17UIViewContentMode", "scaleToFill"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "performSegue"]
+- !private ["P9Alamofire14URLConvertible", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "CGSize"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "MainFeedViewController"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "UITapGestureRecognizer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "addActions"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "addGestureRecognizer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "awakeFromNib"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "backgroundColor"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "black"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "businessLogo"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "businessWebsite"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "clipsToBounds"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "contentMode"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "contentView"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "displayMap"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "displayWebsite"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "distanceFromUser"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "headliningView"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "isUserInteractionEnabled"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "layer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "parentViewController"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "print"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "segueMainFeedCellToProductDetails"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "segueMainFeedToBusinessWebsite"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "segueMainFeedToMap"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "setSelected"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "tapFunction"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "white"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByColorLiteral", "cgColor"]
+- !private ["Ps26_ExpressibleByColorLiteral", "withAlphaComponent"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "CGSize"]
+- ["Ps9_Hashable", "MainFeedViewController"]
+- !private ["Ps9_Hashable", "UITapGestureRecognizer"]
+- !private ["Ps9_Hashable", "addActions"]
+- !private ["Ps9_Hashable", "addGestureRecognizer"]
+- !private ["Ps9_Hashable", "awakeFromNib"]
+- !private ["Ps9_Hashable", "backgroundColor"]
+- !private ["Ps9_Hashable", "black"]
+- !private ["Ps9_Hashable", "businessLogo"]
+- !private ["Ps9_Hashable", "businessWebsite"]
+- !private ["Ps9_Hashable", "cgColor"]
+- !private ["Ps9_Hashable", "clipsToBounds"]
+- !private ["Ps9_Hashable", "contentMode"]
+- !private ["Ps9_Hashable", "contentView"]
+- !private ["Ps9_Hashable", "cornerRadius"]
+- !private ["Ps9_Hashable", "displayMap"]
+- !private ["Ps9_Hashable", "displayWebsite"]
+- !private ["Ps9_Hashable", "distanceFromUser"]
+- !private ["Ps9_Hashable", "headliningView"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "isUserInteractionEnabled"]
+- !private ["Ps9_Hashable", "layer"]
+- !private ["Ps9_Hashable", "masksToBounds"]
+- !private ["Ps9_Hashable", "parentViewController"]
+- !private ["Ps9_Hashable", "performSegue"]
+- !private ["Ps9_Hashable", "print"]
+- !private ["Ps9_Hashable", "scaleToFill"]
+- !private ["Ps9_Hashable", "segueMainFeedCellToProductDetails"]
+- !private ["Ps9_Hashable", "segueMainFeedToBusinessWebsite"]
+- !private ["Ps9_Hashable", "segueMainFeedToMap"]
+- !private ["Ps9_Hashable", "setSelected"]
+- !private ["Ps9_Hashable", "shadowColor"]
+- !private ["Ps9_Hashable", "shadowOffset"]
+- !private ["Ps9_Hashable", "shadowOpacity"]
+- !private ["Ps9_Hashable", "tapFunction"]
+- !private ["Ps9_Hashable", "white"]
+- !private ["Ps9_Hashable", "withAlphaComponent"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "CSo7CALayer"
+- "PSo15CALayerDelegate"
+- !private "PSo13CAMediaTiming"
+- !private "VSC6CGSize"
+- "PSo25CLLocationManagerDelegate"
+- !private "PSo15CNKeyDescriptor"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- "C6Liabol21MainFeedTableViewCell"
+- "C6Liabol22MainFeedViewController"
+- !private "Ps10MirrorPath"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Ps16RawRepresentable"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo24UIBarPositioningDelegate"
+- "PSo26UICollectionViewDataSource"
+- "PSo24UICollectionViewDelegate"
+- !private "CSo7UIColor"
+- "PSo18UIContentContainer"
+- !private "PSo30UIContentSizeCategoryAdjusting"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- !private "CSo19UIGestureRecognizer"
+- "PSo27UIGestureRecognizerDelegate"
+- !private "CSo11UIImageView"
+- !private "CSo7UILabel"
+- "PSo23UINavigationBarDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo20UIScrollViewDelegate"
+- "PSo19UISearchBarDelegate"
+- "PSo23UISearchDisplayDelegate"
+- "PSo16UIStateRestoring"
+- "CSo15UITableViewCell"
+- "PSo21UITableViewDataSource"
+- "PSo19UITableViewDelegate"
+- !private "CSo22UITapGestureRecognizer"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- !private "OSC17UIViewContentMode"
+- "CSo16UIViewController"
+- !private "P9Alamofire14URLConvertible"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByColorLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Photos.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Contacts.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/StoreKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/PassKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AudioToolbox.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AssetsLibrary.swiftmodule"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/Stripe-umbrella.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworking-umbrella.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeCustomTemplateAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAppInstallAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeContentAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentCardTextField.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCardBrand.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentMethod.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPApplePayPaymentMethod.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCard.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdReward.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSource.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAdNotificationSource.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFAutoPurgingImageCache.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAPIResponseDecodable.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPFormEncodable.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPFile.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPTheme.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/UINavigationBar+Stripe_Theme.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/Stripe.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchaseDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSizeDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitialDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedInterstitialDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitialDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAudioVideoManagerDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoControllerDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBannerDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAppEventDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdViewDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerViewDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedBannerViewDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCardValidationState.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSize.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIImage+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIRefreshControl+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIButton+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIKit+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIWebView+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIImageView+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIActivityIndicatorView+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIProgressView+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitial.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPInterstitial.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitial.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkAdapterProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkAdapterProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkConnectorProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkConnectorProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPToken.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceVerification.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage+Mediation.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPUserInformation.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFURLResponseSerialization.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFURLRequestSerialization.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Liabol/Liabol-Bridging-Header.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoader.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFImageDownloader.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPEphemeralKeyProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFURLSessionManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFHTTPSessionManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAudioVideoManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworkActivityIndicatorManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworkReachabilityManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAddCardViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCoreTableViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCoreViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Liabol/SWRevealViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCoreScrollViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentMethodsViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDebugOptionsViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPShippingAddressViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCustomer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBanner.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceOwner.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPBackendAPIAdapter.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceReceiver.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/StripeError.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequestError.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCardValidator.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelator.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAdAssetIDs.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAdAssetIDs.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADExtras.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdNetworkExtras.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventExtras.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMobileAds.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAds.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAdsDefines.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderAdTypes.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPBlocks.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceCardDetails.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceSEPADebitDetails.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCardParams.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceParams.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPBankAccountParams.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMEnums.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdViewAdOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImageAdLoaderOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelatorAdLoaderOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerViewOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventParameters.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAddress.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceRedirect.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentResult.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAPIClient.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPBankAccount.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDynamicHeightSearchRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCustomerContext.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPRedirectContext.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentContext.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediaView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchBannerView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentActivityIndicatorView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdChoicesView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAPIClient+ApplePay.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFSecurityPolicy.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPImageLibrary.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Modules/module.modulemap"
+interface-hash: "1bec8f3fae046f21d08117c0dde6ead1"

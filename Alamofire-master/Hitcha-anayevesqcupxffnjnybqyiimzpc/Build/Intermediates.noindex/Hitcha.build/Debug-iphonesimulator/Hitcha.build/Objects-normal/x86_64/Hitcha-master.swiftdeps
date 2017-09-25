@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "ad3e72436e5bfdb73c64accbcdd6d57a"
+build_time: [1506312904, 301918000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Hitcha/Data Model/DataStrings.swift": [1491867510, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Hitcha/Hitcha/SignInViewController.swift": [1491935878, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Hitcha/Hitcha/AppDelegate.swift": [1491883923, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Hitcha/Hitcha/MainViewController.swift": [1491878016, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Hitcha/Hitcha/SignUpViewController.swift": [1491935362, 0]

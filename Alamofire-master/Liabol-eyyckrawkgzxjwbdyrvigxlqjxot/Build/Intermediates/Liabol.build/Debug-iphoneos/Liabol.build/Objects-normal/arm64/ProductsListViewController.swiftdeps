@@ -1,0 +1,540 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ProductsListViewController"
+provides-nominal:
+- "C6Liabol26ProductsListViewController"
+provides-member:
+- ["C6Liabol26ProductsListViewController", ""]
+provides-dynamic-lookup:
+- "backButtonPressed"
+- "didReceiveMemoryWarning"
+- "previousScreen"
+- "productDetailsTableView"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- "ProductsListViewController"
+- "StringLiteralType"
+- "UIBarButtonItem"
+- "UITableView"
+- "UIViewController"
+- !private "segueProductDetailsToMainFeed"
+- !private "segueProductsListToCategorizedFeed"
+depends-member:
+- !private ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "performSegue"]
+- !private ["Ps9AnyObject", "previousScreen"]
+- !private ["Ps9AnyObject", "segueProductDetailsToMainFeed"]
+- !private ["Ps9AnyObject", "segueProductsListToCategorizedFeed"]
+- !private ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["PSo15CNKeyDescriptor", "init"]
+- !private ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "performSegue"]
+- !private ["Ps7CVarArg", "previousScreen"]
+- !private ["Ps7CVarArg", "segueProductDetailsToMainFeed"]
+- !private ["Ps7CVarArg", "segueProductsListToCategorizedFeed"]
+- !private ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "performSegue"]
+- !private ["Ps28CustomDebugStringConvertible", "previousScreen"]
+- !private ["Ps28CustomDebugStringConvertible", "segueProductDetailsToMainFeed"]
+- !private ["Ps28CustomDebugStringConvertible", "segueProductsListToCategorizedFeed"]
+- !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "performSegue"]
+- !private ["Ps23CustomStringConvertible", "previousScreen"]
+- !private ["Ps23CustomStringConvertible", "segueProductDetailsToMainFeed"]
+- !private ["Ps23CustomStringConvertible", "segueProductsListToCategorizedFeed"]
+- !private ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "didReceiveMemoryWarning"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "performSegue"]
+- !private ["Ps9Equatable", "previousScreen"]
+- !private ["Ps9Equatable", "segueProductDetailsToMainFeed"]
+- !private ["Ps9Equatable", "segueProductsListToCategorizedFeed"]
+- !private ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "didReceiveMemoryWarning"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "performSegue"]
+- !private ["Ps8Hashable", "previousScreen"]
+- !private ["Ps8Hashable", "segueProductDetailsToMainFeed"]
+- !private ["Ps8Hashable", "segueProductsListToCategorizedFeed"]
+- !private ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "performSegue"]
+- !private ["PSo8NSCoding", "previousScreen"]
+- !private ["PSo8NSCoding", "segueProductDetailsToMainFeed"]
+- !private ["PSo8NSCoding", "segueProductsListToCategorizedFeed"]
+- !private ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "performSegue"]
+- !private ["PSo26NSExtensionRequestHandling", "previousScreen"]
+- !private ["PSo26NSExtensionRequestHandling", "segueProductDetailsToMainFeed"]
+- !private ["PSo26NSExtensionRequestHandling", "segueProductsListToCategorizedFeed"]
+- !private ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "UIBarButtonItem"]
+- ["CSo8NSObject", "UITableView"]
+- ["CSo8NSObject", "backButtonPressed"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "performSegue"]
+- ["CSo8NSObject", "previousScreen"]
+- ["CSo8NSObject", "productDetailsTableView"]
+- !private ["CSo8NSObject", "segueProductDetailsToMainFeed"]
+- !private ["CSo8NSObject", "segueProductsListToCategorizedFeed"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "performSegue"]
+- !private ["PSo16NSObjectProtocol", "previousScreen"]
+- !private ["PSo16NSObjectProtocol", "segueProductDetailsToMainFeed"]
+- !private ["PSo16NSObjectProtocol", "segueProductsListToCategorizedFeed"]
+- !private ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["C6Liabol26ProductsListViewController", "UIBarButtonItem"]
+- ["C6Liabol26ProductsListViewController", "UITableView"]
+- ["C6Liabol26ProductsListViewController", "backButtonPressed"]
+- ["C6Liabol26ProductsListViewController", "deinit"]
+- ["C6Liabol26ProductsListViewController", "didReceiveMemoryWarning"]
+- ["C6Liabol26ProductsListViewController", "init"]
+- !private ["C6Liabol26ProductsListViewController", "performSegue"]
+- ["C6Liabol26ProductsListViewController", "previousScreen"]
+- ["C6Liabol26ProductsListViewController", "productDetailsTableView"]
+- !private ["C6Liabol26ProductsListViewController", "segueProductDetailsToMainFeed"]
+- !private ["C6Liabol26ProductsListViewController", "segueProductsListToCategorizedFeed"]
+- ["C6Liabol26ProductsListViewController", "viewDidLoad"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "performSegue"]
+- !private ["PSo21UIAppearanceContainer", "previousScreen"]
+- !private ["PSo21UIAppearanceContainer", "segueProductDetailsToMainFeed"]
+- !private ["PSo21UIAppearanceContainer", "segueProductsListToCategorizedFeed"]
+- !private ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "performSegue"]
+- !private ["PSo18UIContentContainer", "previousScreen"]
+- !private ["PSo18UIContentContainer", "segueProductDetailsToMainFeed"]
+- !private ["PSo18UIContentContainer", "segueProductsListToCategorizedFeed"]
+- !private ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "performSegue"]
+- !private ["PSo18UIFocusEnvironment", "previousScreen"]
+- !private ["PSo18UIFocusEnvironment", "segueProductDetailsToMainFeed"]
+- !private ["PSo18UIFocusEnvironment", "segueProductsListToCategorizedFeed"]
+- !private ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "UIBarButtonItem"]
+- ["CSo11UIResponder", "UITableView"]
+- ["CSo11UIResponder", "backButtonPressed"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "performSegue"]
+- ["CSo11UIResponder", "previousScreen"]
+- ["CSo11UIResponder", "productDetailsTableView"]
+- !private ["CSo11UIResponder", "segueProductDetailsToMainFeed"]
+- !private ["CSo11UIResponder", "segueProductsListToCategorizedFeed"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "performSegue"]
+- !private ["PSo30UIResponderStandardEditActions", "previousScreen"]
+- !private ["PSo30UIResponderStandardEditActions", "segueProductDetailsToMainFeed"]
+- !private ["PSo30UIResponderStandardEditActions", "segueProductsListToCategorizedFeed"]
+- !private ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "performSegue"]
+- !private ["PSo16UIStateRestoring", "previousScreen"]
+- !private ["PSo16UIStateRestoring", "segueProductDetailsToMainFeed"]
+- !private ["PSo16UIStateRestoring", "segueProductsListToCategorizedFeed"]
+- !private ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "performSegue"]
+- !private ["PSo18UITraitEnvironment", "previousScreen"]
+- !private ["PSo18UITraitEnvironment", "segueProductDetailsToMainFeed"]
+- !private ["PSo18UITraitEnvironment", "segueProductsListToCategorizedFeed"]
+- !private ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "UIBarButtonItem"]
+- ["CSo16UIViewController", "UITableView"]
+- ["CSo16UIViewController", "backButtonPressed"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "performSegue"]
+- ["CSo16UIViewController", "previousScreen"]
+- ["CSo16UIViewController", "productDetailsTableView"]
+- !private ["CSo16UIViewController", "segueProductDetailsToMainFeed"]
+- !private ["CSo16UIViewController", "segueProductsListToCategorizedFeed"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["P9Alamofire14URLConvertible", "init"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps33_ExpressibleByStringInterpolation", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "performSegue"]
+- !private ["Ps9_Hashable", "previousScreen"]
+- !private ["Ps9_Hashable", "segueProductDetailsToMainFeed"]
+- !private ["Ps9_Hashable", "segueProductsListToCategorizedFeed"]
+- !private ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- "PSo15CNKeyDescriptor"
+- "Ps7CVarArg"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "C6Liabol26ProductsListViewController"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "P9Alamofire14URLConvertible"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps33_ExpressibleByStringInterpolation"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Photos.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Contacts.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/StoreKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/MapKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/PassKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AudioToolbox.apinotesc"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/MapKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AssetsLibrary.swiftmodule"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/Stripe-umbrella.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworking-umbrella.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeCustomTemplateAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAppInstallAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeContentAd.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentCardTextField.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCardBrand.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentMethod.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPApplePayPaymentMethod.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCard.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdReward.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSource.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAdNotificationSource.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFAutoPurgingImageCache.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAPIResponseDecodable.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPFormEncodable.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPFile.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPTheme.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/UINavigationBar+Stripe_Theme.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/Stripe.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediatedNativeAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAdDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchaseDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSizeDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitialDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedInterstitialDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitialDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAudioVideoManagerDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoControllerDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBannerDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAppEventDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdViewDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerViewDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedBannerViewDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCardValidationState.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSize.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIImage+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIRefreshControl+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIButton+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIKit+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIWebView+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIImageView+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIActivityIndicatorView+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/UIProgressView+AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworking.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitial.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPInterstitial.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitial.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkAdapterProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkAdapterProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkConnectorProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkConnectorProtocol.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPToken.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceVerification.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage+Mediation.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPUserInformation.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFURLResponseSerialization.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFURLRequestSerialization.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Liabol/Liabol-Bridging-Header.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoader.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFImageDownloader.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPEphemeralKeyProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFURLSessionManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFHTTPSessionManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAudioVideoManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworkActivityIndicatorManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFNetworkReachabilityManager.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAddCardViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCoreTableViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCoreViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Liabol/SWRevealViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCoreScrollViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentMethodsViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDebugOptionsViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPShippingAddressViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCustomer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBanner.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceOwner.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPBackendAPIAdapter.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceReceiver.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/StripeError.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequestError.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCardValidator.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelator.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAdAssetIDs.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAdAssetIDs.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADExtras.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdNetworkExtras.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventExtras.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMobileAds.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAds.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAdsDefines.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderAdTypes.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPBlocks.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceCardDetails.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceSEPADebitDetails.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCardParams.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceParams.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPBankAccountParams.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMEnums.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdViewAdOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImageAdLoaderOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelatorAdLoaderOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerViewOptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventParameters.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAddress.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPSourceRedirect.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentResult.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAPIClient.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPBankAccount.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDynamicHeightSearchRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventRequest.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPCustomerContext.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPRedirectContext.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentContext.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediaView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchBannerView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPPaymentActivityIndicatorView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdChoicesView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPAPIClient+ApplePay.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Headers/AFSecurityPolicy.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Headers/STPImageLibrary.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Stripe/Stripe.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Products/Debug-iphoneos/AFNetworking/AFNetworking.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Liabol/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Modules/module.modulemap"
+interface-hash: "74fa2718fd609d1dffd10a38e474d3d4"

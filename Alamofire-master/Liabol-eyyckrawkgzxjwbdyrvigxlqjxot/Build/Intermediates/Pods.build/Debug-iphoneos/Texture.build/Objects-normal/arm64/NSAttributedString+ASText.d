@@ -1,0 +1,13 @@
+dependencies: \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Hitcha/Alamofire-master/Liabol-eyyckrawkgzxjwbdyrvigxlqjxot/Build/Intermediates/Pods.build/Debug-iphoneos/Texture.build/module.modulemap \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Target\ Support\ Files/Texture/Texture-prefix.pch \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Private/TextExperiment/Utility/NSAttributedString+ASText.m \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Private/TextExperiment/Utility/NSAttributedString+ASText.h \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Private/TextExperiment/String/ASTextAttribute.h \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Private/TextExperiment/Utility/NSParagraphStyle+ASText.h \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Private/TextExperiment/String/ASTextRunDelegate.h \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Private/TextExperiment/Utility/ASTextUtilities.h \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Private/ASInternalHelpers.h \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Base/ASAvailability.h \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Base/ASBaseDefines.h \
+  /Users/danielphiri/Documents/iOS\ DeCal/Projects/Liabol/Pods/Texture/Source/Base/ASLog.h

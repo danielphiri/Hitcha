@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "08a3197dd8d1f8464e84b7a0240cb314"
+build_time: [559363514, 826247000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/DriverViewController.swift": !dirty [547073698, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/RideSelectionViewController.swift": !dirty [547079558, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Data Model/DataStrings.swift": !dirty [547094543, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/UserMenuViewController.swift": !dirty [547301134, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/MainViewController.swift": !dirty [546645231, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/MenuContentTableViewCell.swift": !dirty [545756907, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/ProfileRequests.swift": !dirty [559154306, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/SignInViewController.swift": !dirty [547444633, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/PlacesViewController.swift": !dirty [545870184, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/BioTextViewController.swift": !dirty [547105901, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/AppDelegate.swift": !dirty [547319397, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/HitcherViewController.swift": !dirty [547304275, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/SignUpViewController.swift": !dirty [559154306, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Labs/Hitcha/Hitcha/USerMenuSeque.swift": !dirty [545716812, 0]

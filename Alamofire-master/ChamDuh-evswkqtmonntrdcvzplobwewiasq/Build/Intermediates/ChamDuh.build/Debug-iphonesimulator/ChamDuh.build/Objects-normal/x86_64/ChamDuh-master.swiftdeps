@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "25a6374064faee066d5a9d0e146cc929"
+build_time: [559359265, 511028000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ChamDuh/ChamDuh/ViewController.swift": [552379573, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/ChamDuh/ChamDuh/AppDelegate.swift": [552379573, 0]

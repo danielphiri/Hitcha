@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "e3ad8ed54a6fc04f605cc33fcd61adce"
+build_time: [1506320444, 435491000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/AFError.swift": [1493737646, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Alamofire.swift": [1493737646, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1493737646, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/MultipartFormData.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Notifications.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/ParameterEncoding.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Request.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Response.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/ResponseSerialization.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Result.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/SessionDelegate.swift": [1493737647, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/SessionManager.swift": [1493737648, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/TaskDelegate.swift": [1493737648, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Timeline.swift": [1493737648, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Alamofire/Source/Validation.swift": [1493737648, 0]
