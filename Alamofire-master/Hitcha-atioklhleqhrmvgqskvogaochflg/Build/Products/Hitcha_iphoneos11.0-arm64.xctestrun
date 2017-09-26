@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HitchaTests</key>
+	<dict>
+		<key>BundleIdentifiersForCrashReportEmphasis</key>
+		<array>
+			<string>com.cophiri.HitchaTests</string>
+			<string>com.cophiri.Hitcha</string>
+			<string>com.cophiri.HitchaUITests</string>
+		</array>
+		<key>CommandLineArguments</key>
+		<array/>
+		<key>DependentProductPaths</key>
+		<array>
+			<string>__TESTROOT__/Debug-iphoneos/Hitcha.app/PlugIns/HitchaTests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/HitchaUITests-Runner.app/PlugIns/HitchaUITests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/Hitcha.app</string>
+		</array>
+		<key>EnvironmentVariables</key>
+		<dict>
+			<key>DYLD_FRAMEWORK_PATH</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+			<key>DYLD_LIBRARY_PATH</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+			<key>OS_ACTIVITY_DT_MODE</key>
+			<string>YES</string>
+			<key>OS_ACTIVITY_MODE</key>
+			<string>disable</string>
+			<key>__XCODE_BUILT_PRODUCTS_DIR_PATHS</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+			<key>__XPC_DYLD_FRAMEWORK_PATH</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+			<key>__XPC_DYLD_LIBRARY_PATH</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+		</dict>
+		<key>IsAppHostedTestBundle</key>
+		<true/>
+		<key>ProductModuleName</key>
+		<string>HitchaTests</string>
+		<key>SystemAttachmentLifetime</key>
+		<string>deleteOnSuccess</string>
+		<key>TestBundlePath</key>
+		<string>__TESTHOST__/PlugIns/HitchaTests.xctest</string>
+		<key>TestHostBundleIdentifier</key>
+		<string>com.cophiri.Hitcha</string>
+		<key>TestHostPath</key>
+		<string>__TESTROOT__/Debug-iphoneos/Hitcha.app</string>
+		<key>TestingEnvironmentVariables</key>
+		<dict>
+			<key>DYLD_FRAMEWORK_PATH</key>
+			<string>__TESTROOT__/Debug-iphoneos:__PLATFORMS__/iPhoneOS.platform/Developer/Library/Frameworks:/Developer/Library/PrivateFrameworks</string>
+			<key>DYLD_INSERT_LIBRARIES</key>
+			<string>__PLATFORMS__/iPhoneOS.platform/Developer/Library/PrivateFrameworks/IDEBundleInjection.framework/IDEBundleInjection</string>
+			<key>DYLD_LIBRARY_PATH</key>
+			<string>__TESTROOT__/Debug-iphoneos:__PLATFORMS__/iPhoneOS.platform/Developer/Library/Frameworks:/Developer/Library/PrivateFrameworks</string>
+			<key>XCInjectBundleInto</key>
+			<string>__TESTHOST__/Hitcha</string>
+			<key>XCODE_DBG_XPC_EXCLUSIONS</key>
+			<string>com.apple.dt.xctestSymbolicator</string>
+		</dict>
+		<key>ToolchainsSettingValue</key>
+		<array/>
+		<key>UITargetAppCommandLineArguments</key>
+		<array/>
+		<key>UITargetAppMainThreadCheckerEnabled</key>
+		<false/>
+		<key>UserAttachmentLifetime</key>
+		<string>deleteOnSuccess</string>
+	</dict>
+	<key>HitchaUITests</key>
+	<dict>
+		<key>BundleIdentifiersForCrashReportEmphasis</key>
+		<array>
+			<string>com.cophiri.HitchaTests</string>
+			<string>com.cophiri.Hitcha</string>
+			<string>com.cophiri.HitchaUITests</string>
+		</array>
+		<key>CommandLineArguments</key>
+		<array/>
+		<key>DependentProductPaths</key>
+		<array>
+			<string>__TESTROOT__/Debug-iphoneos/Hitcha.app/PlugIns/HitchaTests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/HitchaUITests-Runner.app/PlugIns/HitchaUITests.xctest</string>
+			<string>__TESTROOT__/Debug-iphoneos/Hitcha.app</string>
+		</array>
+		<key>EnvironmentVariables</key>
+		<dict>
+			<key>DYLD_FRAMEWORK_PATH</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+			<key>DYLD_LIBRARY_PATH</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+			<key>OS_ACTIVITY_DT_MODE</key>
+			<string>YES</string>
+			<key>OS_ACTIVITY_MODE</key>
+			<string>disable</string>
+			<key>__XCODE_BUILT_PRODUCTS_DIR_PATHS</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+			<key>__XPC_DYLD_FRAMEWORK_PATH</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+			<key>__XPC_DYLD_LIBRARY_PATH</key>
+			<string>/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos</string>
+		</dict>
+		<key>IsUITestBundle</key>
+		<true/>
+		<key>IsXCTRunnerHostedTestBundle</key>
+		<true/>
+		<key>ProductModuleName</key>
+		<string>HitchaUITests</string>
+		<key>SystemAttachmentLifetime</key>
+		<string>deleteOnSuccess</string>
+		<key>TestBundlePath</key>
+		<string>__TESTHOST__/PlugIns/HitchaUITests.xctest</string>
+		<key>TestHostBundleIdentifier</key>
+		<string>com.apple.test.HitchaUITests-Runner</string>
+		<key>TestHostPath</key>
+		<string>__TESTROOT__/Debug-iphoneos/HitchaUITests-Runner.app</string>
+		<key>TestingEnvironmentVariables</key>
+		<dict>
+			<key>DYLD_FRAMEWORK_PATH</key>
+			<string>__TESTROOT__/Debug-iphoneos:__PLATFORMS__/iPhoneOS.platform/Developer/Library/Frameworks:/Developer/Library/PrivateFrameworks</string>
+			<key>DYLD_LIBRARY_PATH</key>
+			<string>__TESTROOT__/Debug-iphoneos:__PLATFORMS__/iPhoneOS.platform/Developer/Library/Frameworks:/Developer/Library/PrivateFrameworks</string>
+			<key>XCODE_DBG_XPC_EXCLUSIONS</key>
+			<string>com.apple.dt.xctestSymbolicator</string>
+		</dict>
+		<key>ToolchainsSettingValue</key>
+		<array/>
+		<key>UITargetAppCommandLineArguments</key>
+		<array/>
+		<key>UITargetAppMainThreadCheckerEnabled</key>
+		<false/>
+		<key>UITargetAppPath</key>
+		<string>__TESTROOT__/Debug-iphoneos/Hitcha.app</string>
+		<key>UserAttachmentLifetime</key>
+		<string>deleteOnSuccess</string>
+	</dict>
+</dict>
+</plist>

@@ -20,7 +20,6 @@ provides-dynamic-lookup:
 - "defaultLocation"
 - "destination"
 - "destinationAddress"
-- "didReceiveMemoryWarning"
 - "didRequestAutocompletePredictions"
 - "didUpdateAutocompletePredictions"
 - "directionsURL"
@@ -324,7 +323,6 @@ depends-member:
 - !private ["s7CVarArgP", "description"]
 - !private ["s7CVarArgP", "desiredAccuracy"]
 - !private ["s7CVarArgP", "destination"]
-- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
 - ["s7CVarArgP", "didRequestAutocompletePredictions"]
 - ["s7CVarArgP", "didUpdateAutocompletePredictions"]
 - !private ["s7CVarArgP", "directionsURL"]
@@ -478,7 +476,6 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "description"]
 - !private ["s28CustomDebugStringConvertibleP", "desiredAccuracy"]
 - !private ["s28CustomDebugStringConvertibleP", "destination"]
-- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
 - ["s28CustomDebugStringConvertibleP", "didRequestAutocompletePredictions"]
 - ["s28CustomDebugStringConvertibleP", "didUpdateAutocompletePredictions"]
 - !private ["s28CustomDebugStringConvertibleP", "directionsURL"]
@@ -641,7 +638,6 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "description"]
 - !private ["s23CustomStringConvertibleP", "desiredAccuracy"]
 - !private ["s23CustomStringConvertibleP", "destination"]
-- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
 - ["s23CustomStringConvertibleP", "didRequestAutocompletePredictions"]
 - ["s23CustomStringConvertibleP", "didUpdateAutocompletePredictions"]
 - !private ["s23CustomStringConvertibleP", "directionsURL"]
@@ -818,7 +814,6 @@ depends-member:
 - !private ["s9EquatableP", "description"]
 - !private ["s9EquatableP", "desiredAccuracy"]
 - !private ["s9EquatableP", "destination"]
-- !private ["s9EquatableP", "didReceiveMemoryWarning"]
 - ["s9EquatableP", "didRequestAutocompletePredictions"]
 - ["s9EquatableP", "didUpdateAutocompletePredictions"]
 - !private ["s9EquatableP", "directionsURL"]
@@ -1128,7 +1123,6 @@ depends-member:
 - !private ["s8HashableP", "description"]
 - !private ["s8HashableP", "desiredAccuracy"]
 - !private ["s8HashableP", "destination"]
-- !private ["s8HashableP", "didReceiveMemoryWarning"]
 - ["s8HashableP", "didRequestAutocompletePredictions"]
 - ["s8HashableP", "didUpdateAutocompletePredictions"]
 - !private ["s8HashableP", "directionsURL"]
@@ -1284,7 +1278,6 @@ depends-member:
 - ["6Hitcha21HitcherViewControllerC", "destination"]
 - ["6Hitcha21HitcherViewControllerC", "destinationAddress"]
 - ["6Hitcha21HitcherViewControllerC", "destinationCoordinate"]
-- ["6Hitcha21HitcherViewControllerC", "didReceiveMemoryWarning"]
 - ["6Hitcha21HitcherViewControllerC", "didRequestAutocompletePredictions"]
 - ["6Hitcha21HitcherViewControllerC", "didUpdateAutocompletePredictions"]
 - ["6Hitcha21HitcherViewControllerC", "directionsURL"]
@@ -1408,7 +1401,6 @@ depends-member:
 - !private ["So8NSCodingP", "defaultLocation"]
 - !private ["So8NSCodingP", "delegate"]
 - !private ["So8NSCodingP", "destination"]
-- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
 - ["So8NSCodingP", "didRequestAutocompletePredictions"]
 - ["So8NSCodingP", "didUpdateAutocompletePredictions"]
 - !private ["So8NSCodingP", "directionsURL"]
@@ -1525,7 +1517,6 @@ depends-member:
 - !private ["So26NSExtensionRequestHandlingP", "defaultLocation"]
 - !private ["So26NSExtensionRequestHandlingP", "delegate"]
 - !private ["So26NSExtensionRequestHandlingP", "destination"]
-- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
 - ["So26NSExtensionRequestHandlingP", "didRequestAutocompletePredictions"]
 - ["So26NSExtensionRequestHandlingP", "didUpdateAutocompletePredictions"]
 - !private ["So26NSExtensionRequestHandlingP", "directionsURL"]
@@ -1684,7 +1675,6 @@ depends-member:
 - ["So8NSObjectC", "destination"]
 - ["So8NSObjectC", "destinationAddress"]
 - ["So8NSObjectC", "destinationCoordinate"]
-- ["So8NSObjectC", "didReceiveMemoryWarning"]
 - ["So8NSObjectC", "didRequestAutocompletePredictions"]
 - ["So8NSObjectC", "didUpdateAutocompletePredictions"]
 - ["So8NSObjectC", "directionsURL"]
@@ -1832,7 +1822,6 @@ depends-member:
 - !private ["So16NSObjectProtocolP", "description"]
 - !private ["So16NSObjectProtocolP", "desiredAccuracy"]
 - !private ["So16NSObjectProtocolP", "destination"]
-- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
 - ["So16NSObjectProtocolP", "didRequestAutocompletePredictions"]
 - ["So16NSObjectProtocolP", "didUpdateAutocompletePredictions"]
 - !private ["So16NSObjectProtocolP", "directionsURL"]
@@ -2057,7 +2046,6 @@ depends-member:
 - !private ["So21UIAppearanceContainerP", "defaultLocation"]
 - !private ["So21UIAppearanceContainerP", "delegate"]
 - !private ["So21UIAppearanceContainerP", "destination"]
-- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
 - ["So21UIAppearanceContainerP", "didRequestAutocompletePredictions"]
 - ["So21UIAppearanceContainerP", "didUpdateAutocompletePredictions"]
 - !private ["So21UIAppearanceContainerP", "directionsURL"]
@@ -2156,7 +2144,6 @@ depends-member:
 - !private ["So18UIContentContainerP", "defaultLocation"]
 - !private ["So18UIContentContainerP", "delegate"]
 - !private ["So18UIContentContainerP", "destination"]
-- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
 - ["So18UIContentContainerP", "didRequestAutocompletePredictions"]
 - ["So18UIContentContainerP", "didUpdateAutocompletePredictions"]
 - !private ["So18UIContentContainerP", "directionsURL"]
@@ -2281,7 +2268,6 @@ depends-member:
 - !private ["So18UIFocusEnvironmentP", "defaultLocation"]
 - !private ["So18UIFocusEnvironmentP", "delegate"]
 - !private ["So18UIFocusEnvironmentP", "destination"]
-- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
 - ["So18UIFocusEnvironmentP", "didRequestAutocompletePredictions"]
 - ["So18UIFocusEnvironmentP", "didUpdateAutocompletePredictions"]
 - !private ["So18UIFocusEnvironmentP", "directionsURL"]
@@ -2399,7 +2385,6 @@ depends-member:
 - !private ["So30UIPasteConfigurationSupportingP", "defaultLocation"]
 - !private ["So30UIPasteConfigurationSupportingP", "delegate"]
 - !private ["So30UIPasteConfigurationSupportingP", "destination"]
-- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
 - ["So30UIPasteConfigurationSupportingP", "didRequestAutocompletePredictions"]
 - ["So30UIPasteConfigurationSupportingP", "didUpdateAutocompletePredictions"]
 - !private ["So30UIPasteConfigurationSupportingP", "directionsURL"]
@@ -2538,7 +2523,6 @@ depends-member:
 - ["So11UIResponderC", "destination"]
 - ["So11UIResponderC", "destinationAddress"]
 - ["So11UIResponderC", "destinationCoordinate"]
-- ["So11UIResponderC", "didReceiveMemoryWarning"]
 - ["So11UIResponderC", "didRequestAutocompletePredictions"]
 - ["So11UIResponderC", "didUpdateAutocompletePredictions"]
 - ["So11UIResponderC", "directionsURL"]
@@ -2653,7 +2637,6 @@ depends-member:
 - !private ["So30UIResponderStandardEditActionsP", "defaultLocation"]
 - !private ["So30UIResponderStandardEditActionsP", "delegate"]
 - !private ["So30UIResponderStandardEditActionsP", "destination"]
-- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
 - ["So30UIResponderStandardEditActionsP", "didRequestAutocompletePredictions"]
 - ["So30UIResponderStandardEditActionsP", "didUpdateAutocompletePredictions"]
 - !private ["So30UIResponderStandardEditActionsP", "directionsURL"]
@@ -2754,7 +2737,6 @@ depends-member:
 - !private ["So16UIStateRestoringP", "defaultLocation"]
 - !private ["So16UIStateRestoringP", "delegate"]
 - !private ["So16UIStateRestoringP", "destination"]
-- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
 - ["So16UIStateRestoringP", "didRequestAutocompletePredictions"]
 - ["So16UIStateRestoringP", "didUpdateAutocompletePredictions"]
 - !private ["So16UIStateRestoringP", "directionsURL"]
@@ -2859,7 +2841,6 @@ depends-member:
 - !private ["So18UITraitEnvironmentP", "defaultLocation"]
 - !private ["So18UITraitEnvironmentP", "delegate"]
 - !private ["So18UITraitEnvironmentP", "destination"]
-- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
 - ["So18UITraitEnvironmentP", "didRequestAutocompletePredictions"]
 - ["So18UITraitEnvironmentP", "didUpdateAutocompletePredictions"]
 - !private ["So18UITraitEnvironmentP", "directionsURL"]
@@ -3006,7 +2987,6 @@ depends-member:
 - ["So16UIViewControllerC", "destination"]
 - ["So16UIViewControllerC", "destinationAddress"]
 - ["So16UIViewControllerC", "destinationCoordinate"]
-- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
 - ["So16UIViewControllerC", "didRequestAutocompletePredictions"]
 - ["So16UIViewControllerC", "didUpdateAutocompletePredictions"]
 - ["So16UIViewControllerC", "directionsURL"]
@@ -3193,7 +3173,6 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "description"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "desiredAccuracy"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
-- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
 - ["10Foundation27_KeyValueCodingAndObservingP", "didRequestAutocompletePredictions"]
 - ["10Foundation27_KeyValueCodingAndObservingP", "didUpdateAutocompletePredictions"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "directionsURL"]
@@ -3617,5 +3596,4 @@ depends-external:
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/usr/include/Darwin.apinotes"
-interface-hash: "7e0e9a0999515ba6d8a9a7006d004f20"
+interface-hash: "a8e9d5042994e11ae4f982cc2aa002ac"

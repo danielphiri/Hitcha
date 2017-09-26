@@ -263,5 +263,4 @@ depends-external:
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/usr/include/Darwin.apinotes"
 interface-hash: "3ed06282771617bc7e359858634aff82"

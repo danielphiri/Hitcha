@@ -280,6 +280,7 @@ depends-member:
 - ["s9EquatableP", "rawValue"]
 - !private ["s9EquatableP", "remove"]
 - !private ["s9EquatableP", "setValue"]
+- !private ["s9EquatableP", "sorted"]
 - !private ["s9EquatableP", "startIndex"]
 - !private ["s9EquatableP", "substring"]
 - !private ["s9EquatableP", "url"]
@@ -399,9 +400,7 @@ depends-member:
 - ["9Alamofire12JSONEncodingV", "prettyPrinted"]
 - ["So17JSONSerializationC", "WritingOptions"]
 - !private ["So17JSONSerializationC", "data"]
-- !private ["s22LazyCollectionProtocolP", "sorted"]
-- !private ["s17LazyMapCollectionV", "sorted"]
-- !private ["s20LazySequenceProtocolP", "sorted"]
+- !private ["s10DictionaryV4KeysV", "sorted"]
 - !private ["10Foundation14LocalizedErrorP", "parameterEncodingFailed"]
 - !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
 - !private ["s25LosslessStringConvertibleP", "addingPercentEncoding"]
@@ -892,9 +891,7 @@ depends-nominal:
 - !private "Si"
 - "9Alamofire12JSONEncodingV"
 - "So17JSONSerializationC"
-- !private "s22LazyCollectionProtocolP"
-- !private "s17LazyMapCollectionV"
-- !private "s20LazySequenceProtocolP"
+- !private "s10DictionaryV4KeysV"
 - !private "10Foundation14LocalizedErrorP"
 - "s25LosslessStringConvertibleP"
 - "s10MirrorPathP"

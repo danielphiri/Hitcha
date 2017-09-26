@@ -17,9 +17,7 @@ class USerMenuSeque: UIStoryboardSegue {
         let dst = self.destination
         
         src.view.superview?.insertSubview(dst.view, aboveSubview: src.view)
-//        dst.view.transform = CGAffineTransform(translationX: -src.view.frame.size.width, y:0)
         dst.view.transform = CGAffineTransform(translationX: -src.view.frame.size.width, y:0)
-        //dst.view.frame(forAlignmentRect: CGRect(origin: CGPoint(x: 300,y :0), size: CGSize(width: 0, height: 0)))
         UIView.animate(withDuration: 0.3,
                                    delay: 0.1,
                                    options: UIViewAnimationOptions.curveEaseInOut,

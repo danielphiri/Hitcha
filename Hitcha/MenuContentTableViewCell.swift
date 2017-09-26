@@ -12,7 +12,6 @@ class MenuContentTableViewCell: UITableViewCell {
     
     
     //@IBOutlet weak var menuPrototype: UIView!
-
     @IBOutlet weak var menuPrototype: UILabel!
     override func awakeFromNib() {
         super.awakeFromNib()

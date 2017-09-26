@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "3494eabd2933b4f7980fd28c22b40ebb"
+build_time: [1506448558, 176409000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/HitchaUITests/HitchaUITests.swift": [1491854835, 0]

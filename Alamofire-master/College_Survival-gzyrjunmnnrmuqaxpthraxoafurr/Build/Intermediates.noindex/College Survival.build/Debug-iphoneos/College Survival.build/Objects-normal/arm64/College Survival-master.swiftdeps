@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "9ec7d266452d9370e69a1ff473a000b7"
+build_time: [1506382017, 190319000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/College Survival/College Survival/GameScene.swift": [1506379726, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/College Survival/College Survival/GameViewController.swift": [1506379726, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/College Survival/College Survival/AppDelegate.swift": [1506379724, 0]

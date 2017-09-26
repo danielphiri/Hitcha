@@ -3177,4 +3177,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Target Support Files/Starscream/Starscream-umbrella.h"
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Starscream.build/unextended-module.modulemap"
-interface-hash: "e6bde36cbd6b6ff3452744643b63824e"
+interface-hash: "e3a72fbe404b26ebb4f131000dca9d54"

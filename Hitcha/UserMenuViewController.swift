@@ -107,7 +107,7 @@ class UserMenuViewController: UIViewController, UIGestureRecognizerDelegate, UIN
     
     
     
-    func handleIt(handleTap: UITapGestureRecognizer) {
+    @objc func handleIt(handleTap: UITapGestureRecognizer) {
         
 //        let alertController = UIAlertController(title: "", message: "", preferredStyle: .actionSheet)
 //        let chooseAction = UIAlertAction(title: "Choose From Library", style: .default, handler: {
@@ -154,7 +154,7 @@ class UserMenuViewController: UIViewController, UIGestureRecognizerDelegate, UIN
 
     
 //    func singleTapping(recognizer: UIGestureRecognizer) {
-    func handleTap(handleTap: UITapGestureRecognizer) {
+    @objc func handleTap(handleTap: UITapGestureRecognizer) {
         
         let alertController = UIAlertController(title: "", message: "", preferredStyle: .actionSheet)
         let chooseAction = UIAlertAction(title: "Choose From Library", style: .default, handler: {

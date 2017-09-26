@@ -1,0 +1,822 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "store"
+- "userName"
+- "thisBio"
+- "profilePic"
+- "addProfilePic"
+- "addBio"
+- "updateProfileInfo"
+- "updateMoves"
+- "updateWith"
+- "getPosts"
+- "getBio"
+- "getThis"
+- "getProfileImage"
+- "updateFireBase"
+- "thisFrom"
+- "thisTo"
+- "thisName"
+- "matchUsers"
+- "getNames"
+- "flaten"
+- "getDataFromPath"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "+="
+- !private "=="
+- !private "AnyObject"
+- "AssignmentPrecedence"
+- "BooleanLiteralType"
+- !private "CastingPrecedence"
+- "Data"
+- !private "DateFormatter"
+- !private "ExtendedGraphemeClusterType"
+- !private "FIRAuth"
+- !private "FIRDataEventType"
+- !private "FIRDatabase"
+- !private "FIRStorage"
+- "String"
+- "StringLiteralType"
+- "UIImage"
+- !private "UIImageJPEGRepresentation"
+- !private "UUID"
+- !private "UnicodeScalarType"
+- "UserMenuViewController"
+- "Void"
+- "addBio"
+- "addProfilePic"
+- !private "dateFormat"
+- !private "firBio"
+- !private "firDestinationLatitude"
+- !private "firDestinationLongitude"
+- !private "firJourneyUrl"
+- !private "firLastName"
+- !private "firMode"
+- !private "firOnTheMove"
+- !private "firOriginLatitude"
+- !private "firOriginalLongitude"
+- !private "firProfilePic"
+- !private "firProfiles"
+- !private "firStorageImagesPath"
+- !private "firUserEmail"
+- !private "firUsername"
+- !private "firWithUser"
+- "flaten"
+- "getBio"
+- "getDataFromPath"
+- "getNames"
+- "getPosts"
+- "getProfileImage"
+- "getThis"
+- "matchUsers"
+- !private "print"
+- "profilePic"
+- "store"
+- "thisBio"
+- "thisFrom"
+- "thisName"
+- "thisTo"
+- !private "uid"
+- "updateFireBase"
+- "updateMoves"
+- "updateProfileInfo"
+- "updateWith"
+- "userName"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "characters"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "auth"]
+- !private ["s7CVarArgP", "characters"]
+- !private ["s7CVarArgP", "child"]
+- !private ["s7CVarArgP", "currentUser"]
+- !private ["s7CVarArgP", "data"]
+- !private ["s7CVarArgP", "database"]
+- !private ["s7CVarArgP", "dateFormat"]
+- !private ["s7CVarArgP", "displayName"]
+- !private ["s7CVarArgP", "image"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "keys"]
+- !private ["s7CVarArgP", "observe"]
+- !private ["s7CVarArgP", "observeSingleEvent"]
+- !private ["s7CVarArgP", "profileName"]
+- !private ["s7CVarArgP", "put"]
+- !private ["s7CVarArgP", "queryEqual"]
+- !private ["s7CVarArgP", "reference"]
+- !private ["s7CVarArgP", "setValue"]
+- !private ["s7CVarArgP", "storage"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "uid"]
+- !private ["s7CVarArgP", "updateChildValues"]
+- !private ["s7CVarArgP", "userBio"]
+- !private ["s7CVarArgP", "userImagView"]
+- !private ["s7CVarArgP", "value"]
+- !private ["s9CharacterV", "description"]
+- !private ["s9CharacterV", "init"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "characters"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "keys"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "characters"]
+- !private ["s10ComparableP", "description"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "auth"]
+- !private ["s28CustomDebugStringConvertibleP", "characters"]
+- !private ["s28CustomDebugStringConvertibleP", "child"]
+- !private ["s28CustomDebugStringConvertibleP", "currentUser"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- !private ["s28CustomDebugStringConvertibleP", "database"]
+- !private ["s28CustomDebugStringConvertibleP", "dateFormat"]
+- !private ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "displayName"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "keys"]
+- !private ["s28CustomDebugStringConvertibleP", "observe"]
+- !private ["s28CustomDebugStringConvertibleP", "observeSingleEvent"]
+- !private ["s28CustomDebugStringConvertibleP", "profileName"]
+- !private ["s28CustomDebugStringConvertibleP", "put"]
+- !private ["s28CustomDebugStringConvertibleP", "queryEqual"]
+- !private ["s28CustomDebugStringConvertibleP", "reference"]
+- !private ["s28CustomDebugStringConvertibleP", "setValue"]
+- !private ["s28CustomDebugStringConvertibleP", "storage"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "uid"]
+- !private ["s28CustomDebugStringConvertibleP", "updateChildValues"]
+- !private ["s28CustomDebugStringConvertibleP", "userBio"]
+- !private ["s28CustomDebugStringConvertibleP", "userImagView"]
+- !private ["s28CustomDebugStringConvertibleP", "uuidString"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "characters"]
+- !private ["s29CustomPlaygroundQuickLookableP", "description"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "characters"]
+- !private ["s17CustomReflectableP", "description"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "keys"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "uuidString"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "auth"]
+- !private ["s23CustomStringConvertibleP", "characters"]
+- !private ["s23CustomStringConvertibleP", "child"]
+- !private ["s23CustomStringConvertibleP", "currentUser"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- !private ["s23CustomStringConvertibleP", "database"]
+- !private ["s23CustomStringConvertibleP", "dateFormat"]
+- !private ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "displayName"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "keys"]
+- !private ["s23CustomStringConvertibleP", "observe"]
+- !private ["s23CustomStringConvertibleP", "observeSingleEvent"]
+- !private ["s23CustomStringConvertibleP", "profileName"]
+- !private ["s23CustomStringConvertibleP", "put"]
+- !private ["s23CustomStringConvertibleP", "queryEqual"]
+- !private ["s23CustomStringConvertibleP", "reference"]
+- !private ["s23CustomStringConvertibleP", "setValue"]
+- !private ["s23CustomStringConvertibleP", "storage"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "uid"]
+- !private ["s23CustomStringConvertibleP", "updateChildValues"]
+- !private ["s23CustomStringConvertibleP", "userBio"]
+- !private ["s23CustomStringConvertibleP", "userImagView"]
+- !private ["s23CustomStringConvertibleP", "uuidString"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["So13DateFormatterC", "dateFormat"]
+- !private ["So13DateFormatterC", "init"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "characters"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "keys"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9DecodableP", "uuidString"]
+- !private ["s10DictionaryV", "init"]
+- !private ["s10DictionaryV", "keys"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "characters"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "keys"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EncodableP", "uuidString"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "auth"]
+- !private ["s9EquatableP", "characters"]
+- !private ["s9EquatableP", "child"]
+- !private ["s9EquatableP", "currentUser"]
+- !private ["s9EquatableP", "data"]
+- !private ["s9EquatableP", "database"]
+- !private ["s9EquatableP", "dateFormat"]
+- !private ["s9EquatableP", "description"]
+- !private ["s9EquatableP", "displayName"]
+- !private ["s9EquatableP", "image"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "observe"]
+- !private ["s9EquatableP", "observeSingleEvent"]
+- !private ["s9EquatableP", "profileName"]
+- !private ["s9EquatableP", "put"]
+- !private ["s9EquatableP", "queryEqual"]
+- !private ["s9EquatableP", "reference"]
+- !private ["s9EquatableP", "setValue"]
+- !private ["s9EquatableP", "storage"]
+- !private ["s9EquatableP", "text"]
+- !private ["s9EquatableP", "uid"]
+- !private ["s9EquatableP", "updateChildValues"]
+- !private ["s9EquatableP", "userBio"]
+- !private ["s9EquatableP", "userImagView"]
+- !private ["s9EquatableP", "uuidString"]
+- !private ["s9EquatableP", "value"]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "keys"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "characters"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "description"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "characters"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "characters"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "description"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So7FIRAuthC", "auth"]
+- !private ["So7FIRAuthC", "currentUser"]
+- !private ["SC16FIRDataEventTypeO", "value"]
+- !private ["So15FIRDataSnapshotC", "value"]
+- !private ["So11FIRDatabaseC", "database"]
+- !private ["So11FIRDatabaseC", "reference"]
+- !private ["So16FIRDatabaseQueryC", "child"]
+- !private ["So16FIRDatabaseQueryC", "observe"]
+- !private ["So16FIRDatabaseQueryC", "observeSingleEvent"]
+- !private ["So16FIRDatabaseQueryC", "queryEqual"]
+- !private ["So16FIRDatabaseQueryC", "setValue"]
+- !private ["So16FIRDatabaseQueryC", "updateChildValues"]
+- !private ["So20FIRDatabaseReferenceC", "child"]
+- !private ["So20FIRDatabaseReferenceC", "observe"]
+- !private ["So20FIRDatabaseReferenceC", "observeSingleEvent"]
+- !private ["So20FIRDatabaseReferenceC", "queryEqual"]
+- !private ["So20FIRDatabaseReferenceC", "setValue"]
+- !private ["So20FIRDatabaseReferenceC", "updateChildValues"]
+- !private ["So10FIRStorageC", "reference"]
+- !private ["So10FIRStorageC", "storage"]
+- !private ["So19FIRStorageReferenceC", "child"]
+- !private ["So19FIRStorageReferenceC", "data"]
+- !private ["So19FIRStorageReferenceC", "put"]
+- !private ["So7FIRUserC", "displayName"]
+- !private ["So7FIRUserC", "uid"]
+- !private ["So11FIRUserInfoP", "displayName"]
+- !private ["So11FIRUserInfoP", "uid"]
+- !private ["So9FormatterC", "dateFormat"]
+- !private ["So9FormatterC", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "auth"]
+- !private ["s8HashableP", "characters"]
+- !private ["s8HashableP", "child"]
+- !private ["s8HashableP", "currentUser"]
+- !private ["s8HashableP", "data"]
+- !private ["s8HashableP", "database"]
+- !private ["s8HashableP", "dateFormat"]
+- !private ["s8HashableP", "description"]
+- !private ["s8HashableP", "displayName"]
+- !private ["s8HashableP", "image"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "observe"]
+- !private ["s8HashableP", "observeSingleEvent"]
+- !private ["s8HashableP", "profileName"]
+- !private ["s8HashableP", "put"]
+- !private ["s8HashableP", "queryEqual"]
+- !private ["s8HashableP", "reference"]
+- !private ["s8HashableP", "setValue"]
+- !private ["s8HashableP", "storage"]
+- !private ["s8HashableP", "text"]
+- !private ["s8HashableP", "uid"]
+- !private ["s8HashableP", "updateChildValues"]
+- !private ["s8HashableP", "userBio"]
+- !private ["s8HashableP", "userImagView"]
+- !private ["s8HashableP", "uuidString"]
+- !private ["s8HashableP", "value"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "characters"]
+- !private ["s25LosslessStringConvertibleP", "description"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "characters"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["So8NSCodingP", "characters"]
+- !private ["So8NSCodingP", "dateFormat"]
+- !private ["So8NSCodingP", "image"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "profileName"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "userBio"]
+- !private ["So8NSCodingP", "userImagView"]
+- !private ["So9NSCopyingP", "characters"]
+- !private ["So9NSCopyingP", "dateFormat"]
+- ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "profileName"]
+- !private ["So26NSExtensionRequestHandlingP", "userBio"]
+- !private ["So26NSExtensionRequestHandlingP", "userImagView"]
+- !private ["So21NSItemProviderReadingP", "characters"]
+- ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "characters"]
+- ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "characters"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "auth"]
+- !private ["So8NSObjectC", "characters"]
+- !private ["So8NSObjectC", "child"]
+- !private ["So8NSObjectC", "currentUser"]
+- !private ["So8NSObjectC", "data"]
+- !private ["So8NSObjectC", "database"]
+- !private ["So8NSObjectC", "dateFormat"]
+- !private ["So8NSObjectC", "displayName"]
+- !private ["So8NSObjectC", "image"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "observe"]
+- !private ["So8NSObjectC", "observeSingleEvent"]
+- !private ["So8NSObjectC", "profileName"]
+- !private ["So8NSObjectC", "put"]
+- !private ["So8NSObjectC", "queryEqual"]
+- !private ["So8NSObjectC", "reference"]
+- !private ["So8NSObjectC", "setValue"]
+- !private ["So8NSObjectC", "storage"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "uid"]
+- !private ["So8NSObjectC", "updateChildValues"]
+- !private ["So8NSObjectC", "userBio"]
+- !private ["So8NSObjectC", "userImagView"]
+- !private ["So8NSObjectC", "value"]
+- !private ["So16NSObjectProtocolP", "auth"]
+- !private ["So16NSObjectProtocolP", "characters"]
+- !private ["So16NSObjectProtocolP", "child"]
+- !private ["So16NSObjectProtocolP", "currentUser"]
+- !private ["So16NSObjectProtocolP", "data"]
+- !private ["So16NSObjectProtocolP", "database"]
+- !private ["So16NSObjectProtocolP", "dateFormat"]
+- !private ["So16NSObjectProtocolP", "displayName"]
+- !private ["So16NSObjectProtocolP", "image"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "observe"]
+- !private ["So16NSObjectProtocolP", "observeSingleEvent"]
+- !private ["So16NSObjectProtocolP", "profileName"]
+- !private ["So16NSObjectProtocolP", "put"]
+- !private ["So16NSObjectProtocolP", "queryEqual"]
+- !private ["So16NSObjectProtocolP", "reference"]
+- !private ["So16NSObjectProtocolP", "setValue"]
+- !private ["So16NSObjectProtocolP", "storage"]
+- !private ["So16NSObjectProtocolP", "text"]
+- !private ["So16NSObjectProtocolP", "uid"]
+- !private ["So16NSObjectProtocolP", "updateChildValues"]
+- !private ["So16NSObjectProtocolP", "userBio"]
+- !private ["So16NSObjectProtocolP", "userImagView"]
+- !private ["So16NSObjectProtocolP", "value"]
+- !private ["So14NSSecureCodingP", "characters"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "characters"]
+- ["So8NSStringC", "init"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "characters"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "value"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "uuidString"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "characters"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "keys"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["SS", "characters"]
+- ["SS", "init"]
+- !private ["s14StringProtocolP", "characters"]
+- ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "characters"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "characters"]
+- !private ["s20TextOutputStreamableP", "description"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "profileName"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "userBio"]
+- !private ["So21UIAppearanceContainerP", "userImagView"]
+- !private ["So18UIContentContainerP", "profileName"]
+- !private ["So18UIContentContainerP", "userBio"]
+- !private ["So18UIContentContainerP", "userImagView"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "profileName"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "userBio"]
+- !private ["So18UIFocusEnvironmentP", "userImagView"]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So27UIGestureRecognizerDelegateP", "profileName"]
+- !private ["So27UIGestureRecognizerDelegateP", "userBio"]
+- !private ["So27UIGestureRecognizerDelegateP", "userImagView"]
+- !private ["So7UIImageC", "init"]
+- !private ["So31UIImagePickerControllerDelegateP", "profileName"]
+- !private ["So31UIImagePickerControllerDelegateP", "userBio"]
+- !private ["So31UIImagePickerControllerDelegateP", "userImagView"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UINavigationControllerDelegateP", "profileName"]
+- !private ["So30UINavigationControllerDelegateP", "userBio"]
+- !private ["So30UINavigationControllerDelegateP", "userImagView"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "profileName"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "userBio"]
+- !private ["So30UIPasteConfigurationSupportingP", "userImagView"]
+- !private ["So11UIResponderC", "image"]
+- !private ["So11UIResponderC", "profileName"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "userBio"]
+- !private ["So11UIResponderC", "userImagView"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "profileName"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "userBio"]
+- !private ["So30UIResponderStandardEditActionsP", "userImagView"]
+- !private ["So16UIStateRestoringP", "profileName"]
+- !private ["So16UIStateRestoringP", "userBio"]
+- !private ["So16UIStateRestoringP", "userImagView"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "profileName"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "userBio"]
+- !private ["So18UITraitEnvironmentP", "userImagView"]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "text"]
+- !private ["So16UIViewControllerC", "profileName"]
+- !private ["So16UIViewControllerC", "userBio"]
+- !private ["So16UIViewControllerC", "userImagView"]
+- !private ["9Alamofire14URLConvertibleP", "characters"]
+- ["9Alamofire14URLConvertibleP", "init"]
+- !private ["10Foundation4UUIDV", "init"]
+- !private ["10Foundation4UUIDV", "uuidString"]
+- !private ["6Hitcha22UserMenuViewControllerC", "profileName"]
+- !private ["6Hitcha22UserMenuViewControllerC", "userBio"]
+- !private ["6Hitcha22UserMenuViewControllerC", "userImagView"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "characters"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "characters"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "description"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "characters"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s56_ExpressibleByBuiltinUTF16ExtendedGraphemeClusterLiteralP", "description"]
+- !private ["s56_ExpressibleByBuiltinUTF16ExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "characters"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "characters"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "description"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "characters"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "characters"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "characters"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "keys"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "characters"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "keys"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "auth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "characters"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "child"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentUser"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "database"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dateFormat"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "displayName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "observe"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "observeSingleEvent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "profileName"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "put"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "queryEqual"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reference"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "storage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uid"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "updateChildValues"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userBio"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userImagView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "characters"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "keys"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "uuidString"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "characters"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "characters"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s9CharacterV"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "So13DateFormatterC"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So7FIRAuthC"
+- !private "SC16FIRDataEventTypeO"
+- !private "So15FIRDataSnapshotC"
+- !private "So11FIRDatabaseC"
+- !private "So16FIRDatabaseQueryC"
+- !private "So20FIRDatabaseReferenceC"
+- !private "So10FIRStorageC"
+- !private "So19FIRStorageReferenceC"
+- !private "So7FIRUserC"
+- !private "So11FIRUserInfoP"
+- !private "So9FormatterC"
+- "s8HashableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So27UIGestureRecognizerDelegateP"
+- !private "So7UIImageC"
+- !private "So31UIImagePickerControllerDelegateP"
+- !private "So11UIImageViewC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "So7UILabelC"
+- !private "So30UINavigationControllerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "So16UIViewControllerC"
+- "9Alamofire14URLConvertibleP"
+- !private "10Foundation4UUIDV"
+- !private "6Hitcha22UserMenuViewControllerC"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s56_ExpressibleByBuiltinUTF16ExtendedGraphemeClusterLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/SwiftMigration/Hitcha/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/SwiftMigration/Hitcha/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadata.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihood.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlace.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSUserAddedPlace.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteTableDataSource.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompletePrediction.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha-Bridging-Header.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailPasswordAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFetcher.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteResultsViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFilter.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GooglePlaces.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceTypes.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesErrors.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/SwiftMigration/Hitcha/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesClient.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteMatchFragment.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAddressComponent.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadataList.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihoodList.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/SwiftMigration/Hitcha/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+interface-hash: "b219c1b5b242cc07eb93d472544da222"

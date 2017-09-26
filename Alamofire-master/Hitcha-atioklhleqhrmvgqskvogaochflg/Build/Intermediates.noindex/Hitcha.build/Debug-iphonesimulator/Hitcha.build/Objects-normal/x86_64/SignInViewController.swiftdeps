@@ -31,13 +31,12 @@ depends-top-level:
 - !private "UIAlertController"
 - "UIButton"
 - "UIEvent"
+- !private "UIImage"
 - "UIImageView"
 - "UITextField"
 - "UITextFieldDelegate"
 - "UITouch"
 - "UIViewController"
-- !private "_ImageLiteralType"
-- !private "print"
 - !private "||"
 depends-member:
 - !private ["s23BidirectionalCollectionP", "init"]
@@ -51,6 +50,7 @@ depends-member:
 - !private ["s7CVarArgP", "FIRAuth"]
 - !private ["s7CVarArgP", "UIAlertAction"]
 - !private ["s7CVarArgP", "UIAlertController"]
+- !private ["s7CVarArgP", "UIImage"]
 - !private ["s7CVarArgP", "addAction"]
 - !private ["s7CVarArgP", "auth"]
 - !private ["s7CVarArgP", "currentUser"]
@@ -63,7 +63,6 @@ depends-member:
 - !private ["s7CVarArgP", "passwordInput"]
 - !private ["s7CVarArgP", "performSegue"]
 - !private ["s7CVarArgP", "present"]
-- !private ["s7CVarArgP", "print"]
 - !private ["s7CVarArgP", "removeStateDidChangeListener"]
 - !private ["s7CVarArgP", "resignFirstResponder"]
 - !private ["s7CVarArgP", "signIn"]
@@ -85,6 +84,7 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "FIRAuth"]
 - !private ["s28CustomDebugStringConvertibleP", "UIAlertAction"]
 - !private ["s28CustomDebugStringConvertibleP", "UIAlertController"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImage"]
 - !private ["s28CustomDebugStringConvertibleP", "addAction"]
 - !private ["s28CustomDebugStringConvertibleP", "auth"]
 - !private ["s28CustomDebugStringConvertibleP", "currentUser"]
@@ -97,7 +97,6 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "passwordInput"]
 - !private ["s28CustomDebugStringConvertibleP", "performSegue"]
 - !private ["s28CustomDebugStringConvertibleP", "present"]
-- !private ["s28CustomDebugStringConvertibleP", "print"]
 - !private ["s28CustomDebugStringConvertibleP", "removeStateDidChangeListener"]
 - !private ["s28CustomDebugStringConvertibleP", "resignFirstResponder"]
 - !private ["s28CustomDebugStringConvertibleP", "signIn"]
@@ -121,6 +120,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "FIRAuth"]
 - !private ["s23CustomStringConvertibleP", "UIAlertAction"]
 - !private ["s23CustomStringConvertibleP", "UIAlertController"]
+- !private ["s23CustomStringConvertibleP", "UIImage"]
 - !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
 - !private ["s23CustomStringConvertibleP", "addAction"]
 - !private ["s23CustomStringConvertibleP", "auth"]
@@ -134,7 +134,6 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "passwordInput"]
 - !private ["s23CustomStringConvertibleP", "performSegue"]
 - !private ["s23CustomStringConvertibleP", "present"]
-- !private ["s23CustomStringConvertibleP", "print"]
 - !private ["s23CustomStringConvertibleP", "removeStateDidChangeListener"]
 - !private ["s23CustomStringConvertibleP", "resignFirstResponder"]
 - !private ["s23CustomStringConvertibleP", "signIn"]
@@ -158,6 +157,7 @@ depends-member:
 - !private ["s9EquatableP", "FIRAuth"]
 - !private ["s9EquatableP", "UIAlertAction"]
 - !private ["s9EquatableP", "UIAlertController"]
+- !private ["s9EquatableP", "UIImage"]
 - !private ["s9EquatableP", "_getBuiltinLogicValue"]
 - !private ["s9EquatableP", "addAction"]
 - !private ["s9EquatableP", "alert"]
@@ -173,7 +173,6 @@ depends-member:
 - !private ["s9EquatableP", "passwordInput"]
 - !private ["s9EquatableP", "performSegue"]
 - !private ["s9EquatableP", "present"]
-- !private ["s9EquatableP", "print"]
 - !private ["s9EquatableP", "removeStateDidChangeListener"]
 - !private ["s9EquatableP", "resignFirstResponder"]
 - !private ["s9EquatableP", "signIn"]
@@ -202,6 +201,7 @@ depends-member:
 - !private ["s8HashableP", "FIRAuth"]
 - !private ["s8HashableP", "UIAlertAction"]
 - !private ["s8HashableP", "UIAlertController"]
+- !private ["s8HashableP", "UIImage"]
 - !private ["s8HashableP", "_getBuiltinLogicValue"]
 - !private ["s8HashableP", "addAction"]
 - !private ["s8HashableP", "alert"]
@@ -217,7 +217,6 @@ depends-member:
 - !private ["s8HashableP", "passwordInput"]
 - !private ["s8HashableP", "performSegue"]
 - !private ["s8HashableP", "present"]
-- !private ["s8HashableP", "print"]
 - !private ["s8HashableP", "removeStateDidChangeListener"]
 - !private ["s8HashableP", "resignFirstResponder"]
 - !private ["s8HashableP", "signIn"]
@@ -240,6 +239,7 @@ depends-member:
 - !private ["So8NSCodingP", "FIRAuth"]
 - !private ["So8NSCodingP", "UIAlertAction"]
 - !private ["So8NSCodingP", "UIAlertController"]
+- !private ["So8NSCodingP", "UIImage"]
 - !private ["So8NSCodingP", "addAction"]
 - !private ["So8NSCodingP", "delegate"]
 - !private ["So8NSCodingP", "didReceiveMemoryWarning"]
@@ -250,7 +250,6 @@ depends-member:
 - !private ["So8NSCodingP", "passwordInput"]
 - !private ["So8NSCodingP", "performSegue"]
 - !private ["So8NSCodingP", "present"]
-- !private ["So8NSCodingP", "print"]
 - !private ["So8NSCodingP", "resignFirstResponder"]
 - !private ["So8NSCodingP", "text"]
 - ["So8NSCodingP", "textField"]
@@ -269,6 +268,7 @@ depends-member:
 - !private ["So26NSExtensionRequestHandlingP", "FIRAuth"]
 - !private ["So26NSExtensionRequestHandlingP", "UIAlertAction"]
 - !private ["So26NSExtensionRequestHandlingP", "UIAlertController"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImage"]
 - !private ["So26NSExtensionRequestHandlingP", "addAction"]
 - !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
 - !private ["So26NSExtensionRequestHandlingP", "handle"]
@@ -276,7 +276,6 @@ depends-member:
 - !private ["So26NSExtensionRequestHandlingP", "passwordInput"]
 - !private ["So26NSExtensionRequestHandlingP", "performSegue"]
 - !private ["So26NSExtensionRequestHandlingP", "present"]
-- !private ["So26NSExtensionRequestHandlingP", "print"]
 - ["So26NSExtensionRequestHandlingP", "textField"]
 - ["So26NSExtensionRequestHandlingP", "textFieldDidBeginEditing"]
 - ["So26NSExtensionRequestHandlingP", "textFieldDidEndEditing"]
@@ -300,6 +299,7 @@ depends-member:
 - !private ["So8NSObjectC", "UIAlertController"]
 - ["So8NSObjectC", "UIButton"]
 - ["So8NSObjectC", "UIEvent"]
+- !private ["So8NSObjectC", "UIImage"]
 - ["So8NSObjectC", "UIImageView"]
 - ["So8NSObjectC", "UITextField"]
 - ["So8NSObjectC", "UITouch"]
@@ -316,7 +316,6 @@ depends-member:
 - ["So8NSObjectC", "passwordInput"]
 - !private ["So8NSObjectC", "performSegue"]
 - !private ["So8NSObjectC", "present"]
-- !private ["So8NSObjectC", "print"]
 - !private ["So8NSObjectC", "removeStateDidChangeListener"]
 - !private ["So8NSObjectC", "resignFirstResponder"]
 - !private ["So8NSObjectC", "signIn"]
@@ -337,6 +336,7 @@ depends-member:
 - !private ["So16NSObjectProtocolP", "FIRAuth"]
 - !private ["So16NSObjectProtocolP", "UIAlertAction"]
 - !private ["So16NSObjectProtocolP", "UIAlertController"]
+- !private ["So16NSObjectProtocolP", "UIImage"]
 - !private ["So16NSObjectProtocolP", "addAction"]
 - !private ["So16NSObjectProtocolP", "auth"]
 - !private ["So16NSObjectProtocolP", "currentUser"]
@@ -349,7 +349,6 @@ depends-member:
 - !private ["So16NSObjectProtocolP", "passwordInput"]
 - !private ["So16NSObjectProtocolP", "performSegue"]
 - !private ["So16NSObjectProtocolP", "present"]
-- !private ["So16NSObjectProtocolP", "print"]
 - !private ["So16NSObjectProtocolP", "removeStateDidChangeListener"]
 - !private ["So16NSObjectProtocolP", "resignFirstResponder"]
 - !private ["So16NSObjectProtocolP", "signIn"]
@@ -380,6 +379,7 @@ depends-member:
 - !private ["6Hitcha20SignInViewControllerC", "UIAlertController"]
 - ["6Hitcha20SignInViewControllerC", "UIButton"]
 - ["6Hitcha20SignInViewControllerC", "UIEvent"]
+- !private ["6Hitcha20SignInViewControllerC", "UIImage"]
 - ["6Hitcha20SignInViewControllerC", "UIImageView"]
 - ["6Hitcha20SignInViewControllerC", "UITextField"]
 - ["6Hitcha20SignInViewControllerC", "UITouch"]
@@ -391,7 +391,6 @@ depends-member:
 - ["6Hitcha20SignInViewControllerC", "passwordInput"]
 - !private ["6Hitcha20SignInViewControllerC", "performSegue"]
 - !private ["6Hitcha20SignInViewControllerC", "present"]
-- !private ["6Hitcha20SignInViewControllerC", "print"]
 - ["6Hitcha20SignInViewControllerC", "textField"]
 - ["6Hitcha20SignInViewControllerC", "textFieldDidBeginEditing"]
 - ["6Hitcha20SignInViewControllerC", "textFieldDidEndEditing"]
@@ -412,6 +411,7 @@ depends-member:
 - !private ["So29UIAccessibilityIdentificationP", "delegate"]
 - !private ["So29UIAccessibilityIdentificationP", "endEditing"]
 - !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
 - !private ["So29UIAccessibilityIdentificationP", "resignFirstResponder"]
 - !private ["So29UIAccessibilityIdentificationP", "text"]
 - !private ["So13UIAlertActionC", "init"]
@@ -428,6 +428,7 @@ depends-member:
 - !private ["So21UIAppearanceContainerP", "FIRAuth"]
 - !private ["So21UIAppearanceContainerP", "UIAlertAction"]
 - !private ["So21UIAppearanceContainerP", "UIAlertController"]
+- !private ["So21UIAppearanceContainerP", "UIImage"]
 - !private ["So21UIAppearanceContainerP", "addAction"]
 - !private ["So21UIAppearanceContainerP", "delegate"]
 - !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
@@ -438,7 +439,6 @@ depends-member:
 - !private ["So21UIAppearanceContainerP", "passwordInput"]
 - !private ["So21UIAppearanceContainerP", "performSegue"]
 - !private ["So21UIAppearanceContainerP", "present"]
-- !private ["So21UIAppearanceContainerP", "print"]
 - !private ["So21UIAppearanceContainerP", "resignFirstResponder"]
 - !private ["So21UIAppearanceContainerP", "text"]
 - ["So21UIAppearanceContainerP", "textField"]
@@ -456,6 +456,7 @@ depends-member:
 - !private ["So18UIContentContainerP", "FIRAuth"]
 - !private ["So18UIContentContainerP", "UIAlertAction"]
 - !private ["So18UIContentContainerP", "UIAlertController"]
+- !private ["So18UIContentContainerP", "UIImage"]
 - !private ["So18UIContentContainerP", "addAction"]
 - !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
 - !private ["So18UIContentContainerP", "handle"]
@@ -463,7 +464,6 @@ depends-member:
 - !private ["So18UIContentContainerP", "passwordInput"]
 - !private ["So18UIContentContainerP", "performSegue"]
 - !private ["So18UIContentContainerP", "present"]
-- !private ["So18UIContentContainerP", "print"]
 - ["So18UIContentContainerP", "textField"]
 - ["So18UIContentContainerP", "textFieldDidBeginEditing"]
 - ["So18UIContentContainerP", "textFieldDidEndEditing"]
@@ -495,6 +495,7 @@ depends-member:
 - !private ["So18UIFocusEnvironmentP", "FIRAuth"]
 - !private ["So18UIFocusEnvironmentP", "UIAlertAction"]
 - !private ["So18UIFocusEnvironmentP", "UIAlertController"]
+- !private ["So18UIFocusEnvironmentP", "UIImage"]
 - !private ["So18UIFocusEnvironmentP", "addAction"]
 - !private ["So18UIFocusEnvironmentP", "delegate"]
 - !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
@@ -505,7 +506,6 @@ depends-member:
 - !private ["So18UIFocusEnvironmentP", "passwordInput"]
 - !private ["So18UIFocusEnvironmentP", "performSegue"]
 - !private ["So18UIFocusEnvironmentP", "present"]
-- !private ["So18UIFocusEnvironmentP", "print"]
 - !private ["So18UIFocusEnvironmentP", "resignFirstResponder"]
 - !private ["So18UIFocusEnvironmentP", "text"]
 - ["So18UIFocusEnvironmentP", "textField"]
@@ -524,7 +524,9 @@ depends-member:
 - !private ["So11UIFocusItemP", "image"]
 - !private ["So11UIFocusItemP", "resignFirstResponder"]
 - !private ["So11UIFocusItemP", "text"]
+- !private ["So7UIImageC", "init"]
 - !private ["So11UIImageViewC", "image"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
 - !private ["So10UIKeyInputP", "delegate"]
 - !private ["So10UIKeyInputP", "resignFirstResponder"]
 - !private ["So10UIKeyInputP", "text"]
@@ -532,6 +534,7 @@ depends-member:
 - !private ["So30UIPasteConfigurationSupportingP", "FIRAuth"]
 - !private ["So30UIPasteConfigurationSupportingP", "UIAlertAction"]
 - !private ["So30UIPasteConfigurationSupportingP", "UIAlertController"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImage"]
 - !private ["So30UIPasteConfigurationSupportingP", "addAction"]
 - !private ["So30UIPasteConfigurationSupportingP", "delegate"]
 - !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
@@ -542,7 +545,6 @@ depends-member:
 - !private ["So30UIPasteConfigurationSupportingP", "passwordInput"]
 - !private ["So30UIPasteConfigurationSupportingP", "performSegue"]
 - !private ["So30UIPasteConfigurationSupportingP", "present"]
-- !private ["So30UIPasteConfigurationSupportingP", "print"]
 - !private ["So30UIPasteConfigurationSupportingP", "resignFirstResponder"]
 - !private ["So30UIPasteConfigurationSupportingP", "text"]
 - ["So30UIPasteConfigurationSupportingP", "textField"]
@@ -565,6 +567,7 @@ depends-member:
 - !private ["So11UIResponderC", "UIAlertController"]
 - ["So11UIResponderC", "UIButton"]
 - ["So11UIResponderC", "UIEvent"]
+- !private ["So11UIResponderC", "UIImage"]
 - ["So11UIResponderC", "UIImageView"]
 - ["So11UIResponderC", "UITextField"]
 - ["So11UIResponderC", "UITouch"]
@@ -579,7 +582,6 @@ depends-member:
 - ["So11UIResponderC", "passwordInput"]
 - !private ["So11UIResponderC", "performSegue"]
 - !private ["So11UIResponderC", "present"]
-- !private ["So11UIResponderC", "print"]
 - !private ["So11UIResponderC", "resignFirstResponder"]
 - !private ["So11UIResponderC", "text"]
 - ["So11UIResponderC", "textField"]
@@ -598,6 +600,7 @@ depends-member:
 - !private ["So30UIResponderStandardEditActionsP", "FIRAuth"]
 - !private ["So30UIResponderStandardEditActionsP", "UIAlertAction"]
 - !private ["So30UIResponderStandardEditActionsP", "UIAlertController"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImage"]
 - !private ["So30UIResponderStandardEditActionsP", "addAction"]
 - !private ["So30UIResponderStandardEditActionsP", "delegate"]
 - !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
@@ -608,7 +611,6 @@ depends-member:
 - !private ["So30UIResponderStandardEditActionsP", "passwordInput"]
 - !private ["So30UIResponderStandardEditActionsP", "performSegue"]
 - !private ["So30UIResponderStandardEditActionsP", "present"]
-- !private ["So30UIResponderStandardEditActionsP", "print"]
 - !private ["So30UIResponderStandardEditActionsP", "resignFirstResponder"]
 - !private ["So30UIResponderStandardEditActionsP", "text"]
 - ["So30UIResponderStandardEditActionsP", "textField"]
@@ -628,6 +630,7 @@ depends-member:
 - !private ["So16UIStateRestoringP", "FIRAuth"]
 - !private ["So16UIStateRestoringP", "UIAlertAction"]
 - !private ["So16UIStateRestoringP", "UIAlertController"]
+- !private ["So16UIStateRestoringP", "UIImage"]
 - !private ["So16UIStateRestoringP", "addAction"]
 - !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
 - !private ["So16UIStateRestoringP", "handle"]
@@ -635,7 +638,6 @@ depends-member:
 - !private ["So16UIStateRestoringP", "passwordInput"]
 - !private ["So16UIStateRestoringP", "performSegue"]
 - !private ["So16UIStateRestoringP", "present"]
-- !private ["So16UIStateRestoringP", "print"]
 - ["So16UIStateRestoringP", "textField"]
 - ["So16UIStateRestoringP", "textFieldDidBeginEditing"]
 - ["So16UIStateRestoringP", "textFieldDidEndEditing"]
@@ -660,11 +662,11 @@ depends-member:
 - !private ["So19UITextFieldDelegateP", "FIRAuth"]
 - !private ["So19UITextFieldDelegateP", "UIAlertAction"]
 - !private ["So19UITextFieldDelegateP", "UIAlertController"]
+- !private ["So19UITextFieldDelegateP", "UIImage"]
 - !private ["So19UITextFieldDelegateP", "handle"]
 - !private ["So19UITextFieldDelegateP", "passwordInput"]
 - !private ["So19UITextFieldDelegateP", "performSegue"]
 - !private ["So19UITextFieldDelegateP", "present"]
-- !private ["So19UITextFieldDelegateP", "print"]
 - ["So19UITextFieldDelegateP", "textField"]
 - ["So19UITextFieldDelegateP", "textFieldDidBeginEditing"]
 - ["So19UITextFieldDelegateP", "textFieldDidEndEditing"]
@@ -688,6 +690,7 @@ depends-member:
 - !private ["So18UITraitEnvironmentP", "FIRAuth"]
 - !private ["So18UITraitEnvironmentP", "UIAlertAction"]
 - !private ["So18UITraitEnvironmentP", "UIAlertController"]
+- !private ["So18UITraitEnvironmentP", "UIImage"]
 - !private ["So18UITraitEnvironmentP", "addAction"]
 - !private ["So18UITraitEnvironmentP", "delegate"]
 - !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
@@ -698,7 +701,6 @@ depends-member:
 - !private ["So18UITraitEnvironmentP", "passwordInput"]
 - !private ["So18UITraitEnvironmentP", "performSegue"]
 - !private ["So18UITraitEnvironmentP", "present"]
-- !private ["So18UITraitEnvironmentP", "print"]
 - !private ["So18UITraitEnvironmentP", "resignFirstResponder"]
 - !private ["So18UITraitEnvironmentP", "text"]
 - ["So18UITraitEnvironmentP", "textField"]
@@ -726,6 +728,7 @@ depends-member:
 - !private ["So16UIViewControllerC", "UIAlertController"]
 - ["So16UIViewControllerC", "UIButton"]
 - ["So16UIViewControllerC", "UIEvent"]
+- !private ["So16UIViewControllerC", "UIImage"]
 - ["So16UIViewControllerC", "UIImageView"]
 - ["So16UIViewControllerC", "UITextField"]
 - ["So16UIViewControllerC", "UITouch"]
@@ -737,7 +740,6 @@ depends-member:
 - ["So16UIViewControllerC", "passwordInput"]
 - !private ["So16UIViewControllerC", "performSegue"]
 - !private ["So16UIViewControllerC", "present"]
-- !private ["So16UIViewControllerC", "print"]
 - ["So16UIViewControllerC", "textField"]
 - ["So16UIViewControllerC", "textFieldDidBeginEditing"]
 - ["So16UIViewControllerC", "textFieldDidEndEditing"]
@@ -763,6 +765,7 @@ depends-member:
 - !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
 - !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
 - !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
 - !private ["s33_ExpressibleByStringInterpolationP", "init"]
 - !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
 - !private ["s10_IndexableP", "init"]
@@ -771,6 +774,7 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "FIRAuth"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertAction"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "auth"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "currentUser"]
@@ -783,7 +787,6 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "passwordInput"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
-- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "removeStateDidChangeListener"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "resignFirstResponder"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "signIn"]
@@ -859,7 +862,9 @@ depends-nominal:
 - !private "So13UIDynamicItemP"
 - "So18UIFocusEnvironmentP"
 - !private "So11UIFocusItemP"
+- !private "So7UIImageC"
 - !private "So11UIImageViewC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
 - !private "So10UIKeyInputP"
 - "So30UIPasteConfigurationSupportingP"
 - "So11UIResponderC"
@@ -884,6 +889,7 @@ depends-nominal:
 - !private "s34_ExpressibleByBuiltinStringLiteralP"
 - !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
 - !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
 - !private "s33_ExpressibleByStringInterpolationP"
 - !private "s35_HasCustomAnyHashableRepresentationP"
 - !private "s10_IndexableP"
@@ -1034,5 +1040,4 @@ depends-external:
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
 - "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.0.sdk/usr/include/Darwin.apinotes"
 interface-hash: "afcf9a0d8f9c98ed238e42649c42b68c"

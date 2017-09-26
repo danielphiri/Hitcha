@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
-        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
         <scene sceneID="EHf-IW-A2E">
             <objects>
-                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                <viewController wantsFullScreenLayout="YES" id="01J-lp-oVM" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
                         <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
@@ -22,16 +21,16 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView autoresizesSubviews="NO" opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="launch-hitcha" translatesAutoresizingMaskIntoConstraints="NO" id="4Xg-uP-Uc2">
-                                <rect key="frame" x="58" y="109" width="277" height="647"/>
+                            <imageView autoresizesSubviews="NO" opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch-hitcha" translatesAutoresizingMaskIntoConstraints="NO" id="4Xg-uP-Uc2">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="4Xg-uP-Uc2" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="-30" id="4bC-Gc-KDj"/>
-                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="4Xg-uP-Uc2" secondAttribute="bottom" id="Ed9-ZA-HqI"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="4Xg-uP-Uc2" secondAttribute="trailing" constant="-20" id="WxJ-Yo-nce"/>
-                            <constraint firstAttribute="leadingMargin" secondItem="4Xg-uP-Uc2" secondAttribute="leading" constant="-60" id="dmz-Ed-1NY"/>
+                            <constraint firstItem="4Xg-uP-Uc2" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" id="0Kc-sw-N1N"/>
+                            <constraint firstItem="4Xg-uP-Uc2" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" id="fda-qe-ryu"/>
+                            <constraint firstItem="4Xg-uP-Uc2" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="lfI-tS-9SX"/>
+                            <constraint firstItem="4Xg-uP-Uc2" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="nsT-uu-EWF"/>
                         </constraints>
                     </view>
                 </viewController>

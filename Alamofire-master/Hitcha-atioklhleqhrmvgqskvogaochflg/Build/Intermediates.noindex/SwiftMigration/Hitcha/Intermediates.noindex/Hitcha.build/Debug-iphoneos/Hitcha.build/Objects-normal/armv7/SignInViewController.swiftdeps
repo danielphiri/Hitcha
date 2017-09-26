@@ -1,0 +1,1043 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SignInViewController"
+provides-nominal:
+- "6Hitcha20SignInViewControllerC"
+provides-member:
+- ["6Hitcha20SignInViewControllerC", ""]
+provides-dynamic-lookup:
+- "CompanyImage"
+- "didReceiveMemoryWarning"
+- "handle"
+- "logInPushed"
+- "passwordInput"
+- "textFieldShouldReturn"
+- "touchesBegan"
+- "userNameInput"
+- "viewDidAppear"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "FIRAuth"
+- "FIRAuthStateDidChangeListenerHandle"
+- "Set"
+- "SignInViewController"
+- !private "StringLiteralType"
+- !private "UIAlertAction"
+- !private "UIAlertController"
+- "UIButton"
+- "UIEvent"
+- !private "UIImage"
+- "UIImageView"
+- "UITextField"
+- "UITextFieldDelegate"
+- "UITouch"
+- "UIViewController"
+- !private "||"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "delegate"]
+- !private ["So15CALayerDelegateP", "endEditing"]
+- !private ["So15CALayerDelegateP", "image"]
+- !private ["So15CALayerDelegateP", "resignFirstResponder"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "CompanyImage"]
+- !private ["s7CVarArgP", "FIRAuth"]
+- !private ["s7CVarArgP", "UIAlertAction"]
+- !private ["s7CVarArgP", "UIAlertController"]
+- !private ["s7CVarArgP", "UIImage"]
+- !private ["s7CVarArgP", "addAction"]
+- !private ["s7CVarArgP", "auth"]
+- !private ["s7CVarArgP", "currentUser"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "endEditing"]
+- !private ["s7CVarArgP", "handle"]
+- !private ["s7CVarArgP", "image"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "passwordInput"]
+- !private ["s7CVarArgP", "performSegue"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "removeStateDidChangeListener"]
+- !private ["s7CVarArgP", "resignFirstResponder"]
+- !private ["s7CVarArgP", "signIn"]
+- !private ["s7CVarArgP", "text"]
+- ["s7CVarArgP", "textField"]
+- ["s7CVarArgP", "textFieldDidBeginEditing"]
+- ["s7CVarArgP", "textFieldDidEndEditing"]
+- ["s7CVarArgP", "textFieldShouldBeginEditing"]
+- ["s7CVarArgP", "textFieldShouldClear"]
+- ["s7CVarArgP", "textFieldShouldEndEditing"]
+- ["s7CVarArgP", "textFieldShouldReturn"]
+- !private ["s7CVarArgP", "userNameInput"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "CompanyImage"]
+- !private ["s28CustomDebugStringConvertibleP", "FIRAuth"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertAction"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertController"]
+- !private ["s28CustomDebugStringConvertibleP", "UIImage"]
+- !private ["s28CustomDebugStringConvertibleP", "addAction"]
+- !private ["s28CustomDebugStringConvertibleP", "auth"]
+- !private ["s28CustomDebugStringConvertibleP", "currentUser"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "endEditing"]
+- !private ["s28CustomDebugStringConvertibleP", "handle"]
+- !private ["s28CustomDebugStringConvertibleP", "image"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "passwordInput"]
+- !private ["s28CustomDebugStringConvertibleP", "performSegue"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "removeStateDidChangeListener"]
+- !private ["s28CustomDebugStringConvertibleP", "resignFirstResponder"]
+- !private ["s28CustomDebugStringConvertibleP", "signIn"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- ["s28CustomDebugStringConvertibleP", "textField"]
+- ["s28CustomDebugStringConvertibleP", "textFieldDidBeginEditing"]
+- ["s28CustomDebugStringConvertibleP", "textFieldDidEndEditing"]
+- ["s28CustomDebugStringConvertibleP", "textFieldShouldBeginEditing"]
+- ["s28CustomDebugStringConvertibleP", "textFieldShouldClear"]
+- ["s28CustomDebugStringConvertibleP", "textFieldShouldEndEditing"]
+- ["s28CustomDebugStringConvertibleP", "textFieldShouldReturn"]
+- !private ["s28CustomDebugStringConvertibleP", "userNameInput"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "CompanyImage"]
+- !private ["s23CustomStringConvertibleP", "FIRAuth"]
+- !private ["s23CustomStringConvertibleP", "UIAlertAction"]
+- !private ["s23CustomStringConvertibleP", "UIAlertController"]
+- !private ["s23CustomStringConvertibleP", "UIImage"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addAction"]
+- !private ["s23CustomStringConvertibleP", "auth"]
+- !private ["s23CustomStringConvertibleP", "currentUser"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "endEditing"]
+- !private ["s23CustomStringConvertibleP", "handle"]
+- !private ["s23CustomStringConvertibleP", "image"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "passwordInput"]
+- !private ["s23CustomStringConvertibleP", "performSegue"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "removeStateDidChangeListener"]
+- !private ["s23CustomStringConvertibleP", "resignFirstResponder"]
+- !private ["s23CustomStringConvertibleP", "signIn"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- ["s23CustomStringConvertibleP", "textField"]
+- ["s23CustomStringConvertibleP", "textFieldDidBeginEditing"]
+- ["s23CustomStringConvertibleP", "textFieldDidEndEditing"]
+- ["s23CustomStringConvertibleP", "textFieldShouldBeginEditing"]
+- ["s23CustomStringConvertibleP", "textFieldShouldClear"]
+- ["s23CustomStringConvertibleP", "textFieldShouldEndEditing"]
+- ["s23CustomStringConvertibleP", "textFieldShouldReturn"]
+- !private ["s23CustomStringConvertibleP", "userNameInput"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "CompanyImage"]
+- !private ["s9EquatableP", "FIRAuth"]
+- !private ["s9EquatableP", "UIAlertAction"]
+- !private ["s9EquatableP", "UIAlertController"]
+- !private ["s9EquatableP", "UIImage"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addAction"]
+- !private ["s9EquatableP", "alert"]
+- !private ["s9EquatableP", "auth"]
+- !private ["s9EquatableP", "cancel"]
+- !private ["s9EquatableP", "currentUser"]
+- !private ["s9EquatableP", "delegate"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "endEditing"]
+- !private ["s9EquatableP", "handle"]
+- !private ["s9EquatableP", "image"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "passwordInput"]
+- !private ["s9EquatableP", "performSegue"]
+- !private ["s9EquatableP", "present"]
+- !private ["s9EquatableP", "removeStateDidChangeListener"]
+- !private ["s9EquatableP", "resignFirstResponder"]
+- !private ["s9EquatableP", "signIn"]
+- !private ["s9EquatableP", "text"]
+- ["s9EquatableP", "textField"]
+- ["s9EquatableP", "textFieldDidBeginEditing"]
+- ["s9EquatableP", "textFieldDidEndEditing"]
+- ["s9EquatableP", "textFieldShouldBeginEditing"]
+- ["s9EquatableP", "textFieldShouldClear"]
+- ["s9EquatableP", "textFieldShouldEndEditing"]
+- ["s9EquatableP", "textFieldShouldReturn"]
+- !private ["s9EquatableP", "userNameInput"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s5ErrorP", "localizedDescription"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So7FIRAuthC", "auth"]
+- !private ["So7FIRAuthC", "currentUser"]
+- !private ["So7FIRAuthC", "removeStateDidChangeListener"]
+- !private ["So7FIRAuthC", "signIn"]
+- !private ["s8HashableP", "CompanyImage"]
+- !private ["s8HashableP", "FIRAuth"]
+- !private ["s8HashableP", "UIAlertAction"]
+- !private ["s8HashableP", "UIAlertController"]
+- !private ["s8HashableP", "UIImage"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addAction"]
+- !private ["s8HashableP", "alert"]
+- !private ["s8HashableP", "auth"]
+- !private ["s8HashableP", "cancel"]
+- !private ["s8HashableP", "currentUser"]
+- !private ["s8HashableP", "delegate"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "endEditing"]
+- !private ["s8HashableP", "handle"]
+- !private ["s8HashableP", "image"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "passwordInput"]
+- !private ["s8HashableP", "performSegue"]
+- !private ["s8HashableP", "present"]
+- !private ["s8HashableP", "removeStateDidChangeListener"]
+- !private ["s8HashableP", "resignFirstResponder"]
+- !private ["s8HashableP", "signIn"]
+- !private ["s8HashableP", "text"]
+- ["s8HashableP", "textField"]
+- ["s8HashableP", "textFieldDidBeginEditing"]
+- ["s8HashableP", "textFieldDidEndEditing"]
+- ["s8HashableP", "textFieldShouldBeginEditing"]
+- ["s8HashableP", "textFieldShouldClear"]
+- ["s8HashableP", "textFieldShouldEndEditing"]
+- ["s8HashableP", "textFieldShouldReturn"]
+- !private ["s8HashableP", "userNameInput"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "CompanyImage"]
+- !private ["So8NSCodingP", "FIRAuth"]
+- !private ["So8NSCodingP", "UIAlertAction"]
+- !private ["So8NSCodingP", "UIAlertController"]
+- !private ["So8NSCodingP", "UIImage"]
+- !private ["So8NSCodingP", "addAction"]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "endEditing"]
+- !private ["So8NSCodingP", "handle"]
+- !private ["So8NSCodingP", "image"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "passwordInput"]
+- !private ["So8NSCodingP", "performSegue"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "resignFirstResponder"]
+- !private ["So8NSCodingP", "text"]
+- ["So8NSCodingP", "textField"]
+- ["So8NSCodingP", "textFieldDidBeginEditing"]
+- ["So8NSCodingP", "textFieldDidEndEditing"]
+- ["So8NSCodingP", "textFieldShouldBeginEditing"]
+- ["So8NSCodingP", "textFieldShouldClear"]
+- ["So8NSCodingP", "textFieldShouldEndEditing"]
+- ["So8NSCodingP", "textFieldShouldReturn"]
+- !private ["So8NSCodingP", "userNameInput"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "CompanyImage"]
+- !private ["So26NSExtensionRequestHandlingP", "FIRAuth"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertAction"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertController"]
+- !private ["So26NSExtensionRequestHandlingP", "UIImage"]
+- !private ["So26NSExtensionRequestHandlingP", "addAction"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "handle"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "passwordInput"]
+- !private ["So26NSExtensionRequestHandlingP", "performSegue"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- ["So26NSExtensionRequestHandlingP", "textField"]
+- ["So26NSExtensionRequestHandlingP", "textFieldDidBeginEditing"]
+- ["So26NSExtensionRequestHandlingP", "textFieldDidEndEditing"]
+- ["So26NSExtensionRequestHandlingP", "textFieldShouldBeginEditing"]
+- ["So26NSExtensionRequestHandlingP", "textFieldShouldClear"]
+- ["So26NSExtensionRequestHandlingP", "textFieldShouldEndEditing"]
+- ["So26NSExtensionRequestHandlingP", "textFieldShouldReturn"]
+- !private ["So26NSExtensionRequestHandlingP", "userNameInput"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CompanyImage"]
+- !private ["So8NSObjectC", "FIRAuth"]
+- ["So8NSObjectC", "FIRAuthStateDidChangeListenerHandle"]
+- ["So8NSObjectC", "Set"]
+- !private ["So8NSObjectC", "UIAlertAction"]
+- !private ["So8NSObjectC", "UIAlertController"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIEvent"]
+- !private ["So8NSObjectC", "UIImage"]
+- ["So8NSObjectC", "UIImageView"]
+- ["So8NSObjectC", "UITextField"]
+- ["So8NSObjectC", "UITouch"]
+- !private ["So8NSObjectC", "addAction"]
+- !private ["So8NSObjectC", "auth"]
+- !private ["So8NSObjectC", "currentUser"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "endEditing"]
+- ["So8NSObjectC", "handle"]
+- !private ["So8NSObjectC", "image"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "logInPushed"]
+- ["So8NSObjectC", "passwordInput"]
+- !private ["So8NSObjectC", "performSegue"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "removeStateDidChangeListener"]
+- !private ["So8NSObjectC", "resignFirstResponder"]
+- !private ["So8NSObjectC", "signIn"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "textField"]
+- ["So8NSObjectC", "textFieldDidBeginEditing"]
+- ["So8NSObjectC", "textFieldDidEndEditing"]
+- ["So8NSObjectC", "textFieldShouldBeginEditing"]
+- ["So8NSObjectC", "textFieldShouldClear"]
+- ["So8NSObjectC", "textFieldShouldEndEditing"]
+- ["So8NSObjectC", "textFieldShouldReturn"]
+- ["So8NSObjectC", "touchesBegan"]
+- ["So8NSObjectC", "userNameInput"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidAppear"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "CompanyImage"]
+- !private ["So16NSObjectProtocolP", "FIRAuth"]
+- !private ["So16NSObjectProtocolP", "UIAlertAction"]
+- !private ["So16NSObjectProtocolP", "UIAlertController"]
+- !private ["So16NSObjectProtocolP", "UIImage"]
+- !private ["So16NSObjectProtocolP", "addAction"]
+- !private ["So16NSObjectProtocolP", "auth"]
+- !private ["So16NSObjectProtocolP", "currentUser"]
+- !private ["So16NSObjectProtocolP", "delegate"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "endEditing"]
+- !private ["So16NSObjectProtocolP", "handle"]
+- !private ["So16NSObjectProtocolP", "image"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "passwordInput"]
+- !private ["So16NSObjectProtocolP", "performSegue"]
+- !private ["So16NSObjectProtocolP", "present"]
+- !private ["So16NSObjectProtocolP", "removeStateDidChangeListener"]
+- !private ["So16NSObjectProtocolP", "resignFirstResponder"]
+- !private ["So16NSObjectProtocolP", "signIn"]
+- !private ["So16NSObjectProtocolP", "text"]
+- ["So16NSObjectProtocolP", "textField"]
+- ["So16NSObjectProtocolP", "textFieldDidBeginEditing"]
+- ["So16NSObjectProtocolP", "textFieldDidEndEditing"]
+- ["So16NSObjectProtocolP", "textFieldShouldBeginEditing"]
+- ["So16NSObjectProtocolP", "textFieldShouldClear"]
+- ["So16NSObjectProtocolP", "textFieldShouldEndEditing"]
+- ["So16NSObjectProtocolP", "textFieldShouldReturn"]
+- !private ["So16NSObjectProtocolP", "userNameInput"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "alert"]
+- !private ["s16RawRepresentableP", "cancel"]
+- !private ["s8SequenceP", "init"]
+- ["6Hitcha20SignInViewControllerC", "Bool"]
+- ["6Hitcha20SignInViewControllerC", "CompanyImage"]
+- !private ["6Hitcha20SignInViewControllerC", "FIRAuth"]
+- ["6Hitcha20SignInViewControllerC", "FIRAuthStateDidChangeListenerHandle"]
+- ["6Hitcha20SignInViewControllerC", "Set"]
+- !private ["6Hitcha20SignInViewControllerC", "UIAlertAction"]
+- !private ["6Hitcha20SignInViewControllerC", "UIAlertController"]
+- ["6Hitcha20SignInViewControllerC", "UIButton"]
+- ["6Hitcha20SignInViewControllerC", "UIEvent"]
+- !private ["6Hitcha20SignInViewControllerC", "UIImage"]
+- ["6Hitcha20SignInViewControllerC", "UIImageView"]
+- ["6Hitcha20SignInViewControllerC", "UITextField"]
+- ["6Hitcha20SignInViewControllerC", "UITouch"]
+- ["6Hitcha20SignInViewControllerC", "deinit"]
+- ["6Hitcha20SignInViewControllerC", "didReceiveMemoryWarning"]
+- ["6Hitcha20SignInViewControllerC", "handle"]
+- ["6Hitcha20SignInViewControllerC", "init"]
+- ["6Hitcha20SignInViewControllerC", "logInPushed"]
+- ["6Hitcha20SignInViewControllerC", "passwordInput"]
+- !private ["6Hitcha20SignInViewControllerC", "performSegue"]
+- !private ["6Hitcha20SignInViewControllerC", "present"]
+- ["6Hitcha20SignInViewControllerC", "textField"]
+- ["6Hitcha20SignInViewControllerC", "textFieldDidBeginEditing"]
+- ["6Hitcha20SignInViewControllerC", "textFieldDidEndEditing"]
+- ["6Hitcha20SignInViewControllerC", "textFieldShouldBeginEditing"]
+- ["6Hitcha20SignInViewControllerC", "textFieldShouldClear"]
+- ["6Hitcha20SignInViewControllerC", "textFieldShouldEndEditing"]
+- ["6Hitcha20SignInViewControllerC", "textFieldShouldReturn"]
+- ["6Hitcha20SignInViewControllerC", "touchesBegan"]
+- ["6Hitcha20SignInViewControllerC", "userNameInput"]
+- !private ["6Hitcha20SignInViewControllerC", "view"]
+- ["6Hitcha20SignInViewControllerC", "viewDidAppear"]
+- ["6Hitcha20SignInViewControllerC", "viewDidLoad"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "delegate"]
+- !private ["So29UIAccessibilityIdentificationP", "endEditing"]
+- !private ["So29UIAccessibilityIdentificationP", "image"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "resignFirstResponder"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So13UIAlertActionC", "init"]
+- !private ["SC18UIAlertActionStyleO", "cancel"]
+- !private ["So17UIAlertControllerC", "addAction"]
+- !private ["So17UIAlertControllerC", "init"]
+- !private ["SC22UIAlertControllerStyleO", "alert"]
+- !private ["So12UIAppearanceP", "delegate"]
+- !private ["So12UIAppearanceP", "endEditing"]
+- !private ["So12UIAppearanceP", "image"]
+- !private ["So12UIAppearanceP", "resignFirstResponder"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "CompanyImage"]
+- !private ["So21UIAppearanceContainerP", "FIRAuth"]
+- !private ["So21UIAppearanceContainerP", "UIAlertAction"]
+- !private ["So21UIAppearanceContainerP", "UIAlertController"]
+- !private ["So21UIAppearanceContainerP", "UIImage"]
+- !private ["So21UIAppearanceContainerP", "addAction"]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "endEditing"]
+- !private ["So21UIAppearanceContainerP", "handle"]
+- !private ["So21UIAppearanceContainerP", "image"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "passwordInput"]
+- !private ["So21UIAppearanceContainerP", "performSegue"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "resignFirstResponder"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- ["So21UIAppearanceContainerP", "textField"]
+- ["So21UIAppearanceContainerP", "textFieldDidBeginEditing"]
+- ["So21UIAppearanceContainerP", "textFieldDidEndEditing"]
+- ["So21UIAppearanceContainerP", "textFieldShouldBeginEditing"]
+- ["So21UIAppearanceContainerP", "textFieldShouldClear"]
+- ["So21UIAppearanceContainerP", "textFieldShouldEndEditing"]
+- ["So21UIAppearanceContainerP", "textFieldShouldReturn"]
+- !private ["So21UIAppearanceContainerP", "userNameInput"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "CompanyImage"]
+- !private ["So18UIContentContainerP", "FIRAuth"]
+- !private ["So18UIContentContainerP", "UIAlertAction"]
+- !private ["So18UIContentContainerP", "UIAlertController"]
+- !private ["So18UIContentContainerP", "UIImage"]
+- !private ["So18UIContentContainerP", "addAction"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "handle"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "passwordInput"]
+- !private ["So18UIContentContainerP", "performSegue"]
+- !private ["So18UIContentContainerP", "present"]
+- ["So18UIContentContainerP", "textField"]
+- ["So18UIContentContainerP", "textFieldDidBeginEditing"]
+- ["So18UIContentContainerP", "textFieldDidEndEditing"]
+- ["So18UIContentContainerP", "textFieldShouldBeginEditing"]
+- ["So18UIContentContainerP", "textFieldShouldClear"]
+- ["So18UIContentContainerP", "textFieldShouldEndEditing"]
+- ["So18UIContentContainerP", "textFieldShouldReturn"]
+- !private ["So18UIContentContainerP", "userNameInput"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So30UIContentSizeCategoryAdjustingP", "delegate"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "resignFirstResponder"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "delegate"]
+- !private ["So9UIControlC", "resignFirstResponder"]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", "delegate"]
+- !private ["So17UICoordinateSpaceP", "endEditing"]
+- !private ["So17UICoordinateSpaceP", "image"]
+- !private ["So17UICoordinateSpaceP", "resignFirstResponder"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "delegate"]
+- !private ["So13UIDynamicItemP", "endEditing"]
+- !private ["So13UIDynamicItemP", "image"]
+- !private ["So13UIDynamicItemP", "resignFirstResponder"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "CompanyImage"]
+- !private ["So18UIFocusEnvironmentP", "FIRAuth"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertAction"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertController"]
+- !private ["So18UIFocusEnvironmentP", "UIImage"]
+- !private ["So18UIFocusEnvironmentP", "addAction"]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "endEditing"]
+- !private ["So18UIFocusEnvironmentP", "handle"]
+- !private ["So18UIFocusEnvironmentP", "image"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "passwordInput"]
+- !private ["So18UIFocusEnvironmentP", "performSegue"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "resignFirstResponder"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- ["So18UIFocusEnvironmentP", "textField"]
+- ["So18UIFocusEnvironmentP", "textFieldDidBeginEditing"]
+- ["So18UIFocusEnvironmentP", "textFieldDidEndEditing"]
+- ["So18UIFocusEnvironmentP", "textFieldShouldBeginEditing"]
+- ["So18UIFocusEnvironmentP", "textFieldShouldClear"]
+- ["So18UIFocusEnvironmentP", "textFieldShouldEndEditing"]
+- ["So18UIFocusEnvironmentP", "textFieldShouldReturn"]
+- !private ["So18UIFocusEnvironmentP", "userNameInput"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "delegate"]
+- !private ["So11UIFocusItemP", "endEditing"]
+- !private ["So11UIFocusItemP", "image"]
+- !private ["So11UIFocusItemP", "resignFirstResponder"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So7UIImageC", "init"]
+- !private ["So11UIImageViewC", "image"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["So10UIKeyInputP", "delegate"]
+- !private ["So10UIKeyInputP", "resignFirstResponder"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "CompanyImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "FIRAuth"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertController"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIImage"]
+- !private ["So30UIPasteConfigurationSupportingP", "addAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "endEditing"]
+- !private ["So30UIPasteConfigurationSupportingP", "handle"]
+- !private ["So30UIPasteConfigurationSupportingP", "image"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "passwordInput"]
+- !private ["So30UIPasteConfigurationSupportingP", "performSegue"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "resignFirstResponder"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- ["So30UIPasteConfigurationSupportingP", "textField"]
+- ["So30UIPasteConfigurationSupportingP", "textFieldDidBeginEditing"]
+- ["So30UIPasteConfigurationSupportingP", "textFieldDidEndEditing"]
+- ["So30UIPasteConfigurationSupportingP", "textFieldShouldBeginEditing"]
+- ["So30UIPasteConfigurationSupportingP", "textFieldShouldClear"]
+- ["So30UIPasteConfigurationSupportingP", "textFieldShouldEndEditing"]
+- ["So30UIPasteConfigurationSupportingP", "textFieldShouldReturn"]
+- !private ["So30UIPasteConfigurationSupportingP", "userNameInput"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "CompanyImage"]
+- !private ["So11UIResponderC", "FIRAuth"]
+- ["So11UIResponderC", "FIRAuthStateDidChangeListenerHandle"]
+- ["So11UIResponderC", "Set"]
+- !private ["So11UIResponderC", "UIAlertAction"]
+- !private ["So11UIResponderC", "UIAlertController"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIEvent"]
+- !private ["So11UIResponderC", "UIImage"]
+- ["So11UIResponderC", "UIImageView"]
+- ["So11UIResponderC", "UITextField"]
+- ["So11UIResponderC", "UITouch"]
+- !private ["So11UIResponderC", "addAction"]
+- !private ["So11UIResponderC", "delegate"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- !private ["So11UIResponderC", "endEditing"]
+- ["So11UIResponderC", "handle"]
+- !private ["So11UIResponderC", "image"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "logInPushed"]
+- ["So11UIResponderC", "passwordInput"]
+- !private ["So11UIResponderC", "performSegue"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "resignFirstResponder"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "textField"]
+- ["So11UIResponderC", "textFieldDidBeginEditing"]
+- ["So11UIResponderC", "textFieldDidEndEditing"]
+- ["So11UIResponderC", "textFieldShouldBeginEditing"]
+- ["So11UIResponderC", "textFieldShouldClear"]
+- ["So11UIResponderC", "textFieldShouldEndEditing"]
+- ["So11UIResponderC", "textFieldShouldReturn"]
+- ["So11UIResponderC", "touchesBegan"]
+- ["So11UIResponderC", "userNameInput"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidAppear"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "CompanyImage"]
+- !private ["So30UIResponderStandardEditActionsP", "FIRAuth"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertAction"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertController"]
+- !private ["So30UIResponderStandardEditActionsP", "UIImage"]
+- !private ["So30UIResponderStandardEditActionsP", "addAction"]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "endEditing"]
+- !private ["So30UIResponderStandardEditActionsP", "handle"]
+- !private ["So30UIResponderStandardEditActionsP", "image"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "passwordInput"]
+- !private ["So30UIResponderStandardEditActionsP", "performSegue"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "resignFirstResponder"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- ["So30UIResponderStandardEditActionsP", "textField"]
+- ["So30UIResponderStandardEditActionsP", "textFieldDidBeginEditing"]
+- ["So30UIResponderStandardEditActionsP", "textFieldDidEndEditing"]
+- ["So30UIResponderStandardEditActionsP", "textFieldShouldBeginEditing"]
+- ["So30UIResponderStandardEditActionsP", "textFieldShouldClear"]
+- ["So30UIResponderStandardEditActionsP", "textFieldShouldEndEditing"]
+- ["So30UIResponderStandardEditActionsP", "textFieldShouldReturn"]
+- !private ["So30UIResponderStandardEditActionsP", "userNameInput"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So16UIStateRestoringP", "CompanyImage"]
+- !private ["So16UIStateRestoringP", "FIRAuth"]
+- !private ["So16UIStateRestoringP", "UIAlertAction"]
+- !private ["So16UIStateRestoringP", "UIAlertController"]
+- !private ["So16UIStateRestoringP", "UIImage"]
+- !private ["So16UIStateRestoringP", "addAction"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "handle"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "passwordInput"]
+- !private ["So16UIStateRestoringP", "performSegue"]
+- !private ["So16UIStateRestoringP", "present"]
+- ["So16UIStateRestoringP", "textField"]
+- ["So16UIStateRestoringP", "textFieldDidBeginEditing"]
+- ["So16UIStateRestoringP", "textFieldDidEndEditing"]
+- ["So16UIStateRestoringP", "textFieldShouldBeginEditing"]
+- ["So16UIStateRestoringP", "textFieldShouldClear"]
+- ["So16UIStateRestoringP", "textFieldShouldEndEditing"]
+- ["So16UIStateRestoringP", "textFieldShouldReturn"]
+- !private ["So16UIStateRestoringP", "userNameInput"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So15UITextDraggableP", "delegate"]
+- !private ["So15UITextDraggableP", "resignFirstResponder"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "delegate"]
+- !private ["So15UITextDroppableP", "resignFirstResponder"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "delegate"]
+- !private ["So11UITextFieldC", "resignFirstResponder"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So19UITextFieldDelegateP", "CompanyImage"]
+- !private ["So19UITextFieldDelegateP", "FIRAuth"]
+- !private ["So19UITextFieldDelegateP", "UIAlertAction"]
+- !private ["So19UITextFieldDelegateP", "UIAlertController"]
+- !private ["So19UITextFieldDelegateP", "UIImage"]
+- !private ["So19UITextFieldDelegateP", "handle"]
+- !private ["So19UITextFieldDelegateP", "passwordInput"]
+- !private ["So19UITextFieldDelegateP", "performSegue"]
+- !private ["So19UITextFieldDelegateP", "present"]
+- ["So19UITextFieldDelegateP", "textField"]
+- ["So19UITextFieldDelegateP", "textFieldDidBeginEditing"]
+- ["So19UITextFieldDelegateP", "textFieldDidEndEditing"]
+- ["So19UITextFieldDelegateP", "textFieldShouldBeginEditing"]
+- ["So19UITextFieldDelegateP", "textFieldShouldClear"]
+- ["So19UITextFieldDelegateP", "textFieldShouldEndEditing"]
+- ["So19UITextFieldDelegateP", "textFieldShouldReturn"]
+- !private ["So19UITextFieldDelegateP", "userNameInput"]
+- !private ["So19UITextFieldDelegateP", "view"]
+- ["So19UITextFieldDelegateP", ""]
+- !private ["So11UITextInputP", "delegate"]
+- !private ["So11UITextInputP", "resignFirstResponder"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "delegate"]
+- !private ["So17UITextInputTraitsP", "resignFirstResponder"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "delegate"]
+- !private ["So34UITextPasteConfigurationSupportingP", "resignFirstResponder"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So18UITraitEnvironmentP", "CompanyImage"]
+- !private ["So18UITraitEnvironmentP", "FIRAuth"]
+- !private ["So18UITraitEnvironmentP", "UIAlertAction"]
+- !private ["So18UITraitEnvironmentP", "UIAlertController"]
+- !private ["So18UITraitEnvironmentP", "UIImage"]
+- !private ["So18UITraitEnvironmentP", "addAction"]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "endEditing"]
+- !private ["So18UITraitEnvironmentP", "handle"]
+- !private ["So18UITraitEnvironmentP", "image"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "passwordInput"]
+- !private ["So18UITraitEnvironmentP", "performSegue"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "resignFirstResponder"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- ["So18UITraitEnvironmentP", "textField"]
+- ["So18UITraitEnvironmentP", "textFieldDidBeginEditing"]
+- ["So18UITraitEnvironmentP", "textFieldDidEndEditing"]
+- ["So18UITraitEnvironmentP", "textFieldShouldBeginEditing"]
+- ["So18UITraitEnvironmentP", "textFieldShouldClear"]
+- ["So18UITraitEnvironmentP", "textFieldShouldEndEditing"]
+- ["So18UITraitEnvironmentP", "textFieldShouldReturn"]
+- !private ["So18UITraitEnvironmentP", "userNameInput"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "delegate"]
+- !private ["So6UIViewC", "endEditing"]
+- !private ["So6UIViewC", "image"]
+- !private ["So6UIViewC", "resignFirstResponder"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "CompanyImage"]
+- !private ["So16UIViewControllerC", "FIRAuth"]
+- ["So16UIViewControllerC", "FIRAuthStateDidChangeListenerHandle"]
+- ["So16UIViewControllerC", "Set"]
+- !private ["So16UIViewControllerC", "UIAlertAction"]
+- !private ["So16UIViewControllerC", "UIAlertController"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIEvent"]
+- !private ["So16UIViewControllerC", "UIImage"]
+- ["So16UIViewControllerC", "UIImageView"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", "UITouch"]
+- !private ["So16UIViewControllerC", "addAction"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "handle"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "logInPushed"]
+- ["So16UIViewControllerC", "passwordInput"]
+- !private ["So16UIViewControllerC", "performSegue"]
+- !private ["So16UIViewControllerC", "present"]
+- ["So16UIViewControllerC", "textField"]
+- ["So16UIViewControllerC", "textFieldDidBeginEditing"]
+- ["So16UIViewControllerC", "textFieldDidEndEditing"]
+- ["So16UIViewControllerC", "textFieldShouldBeginEditing"]
+- ["So16UIViewControllerC", "textFieldShouldClear"]
+- ["So16UIViewControllerC", "textFieldShouldEndEditing"]
+- ["So16UIViewControllerC", "textFieldShouldReturn"]
+- ["So16UIViewControllerC", "touchesBegan"]
+- ["So16UIViewControllerC", "userNameInput"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidAppear"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["9Alamofire14URLConvertibleP", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "delegate"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "endEditing"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "image"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "resignFirstResponder"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CompanyImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "FIRAuth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIImage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "auth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentUser"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "endEditing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "handle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "image"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "passwordInput"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeStateDidChangeListener"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resignFirstResponder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "signIn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "textField"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "textFieldDidBeginEditing"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "textFieldDidEndEditing"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "textFieldShouldBeginEditing"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "textFieldShouldClear"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "textFieldShouldEndEditing"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "textFieldShouldReturn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userNameInput"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So7FIRAuthC"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "s8SequenceP"
+- "6Hitcha20SignInViewControllerC"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So13UIAlertActionC"
+- !private "SC18UIAlertActionStyleO"
+- !private "So17UIAlertControllerC"
+- !private "SC22UIAlertControllerStyleO"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So7UIImageC"
+- !private "So11UIImageViewC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "So10UIKeyInputP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- "So19UITextFieldDelegateP"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "9Alamofire14URLConvertibleP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.swiftmodule"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/SwiftMigration/Hitcha/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/SwiftMigration/Hitcha/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadata.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihood.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlace.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSUserAddedPlace.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteTableDataSource.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompletePrediction.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Hitcha-Bridging-Header.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailPasswordAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFetcher.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteResultsViewController.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteFilter.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GooglePlaces.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceTypes.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesErrors.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/SwiftMigration/Hitcha/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacesClient.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAutocompleteMatchFragment.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSAddressComponent.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlacePhotoMetadataList.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Headers/GMSPlaceLikelihoodList.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/SwiftMigration/Hitcha/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GooglePlaces/Frameworks/GooglePlaces.framework/Modules/module.modulemap"
+- "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+interface-hash: "afcf9a0d8f9c98ed238e42649c42b68c"

@@ -1,0 +1,559 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GameViewController"
+provides-nominal:
+- "16College_Survival18GameViewControllerC"
+provides-member:
+- ["16College_Survival18GameViewControllerC", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "prefersStatusBarHidden"
+- "shouldAutorotate"
+- "supportedInterfaceOrientations"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "GKScene"
+- !private "GameScene"
+- "GameViewController"
+- !private "SKView"
+- !private "StringLiteralType"
+- !private "UIDevice"
+- "UIInterfaceOrientationMask"
+- "UIViewController"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "ignoresSiblingOrder"]
+- !private ["So15CALayerDelegateP", "presentScene"]
+- !private ["So15CALayerDelegateP", "showsFPS"]
+- !private ["So15CALayerDelegateP", "showsNodeCount"]
+- !private ["s7CVarArgP", "GKScene"]
+- !private ["s7CVarArgP", "UIDevice"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "didReceiveMemoryWarning"]
+- !private ["s7CVarArgP", "entities"]
+- !private ["s7CVarArgP", "graphs"]
+- !private ["s7CVarArgP", "ignoresSiblingOrder"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "presentScene"]
+- !private ["s7CVarArgP", "rootNode"]
+- !private ["s7CVarArgP", "scaleMode"]
+- !private ["s7CVarArgP", "showsFPS"]
+- !private ["s7CVarArgP", "showsNodeCount"]
+- !private ["s7CVarArgP", "userInterfaceIdiom"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "GKScene"]
+- !private ["s28CustomDebugStringConvertibleP", "UIDevice"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s28CustomDebugStringConvertibleP", "entities"]
+- !private ["s28CustomDebugStringConvertibleP", "graphs"]
+- !private ["s28CustomDebugStringConvertibleP", "ignoresSiblingOrder"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "presentScene"]
+- !private ["s28CustomDebugStringConvertibleP", "rootNode"]
+- !private ["s28CustomDebugStringConvertibleP", "scaleMode"]
+- !private ["s28CustomDebugStringConvertibleP", "showsFPS"]
+- !private ["s28CustomDebugStringConvertibleP", "showsNodeCount"]
+- !private ["s28CustomDebugStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "GKScene"]
+- !private ["s23CustomStringConvertibleP", "UIDevice"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "didReceiveMemoryWarning"]
+- !private ["s23CustomStringConvertibleP", "entities"]
+- !private ["s23CustomStringConvertibleP", "graphs"]
+- !private ["s23CustomStringConvertibleP", "ignoresSiblingOrder"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "presentScene"]
+- !private ["s23CustomStringConvertibleP", "rootNode"]
+- !private ["s23CustomStringConvertibleP", "scaleMode"]
+- !private ["s23CustomStringConvertibleP", "showsFPS"]
+- !private ["s23CustomStringConvertibleP", "showsNodeCount"]
+- !private ["s23CustomStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "GKScene"]
+- !private ["s9EquatableP", "UIDevice"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "all"]
+- !private ["s9EquatableP", "allButUpsideDown"]
+- !private ["s9EquatableP", "aspectFill"]
+- !private ["s9EquatableP", "current"]
+- !private ["s9EquatableP", "didReceiveMemoryWarning"]
+- !private ["s9EquatableP", "entities"]
+- !private ["s9EquatableP", "graphs"]
+- !private ["s9EquatableP", "ignoresSiblingOrder"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "phone"]
+- !private ["s9EquatableP", "presentScene"]
+- !private ["s9EquatableP", "rootNode"]
+- !private ["s9EquatableP", "scaleMode"]
+- !private ["s9EquatableP", "showsFPS"]
+- !private ["s9EquatableP", "showsNodeCount"]
+- !private ["s9EquatableP", "userInterfaceIdiom"]
+- !private ["s9EquatableP", "view"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "all"]
+- !private ["s25ExpressibleByArrayLiteralP", "allButUpsideDown"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So7GKSceneC", "entities"]
+- !private ["So7GKSceneC", "graphs"]
+- !private ["So7GKSceneC", "init"]
+- !private ["So7GKSceneC", "rootNode"]
+- !private ["So19GKSceneRootNodeTypeP", "entities"]
+- !private ["So19GKSceneRootNodeTypeP", "graphs"]
+- !private ["So19GKSceneRootNodeTypeP", "scaleMode"]
+- !private ["16College_Survival9GameSceneC", "entities"]
+- !private ["16College_Survival9GameSceneC", "graphs"]
+- !private ["16College_Survival9GameSceneC", "scaleMode"]
+- ["16College_Survival18GameViewControllerC", "Bool"]
+- !private ["16College_Survival18GameViewControllerC", "GKScene"]
+- !private ["16College_Survival18GameViewControllerC", "GameScene"]
+- !private ["16College_Survival18GameViewControllerC", "SKView"]
+- !private ["16College_Survival18GameViewControllerC", "UIDevice"]
+- ["16College_Survival18GameViewControllerC", "UIInterfaceOrientationMask"]
+- ["16College_Survival18GameViewControllerC", "deinit"]
+- ["16College_Survival18GameViewControllerC", "didReceiveMemoryWarning"]
+- ["16College_Survival18GameViewControllerC", "init"]
+- ["16College_Survival18GameViewControllerC", "prefersStatusBarHidden"]
+- ["16College_Survival18GameViewControllerC", "shouldAutorotate"]
+- ["16College_Survival18GameViewControllerC", "supportedInterfaceOrientations"]
+- !private ["16College_Survival18GameViewControllerC", "view"]
+- ["16College_Survival18GameViewControllerC", "viewDidLoad"]
+- !private ["s8HashableP", "GKScene"]
+- !private ["s8HashableP", "UIDevice"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "aspectFill"]
+- !private ["s8HashableP", "current"]
+- !private ["s8HashableP", "didReceiveMemoryWarning"]
+- !private ["s8HashableP", "entities"]
+- !private ["s8HashableP", "graphs"]
+- !private ["s8HashableP", "ignoresSiblingOrder"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "phone"]
+- !private ["s8HashableP", "presentScene"]
+- !private ["s8HashableP", "rootNode"]
+- !private ["s8HashableP", "scaleMode"]
+- !private ["s8HashableP", "showsFPS"]
+- !private ["s8HashableP", "showsNodeCount"]
+- !private ["s8HashableP", "userInterfaceIdiom"]
+- !private ["s8HashableP", "view"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "GKScene"]
+- !private ["So8NSCodingP", "UIDevice"]
+- !private ["So8NSCodingP", "didReceiveMemoryWarning"]
+- !private ["So8NSCodingP", "entities"]
+- !private ["So8NSCodingP", "graphs"]
+- !private ["So8NSCodingP", "ignoresSiblingOrder"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "presentScene"]
+- !private ["So8NSCodingP", "rootNode"]
+- !private ["So8NSCodingP", "scaleMode"]
+- !private ["So8NSCodingP", "showsFPS"]
+- !private ["So8NSCodingP", "showsNodeCount"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So9NSCopyingP", "entities"]
+- !private ["So9NSCopyingP", "graphs"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "rootNode"]
+- !private ["So9NSCopyingP", "scaleMode"]
+- !private ["So26NSExtensionRequestHandlingP", "GKScene"]
+- !private ["So26NSExtensionRequestHandlingP", "UIDevice"]
+- !private ["So26NSExtensionRequestHandlingP", "didReceiveMemoryWarning"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "GKScene"]
+- !private ["So8NSObjectC", "GameScene"]
+- !private ["So8NSObjectC", "SKView"]
+- !private ["So8NSObjectC", "UIDevice"]
+- ["So8NSObjectC", "UIInterfaceOrientationMask"]
+- !private ["So8NSObjectC", "current"]
+- ["So8NSObjectC", "didReceiveMemoryWarning"]
+- !private ["So8NSObjectC", "entities"]
+- !private ["So8NSObjectC", "graphs"]
+- !private ["So8NSObjectC", "ignoresSiblingOrder"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "prefersStatusBarHidden"]
+- !private ["So8NSObjectC", "presentScene"]
+- !private ["So8NSObjectC", "rootNode"]
+- !private ["So8NSObjectC", "scaleMode"]
+- ["So8NSObjectC", "shouldAutorotate"]
+- !private ["So8NSObjectC", "showsFPS"]
+- !private ["So8NSObjectC", "showsNodeCount"]
+- ["So8NSObjectC", "supportedInterfaceOrientations"]
+- !private ["So8NSObjectC", "userInterfaceIdiom"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "GKScene"]
+- !private ["So16NSObjectProtocolP", "UIDevice"]
+- !private ["So16NSObjectProtocolP", "current"]
+- !private ["So16NSObjectProtocolP", "didReceiveMemoryWarning"]
+- !private ["So16NSObjectProtocolP", "entities"]
+- !private ["So16NSObjectProtocolP", "graphs"]
+- !private ["So16NSObjectProtocolP", "ignoresSiblingOrder"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "presentScene"]
+- !private ["So16NSObjectProtocolP", "rootNode"]
+- !private ["So16NSObjectProtocolP", "scaleMode"]
+- !private ["So16NSObjectProtocolP", "showsFPS"]
+- !private ["So16NSObjectProtocolP", "showsNodeCount"]
+- !private ["So16NSObjectProtocolP", "userInterfaceIdiom"]
+- !private ["So16NSObjectProtocolP", "view"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s9OptionSetP", "all"]
+- !private ["s9OptionSetP", "allButUpsideDown"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s16RawRepresentableP", "all"]
+- !private ["s16RawRepresentableP", "allButUpsideDown"]
+- !private ["s16RawRepresentableP", "aspectFill"]
+- !private ["s16RawRepresentableP", "phone"]
+- !private ["So12SKEffectNodeC", "entities"]
+- !private ["So12SKEffectNodeC", "graphs"]
+- !private ["So12SKEffectNodeC", "scaleMode"]
+- !private ["So6SKNodeC", "entities"]
+- !private ["So6SKNodeC", "graphs"]
+- !private ["So6SKNodeC", "scaleMode"]
+- !private ["So7SKSceneC", "entities"]
+- !private ["So7SKSceneC", "graphs"]
+- !private ["So7SKSceneC", "scaleMode"]
+- !private ["SC16SKSceneScaleModeO", "aspectFill"]
+- !private ["So6SKViewC", "ignoresSiblingOrder"]
+- !private ["So6SKViewC", "presentScene"]
+- !private ["So6SKViewC", "showsFPS"]
+- !private ["So6SKViewC", "showsNodeCount"]
+- !private ["So10SKWarpableP", "entities"]
+- !private ["So10SKWarpableP", "graphs"]
+- !private ["So10SKWarpableP", "scaleMode"]
+- !private ["s8SequenceP", "init"]
+- !private ["s10SetAlgebraP", "all"]
+- !private ["s10SetAlgebraP", "allButUpsideDown"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "ignoresSiblingOrder"]
+- !private ["So29UIAccessibilityIdentificationP", "presentScene"]
+- !private ["So29UIAccessibilityIdentificationP", "showsFPS"]
+- !private ["So29UIAccessibilityIdentificationP", "showsNodeCount"]
+- !private ["So12UIAppearanceP", "ignoresSiblingOrder"]
+- !private ["So12UIAppearanceP", "presentScene"]
+- !private ["So12UIAppearanceP", "showsFPS"]
+- !private ["So12UIAppearanceP", "showsNodeCount"]
+- !private ["So21UIAppearanceContainerP", "GKScene"]
+- !private ["So21UIAppearanceContainerP", "UIDevice"]
+- !private ["So21UIAppearanceContainerP", "didReceiveMemoryWarning"]
+- !private ["So21UIAppearanceContainerP", "ignoresSiblingOrder"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "presentScene"]
+- !private ["So21UIAppearanceContainerP", "showsFPS"]
+- !private ["So21UIAppearanceContainerP", "showsNodeCount"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So18UIContentContainerP", "GKScene"]
+- !private ["So18UIContentContainerP", "UIDevice"]
+- !private ["So18UIContentContainerP", "didReceiveMemoryWarning"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "ignoresSiblingOrder"]
+- !private ["So17UICoordinateSpaceP", "presentScene"]
+- !private ["So17UICoordinateSpaceP", "showsFPS"]
+- !private ["So17UICoordinateSpaceP", "showsNodeCount"]
+- !private ["So8UIDeviceC", "current"]
+- !private ["So8UIDeviceC", "userInterfaceIdiom"]
+- !private ["So13UIDynamicItemP", "ignoresSiblingOrder"]
+- !private ["So13UIDynamicItemP", "presentScene"]
+- !private ["So13UIDynamicItemP", "showsFPS"]
+- !private ["So13UIDynamicItemP", "showsNodeCount"]
+- !private ["So18UIFocusEnvironmentP", "GKScene"]
+- !private ["So18UIFocusEnvironmentP", "UIDevice"]
+- !private ["So18UIFocusEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UIFocusEnvironmentP", "entities"]
+- !private ["So18UIFocusEnvironmentP", "graphs"]
+- !private ["So18UIFocusEnvironmentP", "ignoresSiblingOrder"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "presentScene"]
+- !private ["So18UIFocusEnvironmentP", "scaleMode"]
+- !private ["So18UIFocusEnvironmentP", "showsFPS"]
+- !private ["So18UIFocusEnvironmentP", "showsNodeCount"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "entities"]
+- !private ["So11UIFocusItemP", "graphs"]
+- !private ["So11UIFocusItemP", "ignoresSiblingOrder"]
+- !private ["So11UIFocusItemP", "presentScene"]
+- !private ["So11UIFocusItemP", "scaleMode"]
+- !private ["So11UIFocusItemP", "showsFPS"]
+- !private ["So11UIFocusItemP", "showsNodeCount"]
+- !private ["SC26UIInterfaceOrientationMaskV", "all"]
+- !private ["SC26UIInterfaceOrientationMaskV", "allButUpsideDown"]
+- !private ["So30UIPasteConfigurationSupportingP", "GKScene"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIDevice"]
+- !private ["So30UIPasteConfigurationSupportingP", "didReceiveMemoryWarning"]
+- !private ["So30UIPasteConfigurationSupportingP", "entities"]
+- !private ["So30UIPasteConfigurationSupportingP", "graphs"]
+- !private ["So30UIPasteConfigurationSupportingP", "ignoresSiblingOrder"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "presentScene"]
+- !private ["So30UIPasteConfigurationSupportingP", "scaleMode"]
+- !private ["So30UIPasteConfigurationSupportingP", "showsFPS"]
+- !private ["So30UIPasteConfigurationSupportingP", "showsNodeCount"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "GKScene"]
+- !private ["So11UIResponderC", "GameScene"]
+- !private ["So11UIResponderC", "SKView"]
+- !private ["So11UIResponderC", "UIDevice"]
+- ["So11UIResponderC", "UIInterfaceOrientationMask"]
+- ["So11UIResponderC", "didReceiveMemoryWarning"]
+- !private ["So11UIResponderC", "entities"]
+- !private ["So11UIResponderC", "graphs"]
+- !private ["So11UIResponderC", "ignoresSiblingOrder"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "prefersStatusBarHidden"]
+- !private ["So11UIResponderC", "presentScene"]
+- !private ["So11UIResponderC", "scaleMode"]
+- ["So11UIResponderC", "shouldAutorotate"]
+- !private ["So11UIResponderC", "showsFPS"]
+- !private ["So11UIResponderC", "showsNodeCount"]
+- ["So11UIResponderC", "supportedInterfaceOrientations"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "GKScene"]
+- !private ["So30UIResponderStandardEditActionsP", "UIDevice"]
+- !private ["So30UIResponderStandardEditActionsP", "didReceiveMemoryWarning"]
+- !private ["So30UIResponderStandardEditActionsP", "entities"]
+- !private ["So30UIResponderStandardEditActionsP", "graphs"]
+- !private ["So30UIResponderStandardEditActionsP", "ignoresSiblingOrder"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "presentScene"]
+- !private ["So30UIResponderStandardEditActionsP", "scaleMode"]
+- !private ["So30UIResponderStandardEditActionsP", "showsFPS"]
+- !private ["So30UIResponderStandardEditActionsP", "showsNodeCount"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So16UIStateRestoringP", "GKScene"]
+- !private ["So16UIStateRestoringP", "UIDevice"]
+- !private ["So16UIStateRestoringP", "didReceiveMemoryWarning"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "GKScene"]
+- !private ["So18UITraitEnvironmentP", "UIDevice"]
+- !private ["So18UITraitEnvironmentP", "didReceiveMemoryWarning"]
+- !private ["So18UITraitEnvironmentP", "ignoresSiblingOrder"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "presentScene"]
+- !private ["So18UITraitEnvironmentP", "showsFPS"]
+- !private ["So18UITraitEnvironmentP", "showsNodeCount"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["SC20UIUserInterfaceIdiomO", "phone"]
+- !private ["So6UIViewC", "ignoresSiblingOrder"]
+- !private ["So6UIViewC", "presentScene"]
+- !private ["So6UIViewC", "showsFPS"]
+- !private ["So6UIViewC", "showsNodeCount"]
+- ["So16UIViewControllerC", "Bool"]
+- !private ["So16UIViewControllerC", "GKScene"]
+- !private ["So16UIViewControllerC", "GameScene"]
+- !private ["So16UIViewControllerC", "SKView"]
+- !private ["So16UIViewControllerC", "UIDevice"]
+- ["So16UIViewControllerC", "UIInterfaceOrientationMask"]
+- ["So16UIViewControllerC", "didReceiveMemoryWarning"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "prefersStatusBarHidden"]
+- ["So16UIViewControllerC", "shouldAutorotate"]
+- ["So16UIViewControllerC", "supportedInterfaceOrientations"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", ""]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "ignoresSiblingOrder"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "presentScene"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "showsFPS"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "showsNodeCount"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GKScene"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIDevice"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "didReceiveMemoryWarning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "entities"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "graphs"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ignoresSiblingOrder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentScene"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rootNode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scaleMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showsFPS"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showsNodeCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userInterfaceIdiom"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So7GKSceneC"
+- !private "So19GKSceneRootNodeTypeP"
+- !private "16College_Survival9GameSceneC"
+- "16College_Survival18GameViewControllerC"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s9OptionSetP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "So12SKEffectNodeC"
+- !private "So6SKNodeC"
+- !private "So7SKSceneC"
+- !private "SC16SKSceneScaleModeO"
+- !private "So6SKViewC"
+- !private "So10SKWarpableP"
+- !private "s8SequenceP"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So8UIDeviceC"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "SC26UIInterfaceOrientationMaskV"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "SC20UIUserInterfaceIdiomO"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s23_BidirectionalIndexableP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SceneKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GameplayKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "e0e875eb555702c01bb8e004ee17c6a9"

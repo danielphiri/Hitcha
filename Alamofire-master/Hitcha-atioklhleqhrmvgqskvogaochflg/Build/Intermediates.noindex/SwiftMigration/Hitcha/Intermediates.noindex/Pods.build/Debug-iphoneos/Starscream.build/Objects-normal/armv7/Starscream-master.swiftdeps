@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "41f8e20a971f26f87d4d76a6d241ac25"
+build_time: [1506448225, 557444000]
+inputs:
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Starscream/Source/SSLSecurity.swift": [1493737668, 0]
+  "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Pods/Starscream/Source/WebSocket.swift": [1493737668, 0]

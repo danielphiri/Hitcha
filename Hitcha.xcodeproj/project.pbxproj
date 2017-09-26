@@ -27,7 +27,6 @@
 		946570DF1E9C1D7300B11444 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570DE1E9C1D7300B11444 /* SignInViewController.swift */; };
 		946570E51E9C1D7300B11444 /* Hitcha.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 946570E31E9C1D7300B11444 /* Hitcha.xcdatamodeld */; };
 		946570E71E9C1D7300B11444 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 946570E61E9C1D7300B11444 /* Assets.xcassets */; };
-		946570F51E9C1D7300B11444 /* HitchaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570F41E9C1D7300B11444 /* HitchaTests.swift */; };
 		946571001E9C1D7300B11444 /* HitchaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946570FF1E9C1D7300B11444 /* HitchaUITests.swift */; };
 		9465710E1E9C1E8400B11444 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9465710D1E9C1E8400B11444 /* GoogleService-Info.plist */; };
 		946571101E9C30AA00B11444 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9465710F1E9C30AA00B11444 /* MapKit.framework */; };
@@ -101,7 +100,6 @@
 		946570E61E9C1D7300B11444 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		946570EB1E9C1D7300B11444 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		946570F01E9C1D7300B11444 /* HitchaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HitchaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		946570F41E9C1D7300B11444 /* HitchaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitchaTests.swift; sourceTree = "<group>"; };
 		946570F61E9C1D7300B11444 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		946570FB1E9C1D7300B11444 /* HitchaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HitchaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		946570FF1E9C1D7300B11444 /* HitchaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HitchaUITests.swift; sourceTree = "<group>"; };
@@ -233,7 +231,6 @@
 		946570F31E9C1D7300B11444 /* HitchaTests */ = {
 			isa = PBXGroup;
 			children = (
-				946570F41E9C1D7300B11444 /* HitchaTests.swift */,
 				946570F61E9C1D7300B11444 /* Info.plist */,
 			);
 			path = HitchaTests;
@@ -373,7 +370,7 @@
 					946570D81E9C1D7300B11444 = {
 						CreatedOnToolsVersion = 8.3;
 						DevelopmentTeam = 8M62A5HCKB;
-						LastSwiftMigration = 0830;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Maps.iOS = {
@@ -384,12 +381,14 @@
 					946570EF1E9C1D7300B11444 = {
 						CreatedOnToolsVersion = 8.3;
 						DevelopmentTeam = 8M62A5HCKB;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 946570D81E9C1D7300B11444;
 					};
 					946570FA1E9C1D7300B11444 = {
 						CreatedOnToolsVersion = 8.3;
 						DevelopmentTeam = 8M62A5HCKB;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 946570D81E9C1D7300B11444;
 					};
@@ -612,7 +611,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				946570F51E9C1D7300B11444 /* HitchaTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -755,7 +753,8 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Hitcha-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -777,7 +776,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.Hitcha;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Hitcha-Bridging-Header.h";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -792,7 +792,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.HitchaTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hitcha.app/Hitcha";
 			};
 			name = Debug;
@@ -808,7 +809,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.HitchaTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hitcha.app/Hitcha";
 			};
 			name = Release;
@@ -823,7 +825,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.HitchaUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = Hitcha;
 			};
 			name = Debug;
@@ -838,7 +841,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cophiri.HitchaUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_TARGET_NAME = Hitcha;
 			};
 			name = Release;

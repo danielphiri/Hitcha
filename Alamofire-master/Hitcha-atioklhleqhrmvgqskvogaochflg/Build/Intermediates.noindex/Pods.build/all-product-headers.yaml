@@ -4,12 +4,12 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "Alamofire-Swift.h",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
         },
         {
           'type': 'file',
@@ -20,23 +20,23 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Alamofire.build/module.modulemap"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "GTMSessionFetcher-Swift.h",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
         },
         {
           'type': 'file',
@@ -67,18 +67,18 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/GTMSessionFetcher.build/module.modulemap"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -118,7 +118,7 @@
         {
           'type': 'file',
           'name': "GoogleToolboxForMac-Swift.h",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
         },
         {
           'type': 'file',
@@ -129,18 +129,18 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/GoogleToolboxForMac.build/module.modulemap"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Pods_Hitcha.framework/Headers",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Pods_Hitcha.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -150,24 +150,24 @@
         {
           'type': 'file',
           'name': "Pods_Hitcha-Swift.h",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Pods_Hitcha.framework/Headers/Pods_Hitcha-Swift.h"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Pods_Hitcha.framework/Headers/Pods_Hitcha-Swift.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Pods_Hitcha.framework/Modules",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Pods_Hitcha.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-Hitcha.build/module.modulemap"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-Hitcha.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Pods_HitchaTests.framework/Headers",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Pods_HitchaTests.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -177,24 +177,24 @@
         {
           'type': 'file',
           'name': "Pods_HitchaTests-Swift.h",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Pods_HitchaTests.framework/Headers/Pods_HitchaTests-Swift.h"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Pods_HitchaTests.framework/Headers/Pods_HitchaTests-Swift.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Pods_HitchaTests.framework/Modules",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Pods_HitchaTests.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-HitchaTests.build/module.modulemap"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-HitchaTests.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Pods_HitchaUITests.framework/Headers",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Pods_HitchaUITests.framework/Headers",
       'contents': [
         {
           'type': 'file',
@@ -204,29 +204,29 @@
         {
           'type': 'file',
           'name': "Pods_HitchaUITests-Swift.h",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Pods_HitchaUITests.framework/Headers/Pods_HitchaUITests-Swift.h"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Pods_HitchaUITests.framework/Headers/Pods_HitchaUITests-Swift.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Pods_HitchaUITests.framework/Modules",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Pods_HitchaUITests.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Pods-HitchaUITests.build/module.modulemap"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-HitchaUITests.build/module.modulemap"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Starscream/Starscream.framework/Headers",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Starscream/Starscream.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "Starscream-Swift.h",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Starscream/Starscream.framework/Headers/Starscream-Swift.h"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Starscream/Starscream.framework/Headers/Starscream-Swift.h"
         },
         {
           'type': 'file',
@@ -237,12 +237,12 @@
     },
     {
       'type': 'directory',
-      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphoneos/Starscream/Starscream.framework/Modules",
+      'name': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Products/Debug-iphonesimulator/Starscream/Starscream.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/Starscream.build/module.modulemap"
+          'external-contents': "/Users/danielphiri/Documents/iOS DeCal/Projects/Hitcha/Alamofire-master/Hitcha-atioklhleqhrmvgqskvogaochflg/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Starscream.build/module.modulemap"
         }
       ]
     }

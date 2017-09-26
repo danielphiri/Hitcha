@@ -3,8 +3,8 @@
 <plist version="1.0">
 <array>
 	<string>Foundation</string>
-	<string>CoreData</string>
 	<string>GoogleMaps</string>
+	<string>CoreData</string>
 	<string>GooglePlaces</string>
 	<string>Dispatch</string>
 	<string>Firebase</string>
@@ -27,11 +27,10 @@
 	<string>FirebaseMessaging</string>
 	<string>MobileCoreServices</string>
 	<string>FirebaseCore</string>
-	<string>CoreFoundation</string>
-	<string>Hitcha</string>
-	<string>FirebaseDynamicLinks</string>
-	<string>FirebaseStorage</string>
-	<string>FirebaseAppIndexing</string>
 	<string>FirebaseInvites</string>
+	<string>FirebaseStorage</string>
+	<string>FirebaseDynamicLinks</string>
+	<string>FirebaseAppIndexing</string>
+	<string>CoreFoundation</string>
 </array>
 </plist>
